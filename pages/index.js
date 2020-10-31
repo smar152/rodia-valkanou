@@ -9,7 +9,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1 className="title">Ροδιά Βαλκάνου</h1>
+        <div className="title">
+          <h1>Ροδιά Βαλκάνου</h1>
+        </div>
 
         <p className="description">
           Συμβουλευτική – Οργάνωση – Δημιουργία / Μενού
@@ -30,16 +32,7 @@ export default function Home() {
         </div>
       </main>
 
-      <footer>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className="logo" />
-        </a>
-      </footer>
+      <footer>Powered by</footer>
 
       <style jsx>{`
         .container {
@@ -73,51 +66,28 @@ export default function Home() {
           margin-left: 0.5rem;
         }
 
-        footer a {
-          display: flex;
-          justify-content: center;
-          align-items: center;
-        }
-
         a {
           color: inherit;
           text-decoration: none;
         }
 
-        .title a {
-          color: #0070f3;
-          text-decoration: none;
-        }
-
-        .title a:hover,
-        .title a:focus,
-        .title a:active {
-          text-decoration: underline;
+        .title,
+        .description {
+          width: 100%;
+          padding: 1rem;
         }
 
         .title {
-          margin: 0;
-          line-height: 1.15;
-          font-size: 4rem;
+          font-size: 2em;
         }
 
-        .title,
-        .description {
-          text-align: center;
+        h1 {
+          margin-block-start: 0em;
+          margin-block-end: 0em;
         }
 
         .description {
-          line-height: 1.5;
           font-size: 1.5rem;
-        }
-
-        code {
-          background: #fafafa;
-          border-radius: 5px;
-          padding: 0.75rem;
-          font-size: 1.1rem;
-          font-family: Menlo, Monaco, Lucida Console, Liberation Mono,
-            DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
         }
 
         .grid {
@@ -125,28 +95,14 @@ export default function Home() {
           align-items: center;
           justify-content: center;
           flex-wrap: wrap;
-
           max-width: 800px;
-          margin-top: 3rem;
         }
 
         .card {
-          margin: 1rem;
           flex-basis: 45%;
           padding: 1.5rem;
           text-align: left;
           color: inherit;
-          text-decoration: none;
-          border: 1px solid #eaeaea;
-          border-radius: 10px;
-          transition: color 0.15s ease, border-color 0.15s ease;
-        }
-
-        .card:hover,
-        .card:focus,
-        .card:active {
-          color: #0070f3;
-          border-color: #0070f3;
         }
 
         .card h3 {
@@ -158,10 +114,6 @@ export default function Home() {
           margin: 0;
           font-size: 1.25rem;
           line-height: 1.5;
-        }
-
-        .logo {
-          height: 1em;
         }
 
         @media (max-width: 600px) {
