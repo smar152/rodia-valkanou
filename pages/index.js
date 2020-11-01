@@ -1,6 +1,11 @@
 import Head from 'next/head';
+import Link from 'next/link';
+import { getPagesData } from '../data/pagesData.js';
 
 export default function Home() {
+  const pages = getPagesData();
+  console.log(pages);
+  Object.keys(pages).map((e) => console.log(e));
   return (
     <div className="container">
       <Head>
@@ -14,7 +19,14 @@ export default function Home() {
         </div>
 
         <p className="description">
-          Συμβουλευτική – Οργάνωση – Δημιουργία / Μενού
+          Συμβουλευτική – Οργάνωση – Δημιουργία / Μενού -
+          {Object.keys(pages).map((e) => (
+            <div>
+              <Link as={`/${pages[e].slug}`} href="ypiresies/[ypiresia]">
+                {pages[e].title}
+              </Link>
+            </div>
+          ))}
         </p>
 
         <div className="grid card">

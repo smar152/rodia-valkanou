@@ -1,12 +1,11 @@
 const pages = {
   about: {
+    slug: 'about',
     title: 'Σχετικά',
     content: (
       <div>
         <strong>Σχετικά</strong>
-        <p>
-          Γεια σου Σμαράγδα! Πείραξα το κείμενο! Μόνη μου!
-      </p>
+        <p>Γεια σου Σμαράγδα! Πείραξα το κείμενο! Μόνη μου!</p>
         <p>
           Μέσα στα 22 χρόνια διαρκούς επιχειρηματικής δραστηριότητας, η Ροδιά
           Βαλκάνου κινήθηκε σε πολλαπλούς τομείς, από τον χώρο διοργάνωσης
@@ -34,6 +33,7 @@ const pages = {
     ),
   },
   contact: {
+    slug: 'contact',
     title: 'Επικοινωνία',
     content: (
       <div>
@@ -46,7 +46,8 @@ const pages = {
       </div>
     ),
   },
-  services: {
+  ypiresies: {
+    slug: 'ypiresies',
     title: 'Υπηρεσίες',
     content: (
       <div>
@@ -64,6 +65,7 @@ const pages = {
     ),
   },
   symbouleytiki: {
+    slug: 'ypiresies/symbouleytiki',
     title: 'Συμβουλευτική',
     content: (
       <div>
@@ -108,6 +110,7 @@ const pages = {
     ),
   },
   oikonomika: {
+    slug: 'ypiresies/symbouleytiki',
     title: 'Οικονομικά',
     content: (
       <div>
@@ -139,6 +142,7 @@ const pages = {
     ),
   },
   organwsi: {
+    slug: 'ypiresies/organwsi',
     title: 'Οργάνωση',
     content: (
       <div>
@@ -182,6 +186,7 @@ const pages = {
     ),
   },
   digital: {
+    slug: 'ypiresies/digital',
     title: 'Ψηφιακά',
     content: (
       <div>
@@ -218,6 +223,7 @@ const pages = {
     ),
   },
   synergates: {
+    slug: 'ypiresies/synergates',
     title: 'Συνεργάτες',
     content: (
       <div>
