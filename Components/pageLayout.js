@@ -15,13 +15,13 @@ export default function PageLayout({ pageContent }) {
         </div>
       </div>
 
-      {/* <style jsx>
+      <style globala jsx>
         {`
           body {
             background-color: #f1f1f1;
           }
         `}
-      </style> */}
+      </style>
     </div>
   );
 }
