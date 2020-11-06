@@ -144,6 +144,7 @@ const pages = {
   organwsi: {
     slug: 'ypiresies/organwsi',
     title: 'Οργάνωση',
+    subtitle: 'Κάθε τι έχει τη θέση του.',
     content: (
       <div>
         <strong>Οικονομικά</strong>
