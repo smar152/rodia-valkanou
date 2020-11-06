@@ -2,7 +2,7 @@ import Header from './header.js';
 import Navigation from './navigation.js';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-export default function PageLayout({ title, subtitle, pageContent }) {
+export default function PageLayout({ pageTitle, pageSubtitle, pageContent }) {
   return (
     <div className="container">
       <div className="row">
@@ -12,8 +12,8 @@ export default function PageLayout({ title, subtitle, pageContent }) {
             <Navigation />
           </div>
           <div className="col-10">
-            <h2>{title}</h2>
-            <h6>{subtitle}</h6>
+            <h2>{pageTitle}</h2>
+            <h6>{pageSubtitle}</h6>
             {pageContent}
           </div>
         </div>
@@ -27,6 +27,9 @@ export default function PageLayout({ title, subtitle, pageContent }) {
           }
           .container {
             padding-top: 60px;
+          }
+          h6 {
+            font-style: italic;
           }
         `}
       </style>

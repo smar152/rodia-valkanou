@@ -10,7 +10,9 @@ export default function Organwsi() {
     <div>
       <PageLayout
         key="page"
-        pageContent={(pageTitle, pageSubtitle, pageContent)}
+        pageTitle={pageTitle}
+        pageSubtitle={pageSubtitle}
+        pageContent={pageContent}
       />
     </div>
   );
