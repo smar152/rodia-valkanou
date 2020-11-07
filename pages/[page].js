@@ -1,14 +1,14 @@
-import { useRouter } from 'next/router';
-import { getPagesData } from '../data/pagesData.js';
-import PageLayout from '../Components/pageLayout.js';
+import { useRouter } from "next/router";
+import PageLayout from "../Components/pageLayout.js";
+import { getPageData } from "../data/pagesData";
 
-export default function Page() {
+export default function Page({ pageKey }) {
   const router = useRouter();
+  // Take page key from props if it exists, otherwise from router
+  const thisPage = pageKey ? pageKey : router.query.page;
+  const pageData = getPageData(thisPage);
+  const { content, title, subtitle } = pageData;
 
-  const thisPage = router.query.page;
-  console.log(thisPage);
-
-  const { content, title, subtitle } = getPagesData()[thisPage];
   return (
     <PageLayout
       key="page"

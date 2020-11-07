@@ -1,9 +1,7 @@
-import Link from 'next/link';
-import { getPagesData } from '../data/pagesData.js';
+import Link from "next/link";
+import { pages } from "../data/pagesData.js";
 
 export default function Navigation() {
-  const pages = getPagesData();
-
   return (
     <div>
       {Object.keys(pages).map((e, index) => (
