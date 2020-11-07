@@ -5,7 +5,7 @@
   "homepage": "https://rodiavalkanou.com/",
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export && echo 'rodiavalkanou.com' > out/CNAME",
+    "build": "next build && next export && echo rodiavalkanou.com > out/CNAME",
     "deploy": "gh-pages -d out",
     "start": "next start",
     "lint": "eslint .",
