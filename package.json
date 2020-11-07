@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export && echo rodiavalkanou.com > out/CNAME && touch out/.nojekyll",
-    "deploy": "gh-pages -d out",
+    "deploy": "gh-pages -d out -t true",
     "start": "next start",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix"
