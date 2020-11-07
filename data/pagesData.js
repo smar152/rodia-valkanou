@@ -1,7 +1,7 @@
-const pages = {
+export const pages = {
   about: {
-    slug: 'about',
-    title: 'Σχετικά',
+    slug: "about",
+    title: "Σχετικά",
     content: (
       <div>
         <p>
@@ -31,9 +31,9 @@ const pages = {
     ),
   },
   symbouleytiki: {
-    slug: 'symbouleytiki',
-    title: 'Συμβουλευτική',
-    subtitle: 'Για όλα υπάρχει μια λύση.',
+    slug: "symbouleytiki",
+    title: "Συμβουλευτική",
+    subtitle: "Για όλα υπάρχει μια λύση.",
     content: (
       <div>
         <p>Από την ιδέα στο αποτέλεσμα</p>
@@ -72,9 +72,9 @@ const pages = {
     ),
   },
   organwsi: {
-    slug: 'organwsi',
-    title: 'Οργάνωση',
-    subtitle: 'Κάθε τι έχει τη θέση του.',
+    slug: "organwsi",
+    title: "Οργάνωση",
+    subtitle: "Κάθε τι έχει τη θέση του.",
     content: (
       <div>
         <p>Οργάνωση = Απόδοση</p>
@@ -112,9 +112,9 @@ const pages = {
     ),
   },
   oikonomika: {
-    slug: 'oikonomika',
-    title: 'Οικονομικά',
-    subtitle: 'Τα + και τα – της καθημερινής διαχείρισης.',
+    slug: "oikonomika",
+    title: "Οικονομικά",
+    subtitle: "Τα + και τα – της καθημερινής διαχείρισης.",
     content: (
       <div>
         <p>Πακέτο παρακολούθησης οικονομικών</p>
@@ -140,9 +140,9 @@ const pages = {
     ),
   },
   bespoke: {
-    slug: 'bespoke',
-    title: 'Bespoke Λύσεις (Πακέτα)',
-    subtitle: 'Σύγχρονες λύσεις για κάθε πλατφόρμα.',
+    slug: "bespoke",
+    title: "Bespoke Λύσεις (Πακέτα)",
+    subtitle: "Σύγχρονες λύσεις για κάθε πλατφόρμα.",
     content: (
       <div>
         <p>Στρατηγική ψηφιακού μάρκετινγκ</p>
@@ -173,9 +173,9 @@ const pages = {
     ),
   },
   synergates: {
-    slug: 'synergates',
-    title: 'Συνεργάτες',
-    subtitle: 'Αποδοτικότητα και ασφαλείες συνεργασίες',
+    slug: "synergates",
+    title: "Συνεργάτες",
+    subtitle: "Αποδοτικότητα και ασφαλείες συνεργασίες",
     content: (
       <div>
         <p>
@@ -217,8 +217,8 @@ const pages = {
     ),
   },
   contact: {
-    slug: 'contact',
-    title: 'Επικοινωνία',
+    slug: "contact",
+    title: "Επικοινωνία",
     content: (
       <div>
         <p>
@@ -230,6 +230,10 @@ const pages = {
   },
 };
 
-export function getPagesData() {
-  return pages;
+export function getPageData(key) {
+  if (key) {
+    return pages[key];
+  } else {
+    return pages.about;
+  }
 }
