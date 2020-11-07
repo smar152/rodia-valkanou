@@ -28,5 +28,6 @@ module.exports = {
     "react/prop-types": 0,
     "no-unused-vars": 0,
     "prettier/prettier": ["error", {}, { usePrettierrc: true }], // Use our .prettierrc.js file as source
+    "linebreak-style": 0,
   },
 };

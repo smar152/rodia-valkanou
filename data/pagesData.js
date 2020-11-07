@@ -1,6 +1,6 @@
 export const pages = {
   home: {
-    slug: "/",
+    slug: "",
     title: "Ευφάνταστες και αποδοτικές λύσεις για επιχειρήσεις κάθε είδους.",
     content: (
       <div>
