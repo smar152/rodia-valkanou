@@ -1,5 +1,5 @@
 import Page from "./[page]";
 
 export default function Home() {
-  return <Page pageKey="about" />;
+  return <Page pageKey="home" />;
 }
