@@ -5,7 +5,7 @@ export default function Header() {
     <div className="header">
       <Link as="/" href="/">
         <div>
-          <div className="title">
+          <div className="title link">
             <h1>Ροδιά Βαλκάνου</h1>
           </div>
           <hr />
@@ -18,6 +18,9 @@ export default function Header() {
         {`
           .title h1 {
             font-size: 48px;
+          }
+          .link {
+            cursor: pointer;
           }
         `}
       </style>
