@@ -8,10 +8,10 @@ export default function PageLayout({ pageTitle, pageSubtitle, pageContent }) {
       <div className="row">
         <Header />
         <div className="row">
-          <div className="col-2">
-            <Navigation />
+          <div className="col-3">
+            <Navigation currentPageTitle={pageTitle} />
           </div>
-          <div className="col-10">
+          <div className="col-9">
             <h2>{pageTitle}</h2>
             <h6>{pageSubtitle}</h6>
             {pageContent}
@@ -24,6 +24,7 @@ export default function PageLayout({ pageTitle, pageSubtitle, pageContent }) {
           body {
             background-color: #f1f1f1;
             font-family: Verdana;
+            color: #3e3e3e;
           }
           .container {
             padding-top: 60px;
