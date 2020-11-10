@@ -55,7 +55,7 @@ export const pages = {
     title: "Συμβουλευτική",
     subtitle: "Για όλα υπάρχει μια λύση.",
     logoSrc:
-      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/purple_cube.png",
+      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_purple_cube.png",
     content: (
       <div>
         <p>Από την ιδέα στο αποτέλεσμα</p>
@@ -104,7 +104,7 @@ export const pages = {
     title: "Οργάνωση",
     subtitle: "Κάθε τι έχει τη θέση του.",
     logoSrc:
-      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/orange_cube.png",
+      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_orange_cube.png",
     content: (
       <div>
         <p>Οργάνωση = Απόδοση</p>
@@ -150,7 +150,7 @@ export const pages = {
     title: "Οικονομικά",
     subtitle: "Τα + και τα – της καθημερινής διαχείρισης.",
     logoSrc:
-      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/yellow_cube.png",
+      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_yellow_cube.png",
     content: (
       <div>
         <p>Πακέτο παρακολούθησης οικονομικών</p>
@@ -180,7 +180,7 @@ export const pages = {
     title: "Ψηφιακά",
     subtitle: "Σύγχρονες λύσεις για κάθε πλατφόρμα.",
     logoSrc:
-      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/mauve_cube.png",
+      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_mauve_cube.png",
     content: (
       <div>
         <p>Στρατηγική ψηφιακού μάρκετινγκ</p>
@@ -214,7 +214,7 @@ export const pages = {
     title: "Συνεργασία",
     subtitle: "Αποδοτικότητα και ασφαλείες συνεργασίες",
     logoSrc:
-      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/blue_cube.png",
+      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_blue_cube.png",
     content: (
       <div>
         <p>
