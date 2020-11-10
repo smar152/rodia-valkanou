@@ -67,7 +67,7 @@ export const pages = {
         <div>
           <img
             className="w-100"
-            src="https://github.com/smar152/rodia-valkanou/raw/master/img/symbouleytiki.jpg"
+            src="https://github.com/smar152/rodia-valkanou/raw/master/img/symbouleytiki04.png"
             alt=""
           />
         </div>
@@ -115,7 +115,7 @@ export const pages = {
           για συνεχόμενη ανάπτυξη
         </p>
         <img
-          src="https://github.com/smar152/rodia-valkanou/raw/master/img/img-cycle2.jpg"
+          src="https://github.com/smar152/rodia-valkanou/raw/master/img/img-cycle2.png"
           alt=""
         />
         <p>Οργάνωση επιχειρήσεων</p>

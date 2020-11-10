@@ -10,14 +10,16 @@ export default function Navigation({ currentPageTitle }) {
         <div key={index}>
           <Link as={`/${pages[e].slug}`} href={`/${pages[e].slug}`}>
             <div
-              className={`link row mb-2 ${
+              className={`link mb-2 d-flex flex-row align-items-center  ${
                 currentPageTitle === pages[e].title ? "current" : ""
               }`}
             >
-              <div className="col-3">
-                <img src={pages[e].logoSrc} className="img-fluid" alt="cube" />
-              </div>
-              <div className="col-9">{pages[e].title}</div>
+              <img
+                src={pages[e].logoSrc}
+                className="img-fluid mr-4"
+                alt="cube"
+              />
+              <div>{pages[e].title}</div>
             </div>
           </Link>
         </div>
