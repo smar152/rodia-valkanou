@@ -5,8 +5,17 @@ export default function Header() {
     <div className="header">
       <Link as="/" href="/">
         <div>
-          <div className="title link">
-            <h1>Ροδιά Βαλκάνου</h1>
+          <div className="title link row">
+            <div className="col-1">
+              <img
+                src="https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/gray_cube.png"
+                className="img-fluid"
+                alt="logo"
+              />
+            </div>
+            <div className="col-11">
+              <h1>Ροδιά Βαλκάνου</h1>
+            </div>
           </div>
           <hr />
           <p className="description">Συμβουλευτική – Οργάνωση – Δημιουργία </p>

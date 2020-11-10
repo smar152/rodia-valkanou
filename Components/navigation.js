@@ -22,15 +22,6 @@ export default function Navigation({ currentPageTitle }) {
           </Link>
         </div>
       ))}
-      <div className="row">
-        <div className="pt-4 col-9">
-          <img
-            src="https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/gray_cube.png"
-            className="img-fluid"
-            alt="logo"
-          />
-        </div>
-      </div>
 
       <style jsx>
         {`
