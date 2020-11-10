@@ -7,8 +7,8 @@ module.exports = {
       "/symbouleytiki": { page: "/[page]" },
       "/organwsi": { page: "/[page]" },
       "/oikonomika": { page: "/[page]" },
-      "/bespoke": { page: "/[page]" },
-      "/synergates": { page: "/[page]" },
+      "/digital": { page: "/[page]" },
+      "/synergasia": { page: "/[page]" },
       "/contact": { page: "/[page]" },
     };
   },
