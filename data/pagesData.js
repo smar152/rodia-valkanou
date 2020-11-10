@@ -21,7 +21,7 @@ export const pages = {
     slug: "about",
     title: "Σχετικά",
     logoSrc:
-      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/green_cube.png",
+      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_green_cube.png",
     content: (
       <div>
         <p>
@@ -301,7 +301,7 @@ export const pages = {
     slug: "contact",
     title: "Επικοινωνία",
     logoSrc:
-      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/green_cube.png",
+      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_green_cube.png",
     content: (
       <div>
         <p>
