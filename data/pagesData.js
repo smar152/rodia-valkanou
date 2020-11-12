@@ -106,18 +106,24 @@ export const pages = {
     logoSrc:
       "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_orange_cube.png",
     content: (
-      <div>
+      <div className="">
         <p>Οργάνωση = Απόδοση</p>
-        <p>
-          Από τις ατομικές επιχειρήσεις μέχρι εκείνες με μεγάλο ανθρώπινο
-          δυναμικό, η οργάνωση είναι το χαρακτηριστικό που σε βάθος χρόνου
-          μπορεί να διατηρήσει τη σωστή λειτουργία και να χτίσει σταθερές βάσεις
-          για συνεχόμενη ανάπτυξη
-        </p>
-        <img
-          src="https://github.com/smar152/rodia-valkanou/raw/master/img/img-cycle2.png"
-          alt=""
-        />
+        <div className="d-flex align-items-center">
+          <div className="">
+            <p>
+              Από τις ατομικές επιχειρήσεις μέχρι εκείνες με μεγάλο ανθρώπινο
+              δυναμικό, η οργάνωση είναι το χαρακτηριστικό που σε βάθος χρόνου
+              μπορεί να διατηρήσει τη σωστή λειτουργία και να χτίσει σταθερές
+              βάσεις για συνεχόμενη ανάπτυξη
+            </p>
+          </div>
+          <div className="">
+            <img
+              src="https://github.com/smar152/rodia-valkanou/raw/master/img/img-cycle2.png"
+              alt=""
+            />
+          </div>
+        </div>
         <p>Οργάνωση επιχειρήσεων</p>
         <p>
           Η καλή οργάνωση οδηγεί στη βελτιστοποίηση όλων των καθημερινών
