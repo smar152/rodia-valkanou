@@ -108,7 +108,7 @@ export const pages = {
     content: (
       <div className="">
         <p>Οργάνωση = Απόδοση</p>
-        <div className="d-flex align-items-center">
+        <div className="">
           <div className="">
             <p>
               Από τις ατομικές επιχειρήσεις μέχρι εκείνες με μεγάλο ανθρώπινο
@@ -117,7 +117,7 @@ export const pages = {
               βάσεις για συνεχόμενη ανάπτυξη
             </p>
           </div>
-          <div className="">
+          <div className="floatingImage">
             <img
               src="https://github.com/smar152/rodia-valkanou/raw/master/img/img-cycle2.png"
               alt=""

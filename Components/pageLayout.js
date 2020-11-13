@@ -37,6 +37,27 @@ export default function PageLayout({ pageTitle, pageSubtitle, pageContent }) {
           h6 {
             font-style: italic;
           }
+          .floatingImage {
+            float: right;
+          }
+          svg {
+            height: 30px;
+            cursor: pointer;
+            animation: rotation 2s infinite linear;
+          }
+          .drawer {
+            z-index: 1;
+            right: 0px;
+            width: 200px;
+            top: 0px;
+            transform: translateX(400px);
+            transition-duration: 1s;
+            padding: 40px;
+            text-align: right;
+          }
+          .active {
+            transform: translateX(0px);
+          }
         `}
       </style>
     </div>

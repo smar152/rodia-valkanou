@@ -6,14 +6,14 @@ export default function Header() {
       <Link as="/" href="/">
         <div>
           <div className="title link row">
-            <div className="col-1">
+            <div className="col-4 col-md-1">
               <img
                 src="https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/gray_cube.png"
                 className="img-fluid"
                 alt="logo"
               />
             </div>
-            <div className="col-11">
+            <div className="col-8 col-md-11">
               <h1>Ροδιά Βαλκάνου</h1>
             </div>
           </div>
