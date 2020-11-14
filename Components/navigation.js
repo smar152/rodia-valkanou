@@ -9,6 +9,7 @@ export default function Navigation({ currentPageTitle }) {
 
   const closeMenu = () => {
     setOpen(false);
+    console.log("close menu");
   };
   const toggleMenu = () => {
     setOpen(!isOpen);
@@ -17,12 +18,8 @@ export default function Navigation({ currentPageTitle }) {
   const MenuLinks = () => (
     <>
       {menuItems.map((e, index) => (
-        <div key={index}>
-          <Link
-            as={`/${pages[e].slug}`}
-            href={`/${pages[e].slug}`}
-            onClick={closeMenu}
-          >
+        <div key={index} onClick={closeMenu}>
+          <Link as={`/${pages[e].slug}`} href={`/${pages[e].slug}`}>
             <div
               className={`link mb-2 d-flex flex-row align-items-center  ${
                 currentPageTitle === pages[e].title ? "current" : ""
