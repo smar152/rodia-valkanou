@@ -1,5 +1,5 @@
 import Header from "./header.js";
-import Navigation from "./navigation.js";
+import DesktopNavigation from "./DesktopNavigation.js";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 export default function PageLayout({ pageTitle, pageSubtitle, pageContent }) {
@@ -12,7 +12,10 @@ export default function PageLayout({ pageTitle, pageSubtitle, pageContent }) {
       </div>
       <div className="row">
         <div className="col-12 col-md-3">
-          <Navigation currentPageTitle={pageTitle} />
+          <DesktopNavigation
+            currentPageTitle={pageTitle}
+            className="d-none d-md-block"
+          />
         </div>
         <div className="col-12 col-md-9">
           <h2>{pageTitle}</h2>
