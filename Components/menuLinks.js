@@ -16,7 +16,7 @@ export default function MenuLinks({ currentPageTitle, closeMenu }) {
             >
               <img
                 src={pages[e].logoSrc}
-                className="img-fluid mr-4"
+                className="img-md-fluid mr-4 menuCube"
                 alt="cube"
               />
               <div>{pages[e].title}</div>

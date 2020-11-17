@@ -1,5 +1,6 @@
 import Header from "./header.js";
 import DesktopNavigation from "./DesktopNavigation.js";
+import PhoneNavigation from "./PhoneNavigation.js";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 export default function PageLayout({ pageTitle, pageSubtitle, pageContent }) {
@@ -16,6 +17,12 @@ export default function PageLayout({ pageTitle, pageSubtitle, pageContent }) {
             currentPageTitle={pageTitle}
             className="d-none d-md-block"
           />
+          <div className="phoneNav">
+            <PhoneNavigation
+              currentPageTitle={pageTitle}
+              className="d-md-none d-block"
+            />
+          </div>
         </div>
         <div className="col-12 col-md-9">
           <h2>{pageTitle}</h2>
@@ -56,10 +63,20 @@ export default function PageLayout({ pageTitle, pageSubtitle, pageContent }) {
             transform: translateX(400px);
             transition-duration: 1s;
             padding: 40px;
+            padding-left: 20px;
             text-align: right;
           }
           .active {
             transform: translateX(0px);
+          }
+          .phoneNav {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: hsl(10, 10%, 80%);
+            padding-bottom: 10px;
+            border-radius: 5px;
+            z-index: 1;
           }
         `}
       </style>
