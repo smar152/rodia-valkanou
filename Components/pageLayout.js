@@ -24,7 +24,7 @@ export default function PageLayout({ pageTitle, pageSubtitle, pageContent }) {
             />
           </div>
         </div>
-        <div className="col-12 col-md-9">
+        <div className="col-12 col-md-9 content">
           <h2>{pageTitle}</h2>
           <h6>{pageSubtitle}</h6>
           {pageContent}
@@ -58,12 +58,13 @@ export default function PageLayout({ pageTitle, pageSubtitle, pageContent }) {
           .drawer {
             z-index: 1;
             right: 0px;
-            width: 200px;
+            width: 240px;
             top: 0px;
             transform: translateX(400px);
             transition-duration: 1s;
             padding: 40px;
-            padding-left: 20px;
+            padding-left: 35px;
+            padding-right: 80px;
             text-align: right;
           }
           .active {
@@ -74,9 +75,13 @@ export default function PageLayout({ pageTitle, pageSubtitle, pageContent }) {
             bottom: 20px;
             right: 20px;
             background-color: hsl(10, 10%, 80%);
+            padding-left: 0px;
             padding-bottom: 10px;
             border-radius: 5px;
             z-index: 1;
+          }
+          .content {
+            margin-bottom: 70px;
           }
         `}
       </style>
