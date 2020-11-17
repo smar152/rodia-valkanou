@@ -62,8 +62,8 @@ export default function PageLayout({ pageTitle, pageSubtitle, pageContent }) {
             top: 0px;
             transform: translateX(400px);
             transition-duration: 1s;
-            padding: 40px;
-            padding-left: 35px;
+            padding: 35px;
+            padding-top: 40px;
             padding-right: 80px;
             text-align: right;
           }
@@ -75,8 +75,9 @@ export default function PageLayout({ pageTitle, pageSubtitle, pageContent }) {
             bottom: 20px;
             right: 20px;
             background-color: hsl(10, 10%, 80%);
-            padding-left: 0px;
-            padding-bottom: 10px;
+            padding-left: 5px;
+            padding-right: 5px;
+            padding-bottom: 15px;
             border-radius: 5px;
             z-index: 1;
           }
