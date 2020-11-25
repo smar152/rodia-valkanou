@@ -27,7 +27,7 @@ export default function PhoneNavigation() {
         </svg>
       </div>
       <div
-        className={`drawer col-2 d-md-none  ${
+        className={`drawer col-12 d-md-none  ${
           isOpen ? "active d-flex flex-column" : "d-none"
         }`}
       >

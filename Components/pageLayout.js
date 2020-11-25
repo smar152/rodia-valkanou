@@ -74,7 +74,7 @@ export default function PageLayout({ pageTitle, pageSubtitle, pageContent }) {
             position: fixed;
             bottom: 20px;
             right: 20px;
-            background-color: hsl(10, 10%, 80%);
+            background-color: hsl(10, 0%, 80%);
             padding-left: 5px;
             padding-right: 5px;
             padding-bottom: 15px;
