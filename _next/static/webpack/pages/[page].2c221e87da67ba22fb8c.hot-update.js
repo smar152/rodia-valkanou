@@ -1,0 +1,888 @@
+webpackHotUpdate_N_E("pages/[page]",{
+
+/***/ "./data/pagesData.js":
+/*!***************************!*\
+  !*** ./data/pagesData.js ***!
+  \***************************/
+/*! exports provided: pages, getPageData */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* WEBPACK VAR INJECTION */(function(module) {/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "pages", function() { return pages; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "getPageData", function() { return getPageData; });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+var _jsxFileName = "D:\\_Work\\_Unpaid\\Others\\rodia-valkanou\\data\\pagesData.js";
+
+var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
+var pages = {
+  home: {
+    slug: "",
+    title: "Ευφάνταστες και αποδοτικές λύσεις για επιχειρήσεις κάθε είδους.",
+    content: __jsx("div", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 6,
+        columnNumber: 7
+      }
+    }, __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 7,
+        columnNumber: 9
+      }
+    }, "\u039A\u03B1\u03BB\u03CE\u03C2 \u03AE\u03C1\u03B8\u03B1\u03C4\u03B5 \u03C3\u03C4\u03BF \u03B5\u03C0\u03CC\u03BC\u03B5\u03BD\u03BF \u03B2\u03AE\u03BC\u03B1 \u03C4\u03B7\u03C2 \u03B5\u03C0\u03B9\u03C7\u03B5\u03B9\u03C1\u03B7\u03BC\u03B1\u03C4\u03B9\u03BA\u03AE\u03C2 \u03C3\u03B1\u03C2 \u03BF\u03C1\u03B3\u03AC\u03BD\u03C9\u03C3\u03B7\u03C2!"), __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 8,
+        columnNumber: 9
+      }
+    }, "\u039A\u03AC\u03B8\u03B5 \u03BA\u03AF\u03BD\u03B7\u03C3\u03B7 \u03C3\u03C4\u03BF\u03BD \u03B1\u03C7\u03B1\u03BD\u03AE \u03B5\u03C0\u03B9\u03C7\u03B5\u03B9\u03C1\u03B7\u03BC\u03B1\u03C4\u03B9\u03BA\u03CC \u03BA\u03CC\u03C3\u03BC\u03BF \u03B5\u03C0\u03B9\u03C4\u03C5\u03B3\u03C7\u03AC\u03BD\u03B5\u03B9 \u03C4\u03BF\u03BD \u03C3\u03C4\u03CC\u03C7\u03BF \u03C4\u03B7\u03C2 \u03BC\u03CC\u03BD\u03BF \u03B5\u03AC\u03BD \u03B2\u03B1\u03C3\u03AF\u03B6\u03B5\u03C4\u03B1\u03B9 \u03C3\u03B5 \u03C0\u03C1\u03B1\u03B3\u03BC\u03B1\u03C4\u03B9\u03BA\u03AE \u03BF\u03C5\u03C3\u03AF\u03B1 \u03BA\u03B1\u03B9 \u03C3\u03C4\u03B7\u03C1\u03AF\u03B6\u03B5\u03C4\u03B1\u03B9 \u03C3\u03B5 \u03C3\u03C4\u03B9\u03B2\u03B1\u03C1\u03AC \u03BF\u03C1\u03B3\u03B1\u03BD\u03C9\u03BC\u03AD\u03BD\u03BF \u03C0\u03BB\u03B1\u03AF\u03C3\u03B9\u03BF."), __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 13,
+        columnNumber: 9
+      }
+    }, "\u039F\u03B9 \u03C5\u03C0\u03B7\u03C1\u03B5\u03C3\u03AF\u03B5\u03C2 \u03C0\u03BF\u03C5 \u03C0\u03C1\u03BF\u03C3\u03C6\u03AD\u03C1\u03BF\u03BD\u03C4\u03B1\u03B9 \u03B2\u03B1\u03C3\u03AF\u03B6\u03BF\u03BD\u03C4\u03B1\u03B9 \u03C3\u03C4\u03B7 \u03C3\u03C5\u03BD\u03AD\u03C0\u03B5\u03B9\u03B1, \u03C4\u03B7 \u03B4\u03B5\u03BF\u03BD\u03C4\u03BF\u03BB\u03BF\u03B3\u03AF\u03B1, \u03C4\u03BF \u03B1\u03B9\u03C3\u03B8\u03B7\u03C4\u03B9\u03BA\u03CC \u03BA\u03C1\u03B9\u03C4\u03AE\u03C1\u03B9\u03BF, \u03C4\u03B7\u03BD \u03B1\u03C0\u03BF\u03C4\u03B5\u03BB\u03B5\u03C3\u03BC\u03B1\u03C4\u03B9\u03BA\u03CC\u03C4\u03B7\u03C4\u03B1 \u03BA\u03B1\u03B9 \u03B5\u03BC\u03C0\u03B9\u03C3\u03C4\u03B5\u03C5\u03C4\u03B9\u03BA\u03CC\u03C4\u03B7\u03C4\u03B1."))
+  },
+  about: {
+    slug: "about",
+    title: "Σχετικά",
+    logoSrc: "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_green_cube.png",
+    content: __jsx("div", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 26,
+        columnNumber: 7
+      }
+    }, __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 27,
+        columnNumber: 9
+      }
+    }, "\u039C\u03AD\u03C3\u03B1 \u03C3\u03C4\u03B1 22 \u03C7\u03C1\u03CC\u03BD\u03B9\u03B1 \u03B4\u03B9\u03B1\u03C1\u03BA\u03BF\u03CD\u03C2 \u03B5\u03C0\u03B9\u03C7\u03B5\u03B9\u03C1\u03B7\u03BC\u03B1\u03C4\u03B9\u03BA\u03AE\u03C2 \u03B4\u03C1\u03B1\u03C3\u03C4\u03B7\u03C1\u03B9\u03CC\u03C4\u03B7\u03C4\u03B1\u03C2, \u03B7 \u03A1\u03BF\u03B4\u03B9\u03AC \u0392\u03B1\u03BB\u03BA\u03AC\u03BD\u03BF\u03C5 \u03BA\u03B9\u03BD\u03AE\u03B8\u03B7\u03BA\u03B5 \u03C3\u03B5 \u03C0\u03BF\u03BB\u03BB\u03B1\u03C0\u03BB\u03BF\u03CD\u03C2 \u03C4\u03BF\u03BC\u03B5\u03AF\u03C2, \u03B1\u03C0\u03CC \u03C4\u03BF\u03BD \u03C7\u03CE\u03C1\u03BF \u03B4\u03B9\u03BF\u03C1\u03B3\u03AC\u03BD\u03C9\u03C3\u03B7\u03C2 \u03C3\u03C5\u03BD\u03B1\u03C5\u03BB\u03B9\u03CE\u03BD, \u03B5\u03BA\u03B4\u03CC\u03C3\u03B5\u03B9\u03C2, \u03B5\u03C0\u03B9\u03C7\u03B5\u03B9\u03C1\u03B7\u03BC\u03B1\u03C4\u03B9\u03BA\u03AC \u03B4\u03CE\u03C1\u03B1 \u03BC\u03AD\u03C7\u03C1\u03B9 \u03B4\u03B7\u03BC\u03B9\u03BF\u03C5\u03C1\u03B3\u03AF\u03B1 \u03B9\u03C3\u03C4\u03BF\u03C4\u03CC\u03C0\u03C9\u03BD \u03BA\u03B1\u03B9 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03CE\u03BD \u03B4\u03B9\u03B1\u03B4\u03B9\u03BA\u03C4\u03CD\u03BF\u03C5, \u03BA\u03B5\u03B9\u03BC\u03B5\u03BD\u03BF\u03B3\u03C1\u03AC\u03C6\u03B7\u03C3\u03B7 \u03BA\u03B1\u03B9 \u03B4\u03B9\u03B1\u03C7\u03B5\u03AF\u03C1\u03B9\u03C3\u03B7 \u03B5\u03C4\u03B1\u03B9\u03C1\u03B9\u03BA\u03CE\u03BD social media \u03BB\u03BF\u03B3\u03B1\u03C1\u03B9\u03B1\u03C3\u03BC\u03CE\u03BD, \u03BB\u03BF\u03B3\u03B9\u03C3\u03C4\u03B9\u03BA\u03AC & \u03BF\u03B9\u03BA\u03BF\u03BD\u03BF\u03BC\u03B9\u03BA\u03AE \u03B4\u03B9\u03B1\u03C7\u03B5\u03AF\u03C1\u03B9\u03C3\u03B7 \u03B5\u03C4\u03B1\u03B9\u03C1\u03B5\u03B9\u03CE\u03BD \u03BA\u03B1\u03B9 management."), __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 35,
+        columnNumber: 9
+      }
+    }, "\u039C\u03B5\u03C1\u03B9\u03BA\u03AD\u03C2 \u03B1\u03C0\u03CC \u03C4\u03B9\u03C2 \u03B4\u03B5\u03BE\u03B9\u03CC\u03C4\u03B7\u03C4\u03B5\u03C2 \u03C0\u03BF\u03C5 \u03AD\u03C7\u03BF\u03C5\u03BD \u03BA\u03B1\u03C4\u03B1\u03BA\u03C4\u03B7\u03B8\u03B5\u03AF \u03BC\u03AD\u03C3\u03B1 \u03B1\u03C0\u03CC \u03C0\u03BF\u03BB\u03CD\u03C7\u03C1\u03BF\u03BD\u03B7 \u03B5\u03BC\u03C0\u03B5\u03B9\u03C1\u03AF\u03B1 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B7 \u03B4\u03C5\u03BD\u03B1\u03C4\u03CC\u03C4\u03B7\u03C4\u03B1 \u03B5\u03C0\u03BF\u03C0\u03C4\u03B9\u03BA\u03BF\u03CD \u03B5\u03BB\u03AD\u03B3\u03C7\u03BF\u03C5 \u03C3\u03C4\u03B7\u03BD \u03B1\u03BD\u03AC\u03C0\u03C4\u03C5\u03BE\u03B7 \u03C0\u03BF\u03BB\u03BB\u03B1\u03C0\u03BB\u03CE\u03BD \u03C0\u03B5\u03B4\u03AF\u03C9\u03BD \u03BA\u03B1\u03B9 \u03C3\u03C5\u03BD\u03B5\u03C1\u03B3\u03B1\u03C3\u03B9\u03CE\u03BD \u03BA\u03B1\u03B9 \u03B7 \u03B4\u03C5\u03BD\u03B1\u03BC\u03B9\u03BA\u03AE \u03BA\u03B1\u03B8\u03BF\u03B4\u03AE\u03B3\u03B7\u03C3\u03B7 \u03BF\u03BC\u03AC\u03B4\u03C9\u03BD \u03BC\u03B5 \u03B9\u03B4\u03B1\u03BD\u03B9\u03BA\u03AE \u03B4\u03B9\u03B1\u03C7\u03B5\u03AF\u03C1\u03B9\u03C3\u03B7 \u03C7\u03C1\u03BF\u03BD\u03B9\u03BA\u03CE\u03BD \u03BF\u03C1\u03AF\u03C9\u03BD. \u0395\u03BE\u03AF\u03C3\u03BF\u03C5 \u03C3\u03B7\u03BC\u03B1\u03BD\u03C4\u03B9\u03BA\u03AD\u03C2 \u03B7 \u03C0\u03C1\u03BF\u03C3\u03B1\u03C1\u03BC\u03BF\u03C3\u03C4\u03B9\u03BA\u03CC\u03C4\u03B7\u03C4\u03B1 \u03BA\u03B1\u03B9 \u03B7 \u03C0\u03C1\u03BF\u03C3\u03AE\u03BB\u03C9\u03C3\u03B7 \u03C3\u03B5 \u03B8\u03B5\u03C4\u03B9\u03BA\u03AC \u03B1\u03C0\u03BF\u03C4\u03B5\u03BB\u03AD\u03C3\u03BC\u03B1\u03C4\u03B1, \u03B7 \u03C3\u03C5\u03BD\u03AD\u03C0\u03B5\u03B9\u03B1 \u03BA\u03B1\u03B9 \u03B7 \u03B5\u03C0\u03B9\u03C4\u03C5\u03C7\u03AE\u03C2 \u03C3\u03C5\u03BD\u03B5\u03C1\u03B3\u03B1\u03C3\u03AF\u03B1 \u03BC\u03B5 \u03AC\u03BB\u03BB\u03BF\u03C5\u03C2."), __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 43,
+        columnNumber: 9
+      }
+    }, "\u03A3\u03B5 \u03BA\u03AC\u03B8\u03B5 \u03C4\u03BF\u03BC\u03AD\u03B1 \u03B5\u03BD\u03B1\u03C3\u03C7\u03CC\u03BB\u03B7\u03C3\u03B7\u03C2, \u03BE\u03B5\u03C7\u03CE\u03C1\u03B9\u03B6\u03B5 \u03C0\u03AC\u03BD\u03C4\u03B1 \u03B7 \u03BF\u03C1\u03B3\u03B1\u03BD\u03C9\u03C4\u03B9\u03BA\u03AE \u03BA\u03B1\u03B9 \u03B5\u03C0\u03BF\u03C0\u03C4\u03B9\u03BA\u03AE \u03B9\u03BA\u03B1\u03BD\u03CC\u03C4\u03B7\u03C4\u03B1, \u03B7 \u03BF\u03C0\u03BF\u03AF\u03B1 \u03BC\u03AD\u03C3\u03B1 \u03B1\u03C0\u03CC \u03C4\u03B7\u03BD \u03B5\u03BC\u03C0\u03B5\u03B9\u03C1\u03AF\u03B1 \u03B4\u03BF\u03BC\u03AE\u03B8\u03B7\u03BA\u03B5 \u03C9\u03C2 \u03B7 \u03BA\u03C5\u03C1\u03AF\u03B1\u03C1\u03C7\u03B7 \u03B5\u03C0\u03B1\u03B3\u03B3\u03B5\u03BB\u03BC\u03B1\u03C4\u03B9\u03BA\u03AE \u03BA\u03B1\u03C4\u03B5\u03CD\u03B8\u03C5\u03BD\u03C3\u03AE \u03C4\u03B7\u03C2. \u0397 \u03B4\u03C5\u03BD\u03B1\u03C4\u03CC\u03C4\u03B7\u03C4\u03B1 \u03C4\u03B7\u03C2 \u03C8\u03CD\u03C7\u03C1\u03B1\u03B9\u03BC\u03B7\u03C2 \u03C0\u03C1\u03BF\u03C3\u03AD\u03B3\u03B3\u03B9\u03C3\u03B7\u03C2 \u03BA\u03AC\u03B8\u03B5 \u03C0\u03C1\u03BF\u03B2\u03BB\u03AE\u03BC\u03B1\u03C4\u03BF\u03C2 \u03BA\u03B1\u03B9 \u03B7 \u03B2\u03B5\u03B2\u03B1\u03B9\u03CC\u03C4\u03B7\u03C4\u03B1 \u03C0\u03B1\u03C1\u03B1\u03B3\u03C9\u03B3\u03AE\u03C2 \u03B5\u03C5\u03C6\u03AC\u03BD\u03C4\u03B1\u03C3\u03C4\u03C9\u03BD \u03BB\u03CD\u03C3\u03B5\u03C9\u03BD \u03B5\u03AF\u03BD\u03B1\u03B9 \u03BA\u03C5\u03C1\u03AF\u03B1\u03C1\u03C7\u03BF \u03C3\u03C5\u03C3\u03C4\u03B1\u03C4\u03B9\u03BA\u03CC \u03BA\u03AC\u03B8\u03B5 \u03C4\u03B7\u03C2 \u03C3\u03C5\u03BD\u03B5\u03C1\u03B3\u03B1\u03C3\u03AF\u03B1\u03C2."))
+  },
+  symbouleytiki: {
+    slug: "symbouleytiki",
+    title: "Συμβουλευτική",
+    subtitle: "Για όλα υπάρχει μια λύση.",
+    logoSrc: "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_purple_cube.png",
+    content: __jsx("div", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 60,
+        columnNumber: 7
+      }
+    }, __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 61,
+        columnNumber: 9
+      }
+    }, "\u0391\u03C0\u03CC \u03C4\u03B7\u03BD \u03B9\u03B4\u03AD\u03B1 \u03C3\u03C4\u03BF \u03B1\u03C0\u03BF\u03C4\u03AD\u03BB\u03B5\u03C3\u03BC\u03B1"), __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 62,
+        columnNumber: 9
+      }
+    }, "\u039C\u03B5 \u03C4\u03B7 \u03B4\u03B7\u03BC\u03B9\u03BF\u03C5\u03C1\u03B3\u03AF\u03B1 \u03BE\u03B5\u03BA\u03AC\u03B8\u03B1\u03C1\u03C9\u03BD \u03C3\u03C4\u03CC\u03C7\u03C9\u03BD, \u03C4\u03B7 \u03C3\u03B1\u03C6\u03AE \u03C7\u03B1\u03C1\u03C4\u03BF\u03B3\u03C1\u03AC\u03C6\u03B7\u03C3\u03B7 \u03C4\u03B7\u03C2 \u03C0\u03BF\u03C1\u03B5\u03AF\u03B1\u03C2 \u03BA\u03B1\u03B9 \u03C4\u03B7\u03BD \u03B1\u03BD\u03AC\u03C0\u03C4\u03C5\u03BE\u03B7 \u03C4\u03C9\u03BD \u03B9\u03B4\u03B1\u03BD\u03B9\u03BA\u03CE\u03BD \u03B5\u03C1\u03B3\u03B1\u03BB\u03B5\u03AF\u03C9\u03BD, \u03C4\u03BF \u03B5\u03C0\u03B9\u03C4\u03C5\u03C7\u03B7\u03BC\u03AD\u03BD\u03BF \u03B1\u03C0\u03BF\u03C4\u03AD\u03BB\u03B5\u03C3\u03BC\u03B1 \u03B8\u03B1 \u03BC\u03C0\u03BF\u03C1\u03B5\u03AF \u03BD\u03B1 \u03B4\u03B9\u03B1\u03C4\u03B7\u03C1\u03B7\u03B8\u03B5\u03AF \u03BA\u03B1\u03B9 \u03BD\u03B1 \u03C3\u03C5\u03BD\u03B5\u03C7\u03AF\u03C3\u03B5\u03B9 \u03BD\u03B1 \u03B5\u03BE\u03B5\u03BB\u03AF\u03C3\u03C3\u03B5\u03C4\u03B1\u03B9."), __jsx("div", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 67,
+        columnNumber: 9
+      }
+    }, __jsx("img", {
+      className: "w-100",
+      src: "https://github.com/smar152/rodia-valkanou/raw/master/img/symbouleytiki04.png",
+      alt: "",
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 68,
+        columnNumber: 11
+      }
+    })), __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 74,
+        columnNumber: 9
+      }
+    }, "\u03A0\u03C1\u03BF\u03C4\u03AC\u03C3\u03B5\u03B9\u03C2 \u03BB\u03CD\u03C3\u03B5\u03C9\u03BD \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03AC\u03BC\u03B5\u03C3\u03B7 \u03B2\u03B5\u03BB\u03C4\u03AF\u03C9\u03C3\u03B7 \u03C4\u03B7\u03C2 \u03BA\u03B1\u03B8\u03B7\u03BC\u03B5\u03C1\u03B9\u03BD\u03AE\u03C2 \u03BB\u03B5\u03B9\u03C4\u03BF\u03C5\u03C1\u03B3\u03AF\u03B1\u03C2 \u03C4\u03B7\u03C2 \u03B5\u03C0\u03B9\u03C7\u03B5\u03AF\u03C1\u03B7\u03C3\u03B7\u03C2 \u03B1\u03BB\u03BB\u03AC \u03BA\u03B1\u03B9 \u03C4\u03B7\u03C2 \u03C3\u03C5\u03BD\u03BF\u03BB\u03B9\u03BA\u03AE\u03C2 \u03C3\u03C4\u03C1\u03B1\u03C4\u03B7\u03B3\u03B9\u03BA\u03AE\u03C2 \u03C4\u03B7\u03C2 \u03BA\u03B1\u03C4\u03B5\u03CD\u03B8\u03C5\u03BD\u03C3\u03B7\u03C2. \u0391\u03CD\u03BE\u03B7\u03C3\u03B7 \u03C4\u03B7\u03C2 \u03C0\u03B1\u03C1\u03B1\u03B3\u03C9\u03B3\u03B9\u03BA\u03CC\u03C4\u03B7\u03C4\u03B1\u03C2 \u03BA\u03B1\u03B9 \u03B1\u03BD\u03C4\u03B1\u03B3\u03C9\u03BD\u03B9\u03C3\u03C4\u03B9\u03BA\u03CC\u03C4\u03B7\u03C4\u03B1\u03C2."), __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 79,
+        columnNumber: 9
+      }
+    }, "\u03A7\u03B1\u03C1\u03B1\u03BA\u03C4\u03B7\u03C1\u03B9\u03C3\u03BC\u03CC\u03C2 \u03B1\u03BE\u03B9\u03CE\u03BD \u03BA\u03B1\u03B9 \u03BF\u03C1\u03AC\u03BC\u03B1\u03C4\u03BF\u03C2 (vision / mission statements)", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 81,
+        columnNumber: 11
+      }
+    }), "\u0394\u03B7\u03BC\u03B9\u03BF\u03C5\u03C1\u03B3\u03AF\u03B1 \u03B5\u03C0\u03B9\u03C7\u03B5\u03B9\u03C1\u03B7\u03BC\u03B1\u03C4\u03B9\u03BA\u03AE\u03C2 \u03C3\u03C4\u03C1\u03B1\u03C4\u03B7\u03B3\u03B9\u03BA\u03AE\u03C2", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 83,
+        columnNumber: 11
+      }
+    }), "\u0395\u03C0\u03B9\u03C7\u03B5\u03B9\u03C1\u03B7\u03BC\u03B1\u03C4\u03B9\u03BA\u03CC \u03C0\u03BB\u03AC\u03BD\u03BF", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 85,
+        columnNumber: 11
+      }
+    }), "\u03A3\u03C4\u03C1\u03B1\u03C4\u03B7\u03B3\u03B9\u03BA\u03AD\u03C2 \u03BC\u03B5\u03BB\u03AD\u03C4\u03B5\u03C2:", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 87,
+        columnNumber: 11
+      }
+    }), "\u039B\u03B5\u03B9\u03C4\u03BF\u03C5\u03C1\u03B3\u03AF\u03B1\u03C2 \u03B5\u03C0\u03B9\u03C7\u03B5\u03AF\u03C1\u03B7\u03C3\u03B7\u03C2 & \u03B1\u03BD\u03C4\u03B1\u03B3\u03C9\u03BD\u03B9\u03C3\u03C4\u03CE\u03BD", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 89,
+        columnNumber: 11
+      }
+    }), "Workflow & time management"), __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 92,
+        columnNumber: 9
+      }
+    }, "\u039F\u03B9 \u03B1\u03BE\u03B9\u03B1\u03BA\u03BF\u03AF \u03C0\u03C5\u03BB\u03CE\u03BD\u03B5\u03C2 \u03C0\u03BF\u03C5 \u03BF\u03C1\u03AF\u03B6\u03BF\u03BD\u03C4\u03B1\u03B9 \u03B5\u03BE \u03B1\u03C1\u03C7\u03AE\u03C2, \u03B4\u03B9\u03B1\u03C4\u03C1\u03AD\u03C7\u03BF\u03C5\u03BD \u03CC\u03BB\u03B1 \u03C4\u03B1 \u03B5\u03C0\u03AF\u03C0\u03B5\u03B4\u03B1 \u03BB\u03B5\u03B9\u03C4\u03BF\u03C5\u03C1\u03B3\u03AF\u03B1\u03C2 \u03BC\u03B9\u03B1\u03C2 \u03B5\u03C0\u03B9\u03C7\u03B5\u03AF\u03C1\u03B7\u03C3\u03B7\u03C2 \u03BA\u03B1\u03B9 \u03BB\u03B5\u03B9\u03C4\u03BF\u03C5\u03C1\u03B3\u03BF\u03CD\u03BD \u03C9\u03C2 \u03B2\u03AC\u03C3\u03B7 \u03B3\u03B9\u03B1 \u03CC\u03BB\u03B5\u03C2 \u03C4\u03B9\u03C2 \u03B4\u03C1\u03AC\u03C3\u03B5\u03B9\u03C2, \u03C4\u03B9\u03C2 \u03B5\u03BD\u03AD\u03C1\u03B3\u03B5\u03B9\u03B5\u03C2 \u03BA\u03B1\u03B9 \u03C4\u03BF \u03CC\u03C1\u03B1\u03BC\u03AC \u03C4\u03B7\u03C2. \u0395\u03AF\u03BD\u03B1\u03B9 \u03B5\u03C0\u03AF\u03C3\u03B7\u03C2 \u03BF\u03B9 \u03BE\u03B5\u03BA\u03AC\u03B8\u03B1\u03C1\u03BF\u03B9 \u03AC\u03BE\u03BF\u03BD\u03B5\u03C2 \u03C0\u03AC\u03BD\u03C9 \u03C3\u03C4\u03BF\u03C5\u03C2 \u03BF\u03C0\u03BF\u03AF\u03BF\u03C5\u03C2 \u03B2\u03B1\u03C3\u03AF\u03B6\u03B5\u03C4\u03B1\u03B9 \u03BF\u03BB\u03CC\u03BA\u03BB\u03B7\u03C1\u03B7 \u03B7 \u03C3\u03C4\u03C1\u03B1\u03C4\u03B7\u03B3\u03B9\u03BA\u03AE marketing \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03B5\u03C0\u03B9\u03C7\u03B5\u03AF\u03C1\u03B7\u03C3\u03B7, \u03C4\u03B7 \u03C6\u03C5\u03C3\u03B9\u03BA\u03AE \u03BA\u03B1\u03B9 \u03C4\u03B7\u03BD \u03C8\u03B7\u03C6\u03B9\u03B1\u03BA\u03AE \u03C4\u03B7\u03C2 \u03C0\u03B1\u03C1\u03BF\u03C5\u03C3\u03AF\u03B1."))
+  },
+  organwsi: {
+    slug: "organwsi",
+    title: "Οργάνωση",
+    subtitle: "Κάθε τι έχει τη θέση του",
+    logoSrc: "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_orange_cube.png",
+    content: __jsx("div", {
+      className: "",
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 109,
+        columnNumber: 7
+      }
+    }, __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 110,
+        columnNumber: 9
+      }
+    }, "\u039F\u03C1\u03B3\u03AC\u03BD\u03C9\u03C3\u03B7 = \u0391\u03C0\u03CC\u03B4\u03BF\u03C3\u03B7"), __jsx("div", {
+      className: "",
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 111,
+        columnNumber: 9
+      }
+    }, __jsx("div", {
+      className: "",
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 112,
+        columnNumber: 11
+      }
+    }, __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 113,
+        columnNumber: 13
+      }
+    }, "\u0397 \u03C3\u03C9\u03C3\u03C4\u03AE \u03BF\u03C1\u03B3\u03AC\u03BD\u03C9\u03C3\u03B7 \u03B4\u03B5\u03BD \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C3\u03C4\u03B1\u03C4\u03B9\u03BA\u03CC\u03C2 \u03C3\u03C4\u03CC\u03C7\u03BF\u03C2, \u03B1\u03BB\u03BB\u03AC \u03C3\u03CD\u03C3\u03C4\u03B7\u03BC\u03B1 \u03C0\u03BB\u03BF\u03AE\u03B3\u03B7\u03C3\u03B7\u03C2 \u03C3\u03B5 \u03AD\u03BD\u03B1 \u03B4\u03B9\u03B1\u03C1\u03BA\u03AD\u03C2 \u03C4\u03B1\u03BE\u03AF\u03B4\u03B9 \u03BC\u03B5 \u03C3\u03C5\u03BD\u03B5\u03C7\u03B5\u03AF\u03C2 \u03B5\u03C0\u03B1\u03BD\u03B1\u03C0\u03C1\u03BF\u03C3\u03B4\u03B9\u03BF\u03C1\u03B9\u03C3\u03BC\u03BF\u03CD\u03C2 \u03BA\u03B1\u03B9 \u03B2\u03B5\u03BB\u03C4\u03B9\u03CE\u03C3\u03B5\u03B9\u03C2.")), __jsx("div", {
+      className: "floatingImage",
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 119,
+        columnNumber: 11
+      }
+    }, __jsx("img", {
+      src: "https://github.com/smar152/rodia-valkanou/raw/master/img/img-cycle2.png",
+      alt: "",
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 120,
+        columnNumber: 13
+      }
+    }))), __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 126,
+        columnNumber: 9
+      }
+    }, "\u03A0\u03C1\u03CE\u03C4\u03BF \u03B2\u03AE\u03BC\u03B1 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C0\u03AC\u03BD\u03C4\u03B1 \u03B7 \u03B2\u03B5\u03BB\u03C4\u03B9\u03C3\u03C4\u03BF\u03C0\u03BF\u03AF\u03B7\u03C3\u03B7 \u03CC\u03BB\u03C9\u03BD \u03C4\u03C9\u03BD \u03BA\u03B1\u03B8\u03B7\u03BC\u03B5\u03C1\u03B9\u03BD\u03CE\u03BD, \u03BB\u03B5\u03B9\u03C4\u03BF\u03C5\u03C1\u03B3\u03B9\u03BA\u03CE\u03BD \u03B4\u03B9\u03B1\u03B4\u03B9\u03BA\u03B1\u03C3\u03B9\u03CE\u03BD \u03B3\u03B9\u03B1 \u03BD\u03B1 \u03BC\u03C0\u03BF\u03C1\u03B5\u03AF \u03BA\u03B1\u03BD\u03B5\u03AF\u03C2 \u03BD\u03B1 \u03BF\u03B4\u03B7\u03B3\u03B7\u03B8\u03B5\u03AF \u03C3\u03C4\u03B7\u03BD \u03BF\u03C1\u03B8\u03BF\u03BB\u03BF\u03B3\u03B9\u03C3\u03C4\u03B9\u03BA\u03AE \u03B4\u03CC\u03BC\u03B7\u03C3\u03B7 \u03C4\u03B7\u03C2 \u03B4\u03B9\u03B1\u03C7\u03B5\u03AF\u03C1\u03B9\u03C3\u03B7\u03C2 \u03BA\u03AC\u03B8\u03B5 \u03B5\u03C0\u03B1\u03B3\u03B3\u03B5\u03BB\u03BC\u03B1\u03C4\u03B9\u03BA\u03AE\u03C2 \u03B4\u03C1\u03AC\u03C3\u03B7\u03C2."), __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 131,
+        columnNumber: 9
+      }
+    }, "\u0397 \u03B7\u03C1\u03B5\u03BC\u03AF\u03B1 \u03BA\u03B1\u03B9 \u03B7 \u03B1\u03C3\u03C6\u03AC\u03BB\u03B5\u03B9\u03B1 \u03B5\u03BD\u03CC\u03C2 \u03C3\u03C9\u03C3\u03C4\u03AC \u03BF\u03C1\u03B3\u03B1\u03BD\u03C9\u03BC\u03AD\u03BD\u03BF\u03C5 \u03C0\u03B5\u03C1\u03B9\u03B2\u03AC\u03BB\u03BB\u03BF\u03BD\u03C4\u03BF\u03C2 (\u03B5\u03AF\u03C4\u03B5 \u03B1\u03C5\u03C4\u03CC \u03B5\u03AF\u03BD\u03B1\u03B9 \u03AD\u03BD\u03B1 \u03B3\u03C1\u03B1\u03C6\u03B5\u03AF\u03BF, \u03B5\u03AF\u03C4\u03B5 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03AD\u03BD\u03B1\u03C2 \u03C5\u03C0\u03BF\u03BB\u03BF\u03B3\u03B9\u03C3\u03C4\u03AE\u03C2), \u03C6\u03AD\u03C1\u03BD\u03B5\u03B9 \u03C4\u03B7\u03BD \u03C8\u03CD\u03C7\u03C1\u03B1\u03B9\u03BC\u03B7 \u03B1\u03BD\u03C4\u03B9\u03BC\u03B5\u03C4\u03CE\u03C0\u03B9\u03C3\u03B7 \u03C4\u03C9\u03BD \u03B4\u03B9\u03B1\u03C0\u03C1\u03BF\u03C3\u03C9\u03C0\u03B9\u03BA\u03CE\u03BD \u03B5\u03C0\u03B1\u03B3\u03B3\u03B5\u03BB\u03BC\u03B1\u03C4\u03B9\u03BA\u03CE\u03BD \u03C3\u03C7\u03AD\u03C3\u03B5\u03C9\u03BD, \u03B1\u03C5\u03BE\u03AC\u03BD\u03B5\u03B9 \u03C4\u03B7\u03BD \u03C0\u03B1\u03C1\u03B1\u03B3\u03C9\u03B3\u03B9\u03BA\u03CC\u03C4\u03B7\u03C4\u03B1 \u03BA\u03B1\u03B9 \u03BF\u03B4\u03B7\u03B3\u03B5\u03AF, \u03C4\u03B5\u03BB\u03B9\u03BA\u03AC, \u03C3\u03C4\u03B7\u03BD \u03B1\u03CD\u03BE\u03B7\u03C3\u03B7 \u03C4\u03B7\u03C2 \u03B1\u03C0\u03CC\u03B4\u03BF\u03C3\u03B7\u03C2 \u03BA\u03B1\u03B9 \u03C4\u03C9\u03BD \u03BA\u03B5\u03C1\u03B4\u03CE\u03BD."), __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 138,
+        columnNumber: 9
+      }
+    }, "\u0391\u03C0\u03CC \u03B1\u03C4\u03BF\u03BC\u03B9\u03BA\u03AD\u03C2 \u03B5\u03C0\u03B9\u03C7\u03B5\u03B9\u03C1\u03AE\u03C3\u03B5\u03B9\u03C2 \u03BC\u03AD\u03C7\u03C1\u03B9 \u03B5\u03BA\u03B5\u03AF\u03BD\u03B5\u03C2 \u03BC\u03B5 \u03BC\u03B5\u03B3\u03AC\u03BB\u03BF \u03B1\u03BD\u03B8\u03C1\u03CE\u03C0\u03B9\u03BD\u03BF \u03B4\u03C5\u03BD\u03B1\u03BC\u03B9\u03BA\u03CC, \u03B7 \u03BF\u03C1\u03B3\u03AC\u03BD\u03C9\u03C3\u03B7 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C4\u03BF \u03C7\u03B1\u03C1\u03B9\u03C3\u03BC\u03B1\u03C4\u03B9\u03BA\u03CC \u03B5\u03BA\u03B5\u03AF\u03BD\u03BF \u03C3\u03C4\u03BF\u03B9\u03C7\u03B5\u03AF\u03BF \u03C0\u03BF\u03C5, \u03C3\u03B5 \u03B2\u03AC\u03B8\u03BF\u03C2 \u03C7\u03C1\u03CC\u03BD\u03BF\u03C5 \u03BA\u03B1\u03B9 \u03C0\u03AC\u03BD\u03C4\u03BF\u03C4\u03B5 \u03BC\u03B5 \u03C3\u03C5\u03BD\u03AD\u03C0\u03B5\u03B9\u03B1, \u03B4\u03B9\u03B1\u03C4\u03B7\u03C1\u03B5\u03AF \u03C4\u03B7 \u03C3\u03C9\u03C3\u03C4\u03AE \u03BB\u03B5\u03B9\u03C4\u03BF\u03C5\u03C1\u03B3\u03AF\u03B1 \u03BA\u03B1\u03B9 \u03B8\u03AD\u03C4\u03B5\u03B9 \u03C3\u03C4\u03B9\u03B2\u03B1\u03C1\u03AD\u03C2 \u03B2\u03AC\u03C3\u03B5\u03B9\u03C2 \u03B3\u03B9\u03B1 \u03C3\u03C5\u03BD\u03B5\u03C7\u03CC\u03BC\u03B5\u03BD\u03B7 \u03B1\u03BD\u03AC\u03C0\u03C4\u03C5\u03BE\u03B7."), __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 144,
+        columnNumber: 9
+      }
+    }, "\u039C\u03B9\u03B1 \u03B5\u03C0\u03B9\u03C7\u03B5\u03AF\u03C1\u03B7\u03C3\u03B7 \u03BF\u03C6\u03B5\u03AF\u03BB\u03B5\u03B9 \u03BD\u03B1 \u03B4\u03C1\u03B1 \u03BA\u03B1\u03B9 \u03CC\u03C7\u03B9 \u03BD\u03B1 \u03B1\u03BD\u03C4\u03B9\u03B4\u03C1\u03AC. \u039A\u03AC\u03B8\u03B5 \u03B1\u03C0\u03CC\u03C6\u03B1\u03C3\u03B7, \u03B5\u03BD\u03AD\u03C1\u03B3\u03B5\u03B9\u03B1 \u03AE \u03B4\u03C1\u03AC\u03C3\u03B7 \u03C0\u03C1\u03AD\u03C0\u03B5\u03B9 \u03BD\u03B1 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B1\u03C0\u03BF\u03C4\u03AD\u03BB\u03B5\u03C3\u03BC\u03B1 \u03C3\u03C4\u03C1\u03B1\u03C4\u03B7\u03B3\u03B9\u03BA\u03BF\u03CD \u03C3\u03C7\u03B5\u03B4\u03B9\u03B1\u03C3\u03BC\u03BF\u03CD \u03BA\u03B1\u03B9 \u03CC\u03C7\u03B9 \u03BD\u03B1 \u03C0\u03C1\u03BF\u03BA\u03CD\u03C0\u03C4\u03B5\u03B9 \u03C4\u03C5\u03C7\u03B1\u03AF\u03B1 \u03C9\u03C2 \u03B1\u03BD\u03C4\u03AF\u03B4\u03C1\u03B1\u03C3\u03B7 \u03C3\u03B5 \u03C4\u03C5\u03C7\u03B1\u03AF\u03B5\u03C2 \u03C3\u03C5\u03BD\u03B8\u03AE\u03BA\u03B5\u03C2. \u0388\u03C4\u03C3\u03B9 \u03B1\u03C5\u03BE\u03AC\u03BD\u03B5\u03C4\u03B1\u03B9 \u03B7 \u03B1\u03C0\u03CC\u03B4\u03BF\u03C3\u03B7 \u03C4\u03B7\u03C2 \u03BA\u03AC\u03B8\u03B5 \u03B5\u03C0\u03B9\u03C7\u03B5\u03B9\u03C1\u03B7\u03BC\u03B1\u03C4\u03B9\u03BA\u03AE\u03C2 \u03BA\u03AF\u03BD\u03B7\u03C3\u03B7\u03C2, \u03B5\u03BD\u03CE \u03C0\u03B5\u03C1\u03B9\u03BF\u03C1\u03AF\u03B6\u03B5\u03C4\u03B1\u03B9 \u03B7 \u03B6\u03B7\u03BC\u03B9\u03AC \u03C0\u03BF\u03C5 \u03BC\u03C0\u03BF\u03C1\u03B5\u03AF \u03BD\u03B1 \u03C0\u03C1\u03BF\u03AD\u03BB\u03B8\u03B5\u03B9 \u03B1\u03C0\u03CC \u03AC\u03B3\u03BD\u03C9\u03C3\u03C4\u03B5\u03C2 \u03C0\u03B1\u03C1\u03B1\u03BC\u03AD\u03C4\u03C1\u03BF\u03C5\u03C2 \u03B1\u03C6\u03BF\u03CD \u03BC\u03C0\u03BF\u03C1\u03BF\u03CD\u03BD \u03BD\u03B1 \u03C0\u03B1\u03C1\u03B8\u03BF\u03CD\u03BD \u03B3\u03C1\u03AE\u03B3\u03BF\u03C1\u03B1 \u03BA\u03B1\u03AF\u03C1\u03B9\u03B5\u03C2 \u03B1\u03C0\u03BF\u03C6\u03AC\u03C3\u03B5\u03B9\u03C2"))
+  },
+  oikonomika: {
+    slug: "oikonomika",
+    title: "Οικονομικά",
+    subtitle: "Τα + και τα – της καθημερινότητας",
+    logoSrc: "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_yellow_cube.png",
+    content: __jsx("div", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 162,
+        columnNumber: 7
+      }
+    }, __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 163,
+        columnNumber: 9
+      }
+    }, "\u03A0\u03CE\u03C2 \u03BD\u03B1 \u03B2\u03C1\u03BF\u03CD\u03BC\u03B5 \u03B7\u03C1\u03B5\u03BC\u03AF\u03B1 \u03CC\u03C4\u03B1\u03BD \u03BA\u03B1\u03B8\u03B7\u03BC\u03B5\u03C1\u03B9\u03BD\u03AC \u03C4\u03BF \u03BA\u03B5\u03C6\u03AC\u03BB\u03B9 \u03BC\u03B1\u03C2 \u03B2\u03C1\u03AC\u03B6\u03B5\u03B9 \u03BC\u03B5 \u03B5\u03C1\u03C9\u03C4\u03AE\u03C3\u03B5\u03B9\u03C2 \u03BA\u03B1\u03B9 \u03B1\u03BD\u03B7\u03C3\u03C5\u03C7\u03AF\u03B5\u03C2 \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03BF\u03B9\u03BA\u03BF\u03BD\u03BF\u03BC\u03B9\u03BA\u03AE \u03BC\u03B1\u03C2 \u03C3\u03C4\u03B1\u03B8\u03B5\u03C1\u03CC\u03C4\u03B7\u03C4\u03B1; \u0397 \u03B1\u03C0\u03AC\u03BD\u03C4\u03B7\u03C3\u03B7 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C0\u03AC\u03BD\u03C4\u03BF\u03C4\u03B5 \u03B7 \u03C8\u03CD\u03C7\u03C1\u03B1\u03B9\u03BC\u03B7 \u03BA\u03B1\u03B9 \u03BB\u03BF\u03B3\u03B9\u03BA\u03AE \u03B1\u03BD\u03C4\u03B9\u03BC\u03B5\u03C4\u03CE\u03C0\u03B9\u03C3\u03B7, \u03BC\u03B5 \u03BA\u03B1\u03B8\u03B1\u03C1\u03CC \u03C0\u03C1\u03BF\u03B3\u03C1\u03B1\u03BC\u03BC\u03B1\u03C4\u03B9\u03C3\u03BC\u03CC!"), __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 168,
+        columnNumber: 9
+      }
+    }, "\u0395\u03AF\u03C4\u03B5 \u03C0\u03C1\u03CC\u03BA\u03B5\u03B9\u03C4\u03B1\u03B9 \u03B3\u03B9\u03B1 \u03C0\u03C1\u03BF\u03C3\u03C9\u03C0\u03BF\u03C0\u03BF\u03B9\u03B7\u03BC\u03AD\u03BD\u03B1 \u03C0\u03B1\u03BA\u03AD\u03C4\u03B1 excel \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03C0\u03B1\u03C1\u03B1\u03BA\u03BF\u03BB\u03BF\u03CD\u03B8\u03B7\u03C3\u03B7 \u03C4\u03C9\u03BD \u03BF\u03B9\u03BA\u03BF\u03BD\u03BF\u03BC\u03B9\u03BA\u03CE\u03BD \u03C3\u03C4\u03BF\u03B9\u03C7\u03B5\u03AF\u03C9\u03BD, \u03B5\u03AF\u03C4\u03B5 \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03B5\u03BE\u03B9\u03C3\u03BF\u03C1\u03C1\u03CC\u03C0\u03B7\u03C3\u03B7 \u03C4\u03C9\u03BD \u03BA\u03B1\u03B8\u03B7\u03BC\u03B5\u03C1\u03B9\u03BD\u03CE\u03BD \u03BF\u03B9\u03BA\u03BF\u03BD\u03BF\u03BC\u03B9\u03BA\u03CE\u03BD \u03BC\u03B9\u03B1\u03C2 \u03B5\u03C0\u03B9\u03C7\u03B5\u03AF\u03C1\u03B7\u03C3\u03B7\u03C2 \u03AE \u03B5\u03BD\u03CC\u03C2 \u03B5\u03C0\u03B9\u03C7\u03B5\u03B9\u03C1\u03B7\u03BC\u03B1\u03C4\u03AF\u03B1, \u03CC\u03BB\u03B1, \u03C4\u03B5\u03BB\u03B9\u03BA\u03AC, \u03BA\u03B1\u03C4\u03B1\u03BB\u03AE\u03B3\u03BF\u03C5\u03BD \u03C3\u03C4\u03B1 \u03B1\u03C0\u03BB\u03AC + \u03BA\u03B1\u03B9 -. \u039F\u03B9 \u03B1\u03C1\u03B9\u03B8\u03BC\u03BF\u03AF \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C6\u03AF\u03BB\u03BF\u03B9 \u03BC\u03B1\u03C2 \u03BA\u03B1\u03B9 \u03CC\u03C4\u03B1\u03BD \u03C4\u03BF\u03C5\u03C2 \u03B1\u03BD\u03C4\u03B9\u03BC\u03B5\u03C4\u03C9\u03C0\u03AF\u03B6\u03BF\u03C5\u03BC\u03B5 \u03C9\u03C2 \u03C4\u03AD\u03C4\u03BF\u03B9\u03BF\u03C5\u03C2, \u03BC\u03B1\u03C2 \u03B5\u03C0\u03B9\u03C6\u03C5\u03BB\u03AC\u03C3\u03C3\u03BF\u03C5\u03BD \u03BB\u03CD\u03C3\u03B5\u03B9\u03C2 \u03BA\u03B1\u03B9 \u03B7\u03C1\u03B5\u03BC\u03AF\u03B1."), __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 175,
+        columnNumber: 9
+      }
+    }, "\u0394\u03B5\u03BD \u03BC\u03C0\u03BF\u03C1\u03BF\u03CD\u03BC\u03B5 \u03BD\u03B1 \u03B2\u03C1\u03BF\u03CD\u03BC\u03B5 \u03BB\u03CD\u03C3\u03B5\u03B9\u03C2 \u03B3\u03B9\u03B1 \u03BA\u03C1\u03C5\u03BC\u03BC\u03AD\u03BD\u03B1 \u03C0\u03C1\u03BF\u03B2\u03BB\u03AE\u03BC\u03B1\u03C4\u03B1. \u0391\u03C0\u03BF\u03BA\u03B1\u03BB\u03CD\u03C0\u03C4\u03BF\u03C5\u03BC\u03B5 \u03B4\u03B9\u03AC\u03C0\u03BB\u03B1\u03C4\u03B1 \u03C4\u03B7\u03BD \u03BF\u03B9\u03BA\u03BF\u03BD\u03BF\u03BC\u03B9\u03BA\u03AE \u03C0\u03C1\u03B1\u03B3\u03BC\u03B1\u03C4\u03B9\u03BA\u03CC\u03C4\u03B7\u03C4\u03B1, \u03BA\u03B1\u03B9, \u03CC\u03C0\u03C9\u03C2 \u03B8\u03B1 \u03BA\u03AC\u03BD\u03B1\u03BC\u03B5 \u03BC\u03B5 \u03BA\u03AC\u03B8\u03B5 \u03C0\u03C1\u03CC\u03B2\u03BB\u03B7\u03BC\u03B1, \u03B1\u03C6\u03AE\u03BD\u03BF\u03C5\u03BC\u03B5 \u03C4\u03B7\u03BD \u03B5\u03BC\u03C0\u03B5\u03B9\u03C1\u03AF\u03B1 \u03BA\u03B1\u03B9 \u03C4\u03B9\u03C2 \u03C0\u03C1\u03AC\u03BE\u03B5\u03B9\u03C2 \u03BD\u03B1 \u03BC\u03B1\u03C2 \u03BF\u03B4\u03B7\u03B3\u03AE\u03C3\u03BF\u03C5\u03BD \u03C3\u03C4\u03B9\u03C2 \u03B1\u03C0\u03B1\u03BD\u03C4\u03AE\u03C3\u03B5\u03B9\u03C2."), __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 181,
+        columnNumber: 9
+      }
+    }, "\u0397 \u03C3\u03C9\u03C3\u03C4\u03AE \u03BF\u03C1\u03B3\u03AC\u03BD\u03C9\u03C3\u03B7 \u03C4\u03C9\u03BD \u03BF\u03B9\u03BA\u03BF\u03BD\u03BF\u03BC\u03B9\u03BA\u03CE\u03BD \u03C3\u03C4\u03BF\u03B9\u03C7\u03B5\u03AF\u03C9\u03BD \u03B5\u03AF\u03BD\u03B1\u03B9, \u03C3\u03AF\u03B3\u03BF\u03C5\u03C1\u03B1, \u03C4\u03BF \u03C0\u03B9\u03BF \u03C3\u03B7\u03BC\u03B1\u03BD\u03C4\u03B9\u03BA\u03CC \u03C3\u03C5\u03C3\u03C4\u03B1\u03C4\u03B9\u03BA\u03CC \u03BC\u03B9\u03B1\u03C2 \u03BA\u03B1\u03BB\u03AC \u03B4\u03BF\u03BC\u03B7\u03BC\u03AD\u03BD\u03B7\u03C2 \u03B5\u03C0\u03B9\u03C7\u03B5\u03B9\u03C1\u03B7\u03BC\u03B1\u03C4\u03B9\u03BA\u03AE\u03C2 \u03C0\u03C1\u03B1\u03BA\u03C4\u03B9\u03BA\u03AE\u03C2 \u03BA\u03B1\u03B9 \u03B1\u03C0\u03B1\u03C1\u03B1\u03AF\u03C4\u03B7\u03C4\u03BF \u03C3\u03C4\u03BF\u03B9\u03C7\u03B5\u03AF\u03BF \u03B3\u03B9\u03B1 \u03C4\u03B7 \u03C3\u03B9\u03B3\u03BF\u03C5\u03C1\u03B9\u03AC \u03C0\u03BF\u03C5 \u03B8\u03B1 \u03C7\u03C1\u03B5\u03B9\u03B1\u03C3\u03C4\u03B5\u03AF \u03C0\u03C1\u03B9\u03BD \u03B3\u03AF\u03BD\u03B5\u03B9 \u03BF\u03C0\u03BF\u03B9\u03B1\u03B4\u03AE\u03C0\u03BF\u03C4\u03B5 \u03B4\u03C1\u03AC\u03C3\u03B7 \u03B1\u03BD\u03AC\u03C0\u03C4\u03C5\u03BE\u03B7\u03C2."), __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 187,
+        columnNumber: 9
+      }
+    }, "\u0388\u03C4\u03BF\u03B9\u03BC\u03B1 \u03C3\u03C5\u03C3\u03C4\u03AE\u03BC\u03B1\u03C4\u03B1 \u03C0\u03B1\u03C1\u03B1\u03BA\u03BF\u03BB\u03BF\u03CD\u03B8\u03B7\u03C3\u03B7\u03C2 \u03C5\u03C0\u03BF\u03C7\u03C1\u03B5\u03CE\u03C3\u03B5\u03C9\u03BD, \u03B7\u03BC\u03B5\u03C1\u03BF\u03BB\u03BF\u03B3\u03AF\u03BF\u03C5 \u03BF\u03C6\u03B5\u03B9\u03BB\u03CE\u03BD, \u03C0\u03BB\u03B7\u03C1\u03C9\u03BC\u03CE\u03BD \u03C0\u03C1\u03BF\u03BC\u03B7\u03B8\u03B5\u03C5\u03C4\u03CE\u03BD \u03C3\u03B5 \u03C3\u03C5\u03BD\u03AC\u03C1\u03C4\u03B7\u03C3\u03B7 \u03BC\u03B5 \u03C4\u03B7 \u03BB\u03BF\u03B3\u03B9\u03C3\u03C4\u03B9\u03BA\u03AE \u03C3\u03B1\u03C2 \u03C5\u03C0\u03BF\u03C3\u03C4\u03AE\u03C1\u03B9\u03BE\u03B7, \u03C3\u03B1\u03C2 \u03BB\u03CD\u03BD\u03BF\u03C5\u03BD \u03C4\u03B1 \u03C7\u03AD\u03C1\u03B9\u03B1 \u03BA\u03B9 \u03B5\u03BB\u03B5\u03C5\u03B8\u03B5\u03C1\u03CE\u03BD\u03BF\u03C5\u03BD \u03C4\u03BF\u03BD \u03C7\u03C1\u03CC\u03BD\u03BF \u03C3\u03B1\u03C2 \u03B3\u03B9\u03B1 \u03BD\u03B1 \u03C0\u03C1\u03BF\u03C7\u03C9\u03C1\u03AE\u03C3\u03B5\u03C4\u03B5 \u03C3\u03C4\u03B7\u03BD \u03B1\u03BD\u03AC\u03C0\u03C4\u03C5\u03BE\u03B7 \u03C4\u03C9\u03BD \u03C5\u03C0\u03B7\u03C1\u03B5\u03C3\u03B9\u03CE\u03BD \u03AE \u03BA\u03B1\u03B9 \u03C4\u03C9\u03BD \u03C0\u03C1\u03BF\u03CA\u03CC\u03BD\u03C4\u03C9\u03BD \u03C3\u03B1\u03C2 \u03BC\u03B5 \u03B7\u03C1\u03B5\u03BC\u03AF\u03B1."))
+  },
+  digital: {
+    slug: "digital",
+    title: "Ψηφιακά",
+    subtitle: "Σύγχρονες λύσεις για κάθε πλατφόρμα.",
+    logoSrc: "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_mauve_cube.png",
+    content: __jsx("div", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 203,
+        columnNumber: 7
+      }
+    }, __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 204,
+        columnNumber: 9
+      }
+    }, "\u03A3\u03C4\u03BF \u03C3\u03B7\u03BC\u03B5\u03C1\u03B9\u03BD\u03CC \u03C0\u03B5\u03B4\u03AF\u03BF \u03C4\u03B7\u03C2 \u03C8\u03B7\u03C6\u03B9\u03B1\u03BA\u03AE\u03C2 \u03C0\u03BF\u03BB\u03C5\u03C6\u03C9\u03BD\u03AF\u03B1\u03C2, \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C3\u03B7\u03BC\u03B1\u03BD\u03C4\u03B9\u03BA\u03CC \u03BD\u03B1 \u03BE\u03B5\u03C7\u03C9\u03C1\u03AF\u03C3\u03BF\u03C5\u03BC\u03B5 \u03C4\u03BF\u03C5\u03C2 \u03C3\u03C4\u03CC\u03C7\u03BF\u03C5\u03C2 \u03BC\u03B9\u03B1\u03C2 \u03C3\u03C4\u03C1\u03B1\u03C4\u03B7\u03B3\u03B9\u03BA\u03AE\u03C2 \u03C8\u03B7\u03C6\u03B9\u03B1\u03BA\u03AE\u03C2 \u03C0\u03B1\u03C1\u03BF\u03C5\u03C3\u03AF\u03B1\u03C2 \u03BA\u03B1\u03B9 marketing \u03BA\u03B1\u03B9 \u03BD\u03B1 \u03C4\u03B7\u03BD \u03B1\u03BA\u03BF\u03BB\u03BF\u03C5\u03B8\u03AE\u03C3\u03BF\u03C5\u03BC\u03B5 \u03BC\u03B5 \u03C3\u03C5\u03BD\u03AD\u03C0\u03B5\u03B9\u03B1 \u03C0\u03C1\u03B9\u03BD \u03C0\u03AC\u03C1\u03BF\u03C5\u03BC\u03B5 \u03C4\u03B1 \u03B5\u03C0\u03B9\u03B8\u03C5\u03BC\u03B7\u03C4\u03AC \u03B1\u03C0\u03BF\u03C4\u03B5\u03BB\u03AD\u03C3\u03BC\u03B1\u03C4\u03B1."), __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 210,
+        columnNumber: 9
+      }
+    }, "\u0397 \u03C8\u03B7\u03C6\u03B9\u03B1\u03BA\u03AE \u03B6\u03C9\u03AE \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B7 \u03C0\u03C1\u03B1\u03B3\u03BC\u03B1\u03C4\u03B9\u03BA\u03AE \u03B6\u03C9\u03AE. \u03A4\u03B1 \u03CC\u03C1\u03B9\u03B1 \u03B1\u03BD\u03AC\u03BC\u03B5\u03C3\u03AC \u03C4\u03BF\u03C5\u03C2 \u03AD\u03C7\u03BF\u03C5\u03BD \u03C0\u03B9\u03B1 \u03B1\u03C1\u03B8\u03B5\u03AF \u03BA\u03B1\u03B9 \u03BF\u03B9 \u03B5\u03C0\u03B9\u03C7\u03B5\u03B9\u03C1\u03AE\u03C3\u03B5\u03B9\u03C2 \u03BA\u03B1\u03BB\u03BF\u03CD\u03BD\u03C4\u03B1\u03B9 \u03BD\u03B1 \u03B4\u03B7\u03BC\u03B9\u03BF\u03C5\u03C1\u03B3\u03AE\u03C3\u03BF\u03C5\u03BD \u03C8\u03B7\u03C6\u03B9\u03B1\u03BA\u03BF\u03CD\u03C2 \u03C4\u03CC\u03C0\u03BF\u03C5\u03C2 \u03C0\u03BF\u03C5 \u03BD\u2019 \u03B1\u03BD\u03C4\u03B1\u03C0\u03B5\u03BE\u03AD\u03C1\u03C7\u03BF\u03BD\u03C4\u03B1\u03B9 \u03C3\u03C4\u03BF\u03C5\u03C2 \u03B1\u03BE\u03B9\u03B1\u03BA\u03BF\u03CD\u03C2 \u03C4\u03BF\u03C5\u03C2 \u03C0\u03C5\u03BB\u03CE\u03BD\u03B5\u03C2, \u03BD\u2019 \u03B1\u03C0\u03B5\u03C5\u03B8\u03CD\u03BD\u03BF\u03BD\u03C4\u03B1\u03B9 \u03C3\u03C4\u03BF\u03C5\u03C2 \u03C0\u03B5\u03BB\u03AC\u03C4\u03B5\u03C2 \u03BA\u03B1\u03B9 \u03C4\u03BF\u03C5\u03C2 \u03BA\u03B1\u03C4\u03B1\u03BD\u03B1\u03BB\u03C9\u03C4\u03AD\u03C2 \u03C4\u03BF\u03C5\u03C2 \u03AD\u03BE\u03C5\u03C0\u03BD\u03B1, \u03B5\u03C5\u03C6\u03AC\u03BD\u03C4\u03B1\u03C3\u03C4\u03B1, \u03BC\u03B5 \u03B5\u03BD\u03C4\u03B9\u03BC\u03CC\u03C4\u03B7\u03C4\u03B1 \u03BA\u03B1\u03B9 \u03BC\u03B5 \u03B1\u03BA\u03B1\u03C1\u03B9\u03B1\u03AF\u03B1 \u03C4\u03B1\u03C7\u03CD\u03C4\u03B7\u03C4\u03B1."), __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 217,
+        columnNumber: 9
+      }
+    }, "\u0395\u03B9\u03B4\u03B9\u03BA\u03AC \u03C4\u03CE\u03C1\u03B1, \u03C0\u03BF\u03C5 \u03B7 \u03C0\u03B1\u03BD\u03B4\u03B7\u03BC\u03AF\u03B1 \u03AD\u03C7\u03B5\u03B9 \u03B1\u03BB\u03BB\u03AC\u03BE\u03B5\u03B9 \u03BC\u03B5 \u03C1\u03B9\u03B6\u03BF\u03C3\u03C0\u03B1\u03C3\u03C4\u03B9\u03BA\u03CC \u03C4\u03C1\u03CC\u03C0\u03BF \u03C4\u03B7\u03BD \u03B1\u03BB\u03BB\u03B7\u03BB\u03B5\u03C0\u03AF\u03B4\u03C1\u03B1\u03C3\u03B7 \u03C4\u03C9\u03BD \u03C7\u03C1\u03B7\u03C3\u03C4\u03CE\u03BD \u03BC\u03B5 \u03C4\u03B9\u03C2 \u03C8\u03B7\u03C6\u03B9\u03B1\u03BA\u03AD\u03C2 \u03C0\u03BB\u03B1\u03C4\u03C6\u03CC\u03C1\u03BC\u03B5\u03C2, \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C3\u03B7\u03BC\u03B1\u03BD\u03C4\u03B9\u03BA\u03CC \u03BD\u03B1 \u03BC\u03C0\u03BF\u03C1\u03AD\u03C3\u03BF\u03C5\u03BC\u03B5 \u03BD\u03B1 \u03B5\u03BA\u03BC\u03B5\u03C4\u03B1\u03BB\u03BB\u03B5\u03C5\u03C4\u03BF\u03CD\u03BC\u03B5 \u03C4\u03B9\u03C2 \u03BD\u03AD\u03B5\u03C2 \u03C4\u03B5\u03C7\u03BD\u03BF\u03BB\u03BF\u03B3\u03AF\u03B5\u03C2 \u03BA\u03B1\u03B9 \u03C4\u03B9\u03C2 \u03B4\u03B9\u03B1\u03C1\u03BA\u03CE\u03C2 \u03B1\u03BD\u03B1\u03C0\u03C4\u03C5\u03C3\u03C3\u03CC\u03BC\u03B5\u03BD\u03B5\u03C2 \u03B5\u03C0\u03B9\u03BB\u03BF\u03B3\u03AD\u03C2 \u03C0\u03BF\u03C5 \u03BC\u03B1\u03C2 \u03B4\u03AF\u03BD\u03BF\u03C5\u03BD \u03C0\u03C1\u03BF\u03BA\u03B5\u03B9\u03BC\u03AD\u03BD\u03BF\u03C5 \u03BD\u03B1 \u03C0\u03C1\u03BF\u03C9\u03B8\u03AE\u03C3\u03BF\u03C5\u03BC\u03B5 \u03C4\u03B9\u03C2 \u03C5\u03C0\u03B7\u03C1\u03B5\u03C3\u03AF\u03B5\u03C2 \u03BA\u03B1\u03B9 \u03C4\u03B1 \u03C0\u03C1\u03BF\u03CA\u03CC\u03BD\u03C4\u03B1 \u03C4\u03C9\u03BD \u03B5\u03C0\u03B9\u03C7\u03B5\u03B9\u03C1\u03AE\u03C3\u03B5\u03C9\u03BD \u03BC\u03B5 \u03C4\u03BF\u03BD \u03B9\u03B4\u03B1\u03BD\u03B9\u03BA\u03CC \u03C4\u03C1\u03CC\u03C0\u03BF."))
+  },
+  synergasia: {
+    slug: "synergasia",
+    title: "Συνεργασία",
+    subtitle: "Πίσω από κάθε επιτυχία υπάρχει μια δεμένη ομάδα",
+    logoSrc: "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_blue_cube.png",
+    content: __jsx("div", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 234,
+        columnNumber: 7
+      }
+    }, __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 235,
+        columnNumber: 9
+      }
+    }, "\u0395\u03C0\u03B9\u03BB\u03AD\u03BE\u03C4\u03B5 \u03C4\u03B7 \u03C3\u03C5\u03BD\u03B5\u03C1\u03B3\u03B1\u03C3\u03AF\u03B1 \u03C0\u03BF\u03C5 \u03B5\u03BE\u03C5\u03C0\u03B7\u03C1\u03B5\u03C4\u03B5\u03AF \u03C4\u03B9\u03C2 \u03B1\u03BD\u03AC\u03B3\u03BA\u03B5\u03C2 \u03C3\u03B1\u03C2 \u03BC\u03B5 \u03BB\u03CD\u03C3\u03B5\u03B9\u03C2 \u03C0\u03B1\u03C1\u03B1\u03BC\u03B5\u03C4\u03C1\u03BF\u03C0\u03BF\u03B9\u03B7\u03BC\u03AD\u03BD\u03B5\u03C2 \u03B3\u03B9\u03B1 \u03C4\u03B9\u03C2 \u03B1\u03C0\u03B1\u03B9\u03C4\u03AE\u03C3\u03B5\u03B9\u03C2 \u03BA\u03AC\u03B8\u03B5 \u03AD\u03C1\u03B3\u03BF\u03C5. \u03A4\u03BC\u03B7\u03BC\u03B1\u03C4\u03B9\u03BA\u03AE \u03B5\u03BE\u03AD\u03BB\u03B9\u03BE\u03B7 \u03C3\u03C5\u03BD\u03B5\u03C1\u03B3\u03B1\u03C3\u03AF\u03B1\u03C2 \u03B3\u03B9\u03B1 \u03B5\u03BB\u03B5\u03B3\u03C7\u03CC\u03BC\u03B5\u03BD\u03B1 \u03B1\u03C0\u03BF\u03C4\u03B5\u03BB\u03AD\u03C3\u03BC\u03B1\u03C4\u03B1 \u03BA\u03B1\u03B9 \u03B4\u03B9\u03B1\u03C3\u03C6\u03AC\u03BB\u03B9\u03C3\u03B7 \u03B5\u03BC\u03C0\u03B9\u03C3\u03C4\u03BF\u03C3\u03CD\u03BD\u03B7\u03C2 \u03BC\u03B5 \u03C3\u03C5\u03BC\u03B2\u03AC\u03C3\u03B5\u03B9\u03C2 \u03B5\u03BC\u03C0\u03B9\u03C3\u03C4\u03B5\u03C5\u03C4\u03B9\u03BA\u03CC\u03C4\u03B7\u03C4\u03B1\u03C2. \u039C\u03C0\u03BF\u03C1\u03B5\u03AF\u03C4\u03B5 \u03BD\u03B1 \u03B5\u03C0\u03B9\u03BB\u03AD\u03BE\u03B5\u03C4\u03B5 \u03C3\u03C5\u03BD\u03B5\u03C1\u03B3\u03B1\u03C3\u03AF\u03B1 \u03C3\u03B5 \u03B2\u03AC\u03C3\u03B7 \u03AD\u03C1\u03B3\u03BF\u03C5 \u03BC\u03B5 \u03B1\u03C1\u03C7\u03AE, \u03BC\u03AD\u03C3\u03B7 \u03BA\u03B1\u03B9 \u03C4\u03AD\u03BB\u03BF\u03C2, \u03AE \u03C9\u03C2 \u03C3\u03C4\u03B1\u03B8\u03B5\u03C1\u03AE \u03C3\u03C5\u03BD\u03B5\u03C1\u03B3\u03B1\u03C3\u03AF\u03B1 \u03B3\u03B9\u03B1 \u03C4\u03B7\u03BD \u03B5\u03C0\u03BF\u03C0\u03C4\u03B5\u03AF\u03B1 \u03C4\u03B7\u03C2 \u03B5\u03BE\u03AD\u03BB\u03B9\u03BE\u03B7\u03C2 \u03C4\u03C9\u03BD \u03C4\u03BF\u03BC\u03AD\u03C9\u03BD \u03C0\u03BF\u03C5 \u03C3\u03B1\u03C2 \u03B1\u03C0\u03B1\u03C3\u03C7\u03BF\u03BB\u03BF\u03CD\u03BD."), __jsx("div", {
+      className: "d-flex flex-row align-items-start mt-4 mb-4",
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 243,
+        columnNumber: 9
+      }
+    }, __jsx("div", {
+      className: "mr-4",
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 244,
+        columnNumber: 11
+      }
+    }, __jsx("img", {
+      src: "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/blue_cube.png",
+      alt: "",
+      width: "100px",
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 245,
+        columnNumber: 13
+      }
+    })), __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 251,
+        columnNumber: 11
+      }
+    }, "1. \u03A3\u03C5\u03BC\u03B2\u03BF\u03C5\u03BB\u03B5\u03C5\u03C4\u03B9\u03BA\u03AE", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 253,
+        columnNumber: 13
+      }
+    }), "- \u03A7\u03B1\u03C1\u03B1\u03BA\u03C4\u03B7\u03C1\u03B9\u03C3\u03BC\u03CC\u03C2 \u03B1\u03BE\u03B9\u03CE\u03BD \u03BA\u03B1\u03B9 \u03BF\u03C1\u03AC\u03BC\u03B1\u03C4\u03BF\u03C2 (vision / mission statements)", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 255,
+        columnNumber: 13
+      }
+    }), " - \u0394\u03B7\u03BC\u03B9\u03BF\u03C5\u03C1\u03B3\u03AF\u03B1 \u03B5\u03C0\u03B9\u03C7\u03B5\u03B9\u03C1\u03B7\u03BC\u03B1\u03C4\u03B9\u03BA\u03AE\u03C2 \u03C3\u03C4\u03C1\u03B1\u03C4\u03B7\u03B3\u03B9\u03BA\u03AE\u03C2", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 256,
+        columnNumber: 13
+      }
+    }), " - \u0395\u03C0\u03B9\u03C7\u03B5\u03B9\u03C1\u03B7\u03BC\u03B1\u03C4\u03B9\u03BA\u03CC \u03C0\u03BB\u03AC\u03BD\u03BF", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 257,
+        columnNumber: 13
+      }
+    }), " - \u03A3\u03C4\u03C1\u03B1\u03C4\u03B7\u03B3\u03B9\u03BA\u03AD\u03C2 \u03BC\u03B5\u03BB\u03AD\u03C4\u03B5\u03C2: \u039B\u03B5\u03B9\u03C4\u03BF\u03C5\u03C1\u03B3\u03AF\u03B1\u03C2 \u03B5\u03C0\u03B9\u03C7\u03B5\u03AF\u03C1\u03B7\u03C3\u03B7\u03C2 & \u03B1\u03BD\u03C4\u03B1\u03B3\u03C9\u03BD\u03B9\u03C3\u03C4\u03CE\u03BD")), __jsx("div", {
+      className: "d-flex flex-row align-items-start mb-4",
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 260,
+        columnNumber: 9
+      }
+    }, __jsx("div", {
+      className: "mr-4",
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 261,
+        columnNumber: 11
+      }
+    }, __jsx("img", {
+      src: "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/blue_cube.png",
+      alt: "",
+      width: "100px",
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 262,
+        columnNumber: 13
+      }
+    })), __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 268,
+        columnNumber: 11
+      }
+    }, "2. \u039F\u03C1\u03B3\u03AC\u03BD\u03C9\u03C3\u03B7", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 270,
+        columnNumber: 13
+      }
+    }), "- \u0391\u03BD\u03B1\u03B3\u03BD\u03CE\u03C1\u03B9\u03C3\u03B7 \u03BB\u03B5\u03B9\u03C4\u03BF\u03C5\u03C1\u03B3\u03B9\u03BA\u03CE\u03BD \u03BA\u03B5\u03BD\u03CE\u03BD \u03BA\u03B1\u03B9 \u03BF\u03C1\u03B3\u03AC\u03BD\u03C9\u03C3\u03B7 \u03B1\u03BD\u03C4\u03B9\u03BC\u03B5\u03C4\u03CE\u03C0\u03B9\u03C3\u03B7\u03C2 / \u03BB\u03CD\u03C3\u03B5\u03C9\u03BD", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 272,
+        columnNumber: 13
+      }
+    }), "- \u039A\u03B1\u03B8\u03BF\u03C1\u03B9\u03C3\u03BC\u03CC\u03C2 workflow & time management", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 274,
+        columnNumber: 13
+      }
+    }), "- \u0394\u03B7\u03BC\u03B9\u03BF\u03C5\u03C1\u03B3\u03AF\u03B1 \u03BF\u03C1\u03B3\u03B1\u03BD\u03BF\u03B3\u03C1\u03B1\u03BC\u03BC\u03AC\u03C4\u03C9\u03BD", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 276,
+        columnNumber: 13
+      }
+    }), "- \u039F\u03C1\u03B3\u03AC\u03BD\u03C9\u03C3\u03B7 \u03C0\u03B5\u03C1\u03B9\u03B2\u03AC\u03BB\u03BB\u03BF\u03BD\u03C4\u03BF\u03C2 \u03B5\u03C1\u03B3\u03B1\u03C3\u03AF\u03B1\u03C2")), __jsx("div", {
+      className: "d-flex flex-row align-items-start mb-4",
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 279,
+        columnNumber: 9
+      }
+    }, __jsx("div", {
+      className: "mr-4",
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 280,
+        columnNumber: 11
+      }
+    }, __jsx("img", {
+      src: "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/blue_cube.png",
+      alt: "",
+      width: "100px",
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 281,
+        columnNumber: 13
+      }
+    })), __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 287,
+        columnNumber: 11
+      }
+    }, "3. \u039F\u03B9\u03BA\u03BF\u03BD\u03BF\u03BC\u03B9\u03BA\u03AC", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 289,
+        columnNumber: 13
+      }
+    }), "- \u03A0\u03B1\u03C1\u03B1\u03BA\u03BF\u03BB\u03BF\u03CD\u03B8\u03B7\u03C3\u03B7 & \u03C0\u03C1\u03BF\u03B3\u03C1\u03B1\u03BC\u03BC\u03B1\u03C4\u03B9\u03C3\u03BC\u03CC\u03C2 \u03C5\u03C0\u03BF\u03C7\u03C1\u03B5\u03CE\u03C3\u03B5\u03C9\u03BD", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 291,
+        columnNumber: 13
+      }
+    }), "- \u039F\u03C1\u03B3\u03AC\u03BD\u03C9\u03C3\u03B7 \u03C7\u03C1\u03BF\u03BD\u03BF\u03B4\u03B9\u03B1\u03B3\u03C1\u03AC\u03BC\u03BC\u03B1\u03C4\u03BF\u03C2 \u03B5\u03B9\u03C3\u03C0\u03C1\u03AC\u03BE\u03B5\u03C9\u03BD & \u03C0\u03BB\u03B7\u03C1\u03C9\u03BC\u03CE\u03BD", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 293,
+        columnNumber: 13
+      }
+    }), "- \u0394\u03BF\u03BC\u03AE \u03C3\u03C7\u03B5\u03B4\u03AF\u03BF\u03C5 \u03B5\u03BE\u03CC\u03C6\u03BB\u03B7\u03C3\u03B7\u03C2 \u03C0\u03C1\u03BF\u03BC\u03B7\u03B8\u03B5\u03C5\u03C4\u03CE\u03BD", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 295,
+        columnNumber: 13
+      }
+    }), "- \u0394\u03B7\u03BC\u03B9\u03BF\u03C5\u03C1\u03B3\u03AF\u03B1 \u03C3\u03C7\u03B5\u03B4\u03AF\u03BF\u03C5 \u03BA\u03B1\u03C4\u03B1\u03B3\u03C1\u03B1\u03C6\u03AE\u03C2 \u03B5\u03C3\u03CC\u03B4\u03C9\u03BD")), __jsx("div", {
+      className: "d-flex flex-row align-items-start mb-4",
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 298,
+        columnNumber: 9
+      }
+    }, __jsx("div", {
+      className: "mr-4",
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 299,
+        columnNumber: 11
+      }
+    }, __jsx("img", {
+      src: "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/blue_cube.png",
+      alt: "",
+      width: "100px",
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 300,
+        columnNumber: 13
+      }
+    })), __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 306,
+        columnNumber: 11
+      }
+    }, "4. \u03A8\u03B7\u03C6\u03B9\u03B1\u03BA\u03AC", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 308,
+        columnNumber: 13
+      }
+    }), "- Digital marketing", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 310,
+        columnNumber: 13
+      }
+    }), "- \u0394\u03B9\u03B1\u03C7\u03B5\u03AF\u03C1\u03B9\u03C3\u03B7 social media", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 312,
+        columnNumber: 13
+      }
+    }), "- \u039C\u03B5\u03BB\u03AD\u03C4\u03B7 Analytics & Insights", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 314,
+        columnNumber: 13
+      }
+    }), "- SEO \u039A\u03B5\u03B9\u03BC\u03B5\u03BD\u03BF\u03B3\u03C1\u03AC\u03C6\u03B7\u03C3\u03B7")), __jsx("div", {
+      className: "d-flex flex-row align-items-start mb-4",
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 317,
+        columnNumber: 9
+      }
+    }, __jsx("div", {
+      className: "mr-4",
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 318,
+        columnNumber: 11
+      }
+    }, __jsx("img", {
+      src: "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/blue_cube.png",
+      alt: "",
+      width: "100px",
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 319,
+        columnNumber: 13
+      }
+    })), __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 325,
+        columnNumber: 11
+      }
+    }, "5. Mix and Match", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 327,
+        columnNumber: 13
+      }
+    }), "\u0395\u03C0\u03B9\u03BB\u03AD\u03BE\u03C4\u03B5 \u03C0\u03BF\u03B9\u03B1 \u03C5\u03C0\u03B7\u03C1\u03B5\u03C3\u03AF\u03B1 \u03BA\u03B1\u03BB\u03CD\u03C0\u03C4\u03B5\u03B9 \u03BA\u03B1\u03BB\u03CD\u03C4\u03B5\u03C1\u03B1 \u03C4\u03BF \u03C6\u03AC\u03C3\u03BC\u03B1 \u03C4\u03C9\u03BD \u03B4\u03C5\u03C3\u03BA\u03BF\u03BB\u03B9\u03CE\u03BD \u03C0\u03BF\u03C5 \u03B5\u03C0\u03B9\u03B8\u03C5\u03BC\u03B5\u03AF\u03C4\u03B5 \u03BD\u03B1 \u03BB\u03CD\u03C3\u03B5\u03C4\u03B5. \u039A\u03AC\u03B8\u03B5 \u03C5\u03C0\u03B7\u03C1\u03B5\u03C3\u03AF\u03B1 \u03C0\u03C1\u03BF\u03C3\u03B1\u03C1\u03BC\u03CC\u03B6\u03B5\u03C4\u03B1\u03B9 \u03BA\u03B1\u03B9 \u03C0\u03B1\u03C1\u03B1\u03BC\u03B5\u03C4\u03C1\u03BF\u03C0\u03BF\u03B9\u03B5\u03AF\u03C4\u03B1\u03B9 \u03C3\u03CD\u03BC\u03C6\u03C9\u03BD\u03B1 \u03BC\u03B5 \u03C4\u03B9\u03C2 \u03B1\u03C0\u03B1\u03B9\u03C4\u03AE\u03C3\u03B5\u03B9\u03C2 \u03C4\u03B7\u03C2 \u03BA\u03AC\u03B8\u03B5 \u03C0\u03B5\u03C1\u03AF\u03C0\u03C4\u03C9\u03C3\u03B7\u03C2.")), __jsx("div", {
+      className: "d-flex flex-row align-items-start mb-4",
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 333,
+        columnNumber: 9
+      }
+    }, __jsx("div", {
+      className: "mr-4",
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 334,
+        columnNumber: 11
+      }
+    }, __jsx("img", {
+      src: "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/blue_cube.png",
+      alt: "",
+      width: "100px",
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 335,
+        columnNumber: 13
+      }
+    })), __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 341,
+        columnNumber: 11
+      }
+    }, "6. The Total Package", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 343,
+        columnNumber: 13
+      }
+    }), "\u03A4\u03BF \u03C3\u03CD\u03BD\u03BF\u03BB\u03BF \u03C4\u03C9\u03BD \u03C5\u03C0\u03B7\u03C1\u03B5\u03C3\u03B9\u03CE\u03BD \u03C3\u03B5 \u03C0\u03BB\u03AE\u03C1\u03B7 \u03B1\u03BD\u03AC\u03C0\u03C4\u03C5\u03BE\u03B7 \u03BC\u03AD\u03C3\u03B1 \u03C3\u03C4\u03B1 \u03C0\u03BB\u03B1\u03AF\u03C3\u03B9\u03B1 \u03B1\u03BD\u03AC\u03B3\u03BA\u03B7\u03C2 \u03B3\u03B9\u03B1 \u03BA\u03AC\u03B8\u03B5 \u03B5\u03C0\u03B9\u03C7\u03B5\u03AF\u03C1\u03B7\u03C3\u03B7 \u03AE \u03B5\u03BB\u03B5\u03CD\u03B8\u03B5\u03C1\u03BF \u03B5\u03C0\u03B1\u03B3\u03B3\u03B5\u03BB\u03BC\u03B1\u03C4\u03AF\u03B1. \u0395\u03C0\u03BF\u03C0\u03C4\u03B5\u03AF\u03B1 \u03C4\u03B7\u03C2 \u03B5\u03BE\u03AD\u03BB\u03B9\u03BE\u03B7\u03C2 \u03BA\u03B1\u03B9 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03AE\u03C2 \u03C4\u03C9\u03BD \u03B5\u03BD\u03B5\u03C1\u03B3\u03B5\u03B9\u03CE\u03BD \u03B3\u03B9\u03B1 \u03C4\u03B7 \u03B4\u03B9\u03B1\u03C3\u03C6\u03AC\u03BB\u03B9\u03C3\u03B7 \u03BA\u03B1\u03BB\u03CD\u03C4\u03B5\u03C1\u03BF\u03C5 \u03B1\u03C0\u03BF\u03C4\u03B5\u03BB\u03AD\u03C3\u03BC\u03B1\u03C4\u03BF\u03C2.")), __jsx("h6", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 351,
+        columnNumber: 9
+      }
+    }, "* \u0394\u0399\u039A\u03A4\u03A5\u039F \u03A3\u03A5\u039D\u0395\u03A1\u0393\u0391\u03A4\u03A9\u039D"), __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 352,
+        columnNumber: 9
+      }
+    }, "\u039A\u03AC\u03B8\u03B5 \u03B5\u03C0\u03B9\u03C4\u03C5\u03C7\u03B7\u03BC\u03AD\u03BD\u03B7 \u03C3\u03C5\u03BD\u03B5\u03C1\u03B3\u03B1\u03C3\u03AF\u03B1 \u03B2\u03B1\u03C3\u03AF\u03B6\u03B5\u03C4\u03B1\u03B9 \u03C3\u03C4\u03B7\u03BD \u03C0\u03BF\u03B9\u03CC\u03C4\u03B7\u03C4\u03B1 \u03BA\u03B1\u03B9 \u03C4\u03B9\u03C2 \u03B5\u03BE\u03B5\u03B9\u03B4\u03B9\u03BA\u03B5\u03C5\u03BC\u03AD\u03BD\u03B5\u03C2 \u03B3\u03BD\u03CE\u03C3\u03B5\u03B9\u03C2 \u03C4\u03BF\u03C5 \u03BA\u03AC\u03B8\u03B5 \u03C3\u03C5\u03BD\u03B5\u03C1\u03B3\u03AC\u03C4\u03B7. \u039F\u03B9 \u03AD\u03BC\u03C0\u03B5\u03B9\u03C1\u03BF\u03B9 \u03BA\u03B1\u03B9 \u03AD\u03BC\u03C0\u03B9\u03C3\u03C4\u03BF\u03B9 \u03C3\u03C5\u03BD\u03B5\u03C1\u03B3\u03AC\u03C4\u03B5\u03C2 \u03BC\u03B1\u03C2 \u03BA\u03B1\u03BB\u03CD\u03C0\u03C4\u03BF\u03C5\u03BD \u03B5\u03C5\u03C1\u03CD \u03C6\u03AC\u03C3\u03BC\u03B1 \u03B5\u03C1\u03B3\u03B1\u03C3\u03B9\u03CE\u03BD \u03C0\u03BF\u03C5 \u03BC\u03C0\u03BF\u03C1\u03BF\u03CD\u03BD \u03BD\u03B1 \u03BA\u03B1\u03BB\u03CD\u03C8\u03BF\u03C5\u03BD \u03C4\u03B9\u03C2 \u03B1\u03BD\u03AC\u03B3\u03BA\u03B5\u03C2 \u03BA\u03AC\u03B8\u03B5 \u03AD\u03C1\u03B3\u03BF\u03C5 \u03AE \u03BA\u03B1\u03B9 \u03C3\u03C4\u03B1\u03B8\u03B5\u03C1\u03AE\u03C2 \u03C3\u03C5\u03BD\u03B5\u03C1\u03B3\u03B1\u03C3\u03AF\u03B1\u03C2. \u0391\u03C0\u03BF\u03BA\u03C4\u03AE\u03C3\u03C4\u03B5 \u03C0\u03C1\u03CC\u03C3\u03B2\u03B1\u03C3\u03B7 \u03C3\u03C4\u03BF \u03B4\u03AF\u03BA\u03C4\u03C5\u03BF \u03B1\u03C5\u03C4\u03CC \u03C0\u03BF\u03C5 \u03BA\u03B1\u03BB\u03CD\u03C0\u03C4\u03B5\u03B9 \u03BB\u03CD\u03C3\u03B5\u03B9\u03C2 \u03C3\u03B5 \u03C4\u03BF\u03BC\u03B5\u03AF\u03C2 \u03CC\u03C0\u03C9\u03C2:"), __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 359,
+        columnNumber: 9
+      }
+    }, "\u03A3\u03C7\u03B5\u03B4\u03B9\u03B1\u03C3\u03BC\u03CC\u03C2 website", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 361,
+        columnNumber: 11
+      }
+    }), "\u0393\u03C1\u03B1\u03C6\u03B9\u03C3\u03C4\u03B9\u03BA\u03AE", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 363,
+        columnNumber: 11
+      }
+    }), "\u0395\u03B9\u03BA\u03BF\u03BD\u03BF\u03B3\u03C1\u03B1\u03C6\u03AE\u03C3\u03B5\u03B9\u03C2", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 365,
+        columnNumber: 11
+      }
+    }), "\u03A4\u03C5\u03C0\u03BF\u03B3\u03C1\u03B1\u03C6\u03B9\u03BA\u03AD\u03C2 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03AD\u03C2", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 367,
+        columnNumber: 11
+      }
+    }), __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 368,
+        columnNumber: 11
+      }
+    }), "\u0392\u03AF\u03BD\u03C4\u03B5\u03BF", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 370,
+        columnNumber: 11
+      }
+    }), "\u03A6\u03C9\u03C4\u03BF\u03B3\u03C1\u03B1\u03C6\u03AF\u03B1", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 372,
+        columnNumber: 11
+      }
+    }), "\u039C\u03BF\u03BD\u03C4\u03AC\u03B6", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 374,
+        columnNumber: 11
+      }
+    }), "\u03A5\u03C0\u03BF\u03C4\u03B9\u03C4\u03BB\u03B9\u03C3\u03BC\u03CC\u03C2", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 376,
+        columnNumber: 11
+      }
+    }), "\u0395\u03C0\u03B1\u03B3\u03B3\u03B5\u03BB\u03BC\u03B1\u03C4\u03B9\u03BA\u03AE \u03B3\u03C1\u03B1\u03C6\u03B9\u03BA\u03AE \u03CD\u03BB\u03B7", __jsx("br", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 378,
+        columnNumber: 11
+      }
+    }), "\u03A5\u03C0\u03B7\u03C1\u03B5\u03C3\u03AF\u03B5\u03C2 \u03A4\u03B5\u03C7\u03BD\u03B9\u03BA\u03CE\u03BD \u0391\u03C3\u03C6\u03B1\u03BB\u03B5\u03AF\u03B1\u03C2 & HACCP"))
+  },
+  contact: {
+    slug: "contact",
+    title: "Επικοινωνία",
+    subtitle: "Πείτε μας το πρόβλημά σας",
+    logoSrc: "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_green_cube.png",
+    content: __jsx("div", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 391,
+        columnNumber: 7
+      }
+    }, __jsx("p", {
+      __self: undefined,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 392,
+        columnNumber: 9
+      }
+    }, "\u0398\u03AD\u03BB\u03BF\u03C5\u03BC\u03B5 \u03BD\u03B1 \u03BC\u03AC\u03B8\u03BF\u03C5\u03BC\u03B5 \u03C4\u03B9 \u03C3\u03B1\u03C2 \u03B1\u03C0\u03B1\u03C3\u03C7\u03BF\u03BB\u03B5\u03AF! \u039A\u03B1\u03BD\u03AD\u03BD\u03B1 \u03C0\u03C1\u03CC\u03B2\u03BB\u03B7\u03BC\u03B1 \u03B4\u03B5\u03BD \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C0\u03BF\u03BB\u03CD \u03BC\u03B9\u03BA\u03C1\u03CC \u03B3\u03B9\u03B1 \u03BD\u03B1 \u03C0\u03AC\u03C1\u03B5\u03B9 \u03BC\u03B9\u03B1 \u03BB\u03CD\u03C3\u03B7 \u03C0\u03BF\u03C5 \u03B8\u03B1 \u03C3\u03B1\u03C2 \u03B7\u03C1\u03B5\u03BC\u03AE\u03C3\u03B5\u03B9. \u0395\u03AC\u03BD \u03B8\u03AD\u03BB\u03B5\u03C4\u03B5 \u03BD\u03B1 \u03BC\u03AC\u03B8\u03B5\u03C4\u03B5 \u03C0\u03B5\u03C1\u03B9\u03C3\u03C3\u03CC\u03C4\u03B5\u03C1\u03B1, \u03B5\u03AC\u03BD \u03AD\u03C7\u03B5\u03C4\u03B5 \u03BF\u03C0\u03BF\u03B9\u03B1\u03B4\u03AE\u03C0\u03BF\u03C4\u03B5 \u03B1\u03C0\u03BF\u03C1\u03AF\u03B1 \u03AE \u03B9\u03B4\u03AD\u03B1, \u03B5\u03C0\u03B9\u03BA\u03BF\u03B9\u03BD\u03C9\u03BD\u03AE\u03C3\u03C4\u03B5 \u03C3\u03C4\u03BF email: info@rodiavalkanou.com (+link \u03B3\u03B9\u03B1 \u03C4\u03BF linkedin;)"))
+  }
+};
+function getPageData(key) {
+  if (key) {
+    return pages[key];
+  } else {
+    return pages.about;
+  }
+}
+
+;
+    var _a, _b;
+    // Legacy CSS implementations will `eval` browser code in a Node.js context
+    // to extract CSS. For backwards compatibility, we need to check we're in a
+    // browser context before continuing.
+    if (typeof self !== 'undefined' &&
+        // AMP / No-JS mode does not inject these helpers:
+        '$RefreshHelpers$' in self) {
+        var currentExports = module.__proto__.exports;
+        var prevExports = (_b = (_a = module.hot.data) === null || _a === void 0 ? void 0 : _a.prevExports) !== null && _b !== void 0 ? _b : null;
+        // This cannot happen in MainTemplate because the exports mismatch between
+        // templating and execution.
+        self.$RefreshHelpers$.registerExportsForReactRefresh(currentExports, module.i);
+        // A module can be accepted automatically based on its exports, e.g. when
+        // it is a Refresh Boundary.
+        if (self.$RefreshHelpers$.isReactRefreshBoundary(currentExports)) {
+            // Save the previous exports on update so we can compare the boundary
+            // signatures.
+            module.hot.dispose(function (data) {
+                data.prevExports = currentExports;
+            });
+            // Unconditionally accept an update to this module, we'll check if it's
+            // still a Refresh Boundary later.
+            module.hot.accept();
+            // This field is set when the previous version of this module was a
+            // Refresh Boundary, letting us know we need to check for invalidation or
+            // enqueue an update.
+            if (prevExports !== null) {
+                // A boundary can become ineligible if its exports are incompatible
+                // with the previous exports.
+                //
+                // For example, if you add/remove/change exports, we'll want to
+                // re-execute the importing modules, and force those components to
+                // re-render. Similarly, if you convert a class component to a
+                // function, we want to invalidate the boundary.
+                if (self.$RefreshHelpers$.shouldInvalidateReactRefreshBoundary(prevExports, currentExports)) {
+                    module.hot.invalidate();
+                }
+                else {
+                    self.$RefreshHelpers$.scheduleUpdate();
+                }
+            }
+        }
+        else {
+            // Since we just executed the code for the module, it's possible that the
+            // new exports made it ineligible for being a boundary.
+            // We only care about the case when we were _previously_ a boundary,
+            // because we already accepted this update (accidental side effect).
+            var isNoLongerABoundary = prevExports !== null;
+            if (isNoLongerABoundary) {
+                module.hot.invalidate();
+            }
+        }
+    }
+
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../node_modules/webpack/buildin/harmony-module.js */ "./node_modules/webpack/buildin/harmony-module.js")(module)))
+
+/***/ })
+
+})
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLy4vZGF0YS9wYWdlc0RhdGEuanMiXSwibmFtZXMiOlsicGFnZXMiLCJob21lIiwic2x1ZyIsInRpdGxlIiwiY29udGVudCIsImFib3V0IiwibG9nb1NyYyIsInN5bWJvdWxleXRpa2kiLCJzdWJ0aXRsZSIsIm9yZ2Fud3NpIiwib2lrb25vbWlrYSIsImRpZ2l0YWwiLCJzeW5lcmdhc2lhIiwiY29udGFjdCIsImdldFBhZ2VEYXRhIiwia2V5Il0sIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7Ozs7Ozs7Ozs7QUFBTyxJQUFNQSxLQUFLLEdBQUc7QUFDbkJDLE1BQUksRUFBRTtBQUNKQyxRQUFJLEVBQUUsRUFERjtBQUVKQyxTQUFLLEVBQUUsaUVBRkg7QUFHSkMsV0FBTyxFQUNMO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsT0FDRTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLDZWQURGLEVBRUU7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSx3ekJBRkYsRUFPRTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLHV1QkFQRjtBQUpFLEdBRGE7QUFtQm5CQyxPQUFLLEVBQUU7QUFDTEgsUUFBSSxFQUFFLE9BREQ7QUFFTEMsU0FBSyxFQUFFLFNBRkY7QUFHTEcsV0FBTyxFQUNMLHFHQUpHO0FBS0xGLFdBQU8sRUFDTDtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLE9BQ0U7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxrdURBREYsRUFTRTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLDgxREFURixFQWlCRTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLHdtREFqQkY7QUFORyxHQW5CWTtBQW9EbkJHLGVBQWEsRUFBRTtBQUNiTCxRQUFJLEVBQUUsZUFETztBQUViQyxTQUFLLEVBQUUsZUFGTTtBQUdiSyxZ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QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLE1BZkYsOEVBaUJFO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsTUFqQkYsa0pBbUJFO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsTUFuQkYsMktBN0hGO0FBUFEsR0FsT087QUErWG5CUyxTQUFPLEVBQUU7QUFDUFgsUUFBSSxFQUFFLFNBREM7QUFFUEMsU0FBSyxFQUFFLGFBRkE7QUFHUEssWUFBUSxFQUFFLDJCQUhIO0FBSVBGLFdBQU8sRUFDTCxxR0FMSztBQU1QRixXQUFPLEVBQ0w7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxPQUNFO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsK21DQURGO0FBUEs7QUEvWFUsQ0FBZDtBQWtaQSxTQUFTVSxXQUFULENBQXFCQyxHQUFyQixFQUEwQjtBQUMvQixNQUFJQSxHQUFKLEVBQVM7QUFDUCxXQUFPZixLQUFLLENBQUNlLEdBQUQsQ0FBWjtBQUNELEdBRkQsTUFFTztBQUNMLFdBQU9mLEtBQUssQ0FBQ0ssS0FBYjtBQUNEO0FBQ0YiLCJmaWxlIjoic3RhdGljL3dlYnBhY2svcGFnZXMvW3BhZ2VdLjJjMjIxZTg3ZGE2N2JhMjJmYjhjLmhvdC11cGRhdGUuanMiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgY29uc3QgcGFnZXMgPSB7XHJcbiAgaG9tZToge1xyXG4gICAgc2x1ZzogXCJcIixcclxuICAgIHRpdGxlOiBcIs6Vz4XPhs6szr3PhM6xz4PPhM61z4IgzrrOsc65IM6xz4DOv860zr/PhM65zrrOrc+CIM67z43Pg861zrnPgiDOs865zrEgzrXPgM65z4fOtc65z4HOrs+DzrXOuc+CIM66zqzOuM61IM61zq/OtM6/z4XPgi5cIixcclxuICAgIGNvbnRlbnQ6IChcclxuICAgICAgPGRpdj5cclxuICAgICAgICA8cD7Oms6xzrvPjs+CIM6uz4HOuM6xz4TOtSDPg8+Ezr8gzrXPgM+MzrzOtc69zr8gzrLOrs68zrEgz4TOt8+CIM61z4DOuc+HzrXOuc+BzrfOvM6xz4TOuc66zq7PgiDPg86xz4Igzr/Pgc6zzqzOvc+Jz4POt8+CITwvcD5cclxuICAgICAgICA8cD5cclxuICAgICAgICAgIM6azqzOuM61IM66zq/Ovc63z4POtyDPg8+Ezr/OvSDOsc+HzrHOvc6uIM61z4DOuc+HzrXOuc+BzrfOvM6xz4TOuc66z4wgzrrPjM+DzrzOvyDOtc+AzrnPhM+FzrPPh86szr3Otc65IM+Ezr/OvSDPg8+Ez4zPh86/IM+EzrfPglxyXG4gICAgICAgICAgzrzPjM69zr8gzrXOrM69IM6yzrHPg86vzrbOtc+EzrHOuSDPg861IM+Az4HOsc6zzrzOsc+EzrnOus6uIM6/z4XPg86vzrEgzrrOsc65IM+Dz4TOt8+Bzq/Ots61z4TOsc65IM+DzrUgz4PPhM65zrLOsc+BzqxcclxuICAgICAgICAgIM6/z4HOs86xzr3Pic68zq3Ovc6/IM+AzrvOsc6vz4POuc6/LlxyXG4gICAgICAgIDwvcD5cclxuICAgICAgICA8cD5cclxuICAgICAgICAgIM6fzrkgz4XPgM63z4HOtc+Dzq/Otc+CIM+Azr/PhSDPgM+Bzr/Pg8+Gzq3Pgc6/zr3PhM6xzrkgzrLOsc+Dzq/Ots6/zr3PhM6xzrkgz4PPhM63IM+Dz4XOvc6tz4DOtc65zrEsIM+EzrcgzrTOtc6/zr3PhM6/zrvOv86zzq/OsSxcclxuICAgICAgICAgIM+Ezr8gzrHOuc+DzrjOt8+EzrnOus+MIM66z4HOuc+Ezq7Pgc65zr8sIM+EzrfOvSDOsc+Azr/PhM61zrvOtc+DzrzOsc+EzrnOus+Mz4TOt8+EzrEgzrrOsc65IM61zrzPgM65z4PPhM61z4XPhM65zrrPjM+EzrfPhM6xLlxyXG4gICAgICAgIDwvcD5cclxuICAgICAgPC9kaXY+XHJcbiAgICApLFxyXG4gIH0sXHJcbiAgYWJvdXQ6IHtcclxuICAgIHNsdWc6IFwiYWJvdXRcIixcclxuICAgIHRpdGxlOiBcIs6jz4fOtc+EzrnOus6sXCIsXHJcbiAgICBsb2dvU3JjOlxyXG4gICAgICBcImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9zbWFyMTUyL3JvZGlhLXZhbGthbm91L21hc3Rlci9sb2dvL21lbnVfY3ViZXMvbWVudV9ncmVlbl9jdWJlLnBuZ1wiLFxyXG4gICAgY29udGVudDogKFxyXG4gICAgICA8ZGl2PlxyXG4gICAgICAgIDxwPlxyXG4gICAgICAgICAgzpzOrc+DzrEgz4PPhM6xIDIyIM+Hz4HPjM69zrnOsSDOtM65zrHPgc66zr/Pjc+CIM61z4DOuc+HzrXOuc+BzrfOvM6xz4TOuc66zq7PgiDOtM+BzrHPg8+EzrfPgc65z4zPhM63z4TOsc+CLCDOtyDOoc6/zrTOuc6sXHJcbiAgICAgICAgICDOks6xzrvOus6szr3Ov8+FIM66zrnOvc6uzrjOt866zrUgz4POtSDPgM6/zrvOu86xz4DOu86/z43PgiDPhM6/zrzOtc6vz4IsIM6xz4DPjCDPhM6/zr0gz4fPjs+Bzr8gzrTOuc6/z4HOs86szr3Pic+DzrfPglxyXG4gICAgICAgICAgz4PPhc69zrHPhc67zrnPjs69LCDOtc66zrTPjM+DzrXOuc+CLCDOtc+AzrnPh861zrnPgc63zrzOsc+EzrnOus6sIM60z47Pgc6xIM68zq3Ph8+BzrkgzrTOt868zrnOv8+Fz4HOs86vzrEgzrnPg8+Ezr/PhM+Mz4DPic69XHJcbiAgICAgICAgICDOus6xzrkgzrXPhs6xz4HOvM6/zrPPjs69IM60zrnOsc60zrnOus+Ez43Ov8+FLCDOus61zrnOvM61zr3Ov86zz4HOrM+GzrfPg863IM66zrHOuSDOtM65zrHPh861zq/Pgc65z4POtyDOtc+EzrHOuc+BzrnOus+Ozr1cclxuICAgICAgICAgIHNvY2lhbCBtZWRpYSDOu86/zrPOsc+BzrnOsc+DzrzPjs69LCDOu86/zrPOuc+Dz4TOuc66zqwgJmFtcDsgzr/Ouc66zr/Ovc6/zrzOuc66zq4gzrTOuc6xz4fOtc6vz4HOuc+DzrdcclxuICAgICAgICAgIM61z4TOsc65z4HOtc65z47OvSDOus6xzrkgbWFuYWdlbWVudC5cclxuICAgICAgICA8L3A+XHJcbiAgICAgICAgPHA+XHJcbiAgICAgICAgICDOnM61z4HOuc66zq3PgiDOsc+Az4wgz4TOuc+CIM60zrXOvs65z4zPhM63z4TOtc+CIM+Azr/PhSDOrc+Hzr/Phc69IM66zrHPhM6xzrrPhM63zrjOtc6vIM68zq3Pg86xIM6xz4DPjCDPgM6/zrvPjc+Hz4HOv869zrdcclxuICAgICAgICAgIM61zrzPgM61zrnPgc6vzrEgzrXOr869zrHOuSDOtyDOtM+Fzr3Osc+Ez4zPhM63z4TOsSDOtc+Azr/PgM+EzrnOus6/z40gzrXOu86tzrPPh86/z4Ugz4PPhM63zr0gzrHOvc6sz4DPhM+Fzr7OtyDPgM6/zrvOu86xz4DOu8+Ozr1cclxuICAgICAgICAgIM+AzrXOtM6vz4nOvSDOus6xzrkgz4PPhc69zrXPgc6zzrHPg865z47OvSDOus6xzrkgzrcgzrTPhc69zrHOvM65zrrOriDOus6xzrjOv860zq7Os863z4POtyDOv868zqzOtM+Jzr0gzrzOtSDOuc60zrHOvc65zrrOrlxyXG4gICAgICAgICAgzrTOuc6xz4fOtc6vz4HOuc+Dzrcgz4fPgc6/zr3Ouc66z47OvSDOv8+Bzq/Pic69LiDOlc6+zq/Pg86/z4Ugz4POt868zrHOvc+EzrnOus6tz4Igzrcgz4DPgc6/z4POsc+BzrzOv8+Dz4TOuc66z4zPhM63z4TOsSDOus6xzrkgzrdcclxuICAgICAgICAgIM+Az4HOv8+Dzq7Ou8+Jz4POtyDPg861IM64zrXPhM65zrrOrCDOsc+Azr/PhM61zrvOrc+DzrzOsc+EzrEsIM63IM+Dz4XOvc6tz4DOtc65zrEgzrrOsc65IM63IM61z4DOuc+Ez4XPh86uz4Igz4PPhc69zrXPgc6zzrHPg86vzrFcclxuICAgICAgICAgIM68zrUgzqzOu867zr/Phc+CLlxyXG4gICAgICAgIDwvcD5cclxuICAgICAgICA8cD5cclxuICAgICAgICAgIM6jzrUgzrrOrM64zrUgz4TOv868zq3OsSDOtc69zrHPg8+Hz4zOu863z4POt8+CLCDOvs61z4fPjs+BzrnOts61IM+AzqzOvc+EzrEgzrcgzr/Pgc6zzrHOvc+Jz4TOuc66zq4gzrrOsc65IM61z4DOv8+Az4TOuc66zq5cclxuICAgICAgICAgIM65zrrOsc69z4zPhM63z4TOsSwgzrcgzr/PgM6/zq/OsSDOvM6tz4POsSDOsc+Az4wgz4TOt869IM61zrzPgM61zrnPgc6vzrEgzrTOv868zq7OuM63zrrOtSDPic+CIM63IM66z4XPgc6vzrHPgc+HzrdcclxuICAgICAgICAgIM61z4DOsc6zzrPOtc67zrzOsc+EzrnOus6uIM66zrHPhM61z43OuM+Fzr3Pg86uIM+EzrfPgi4gzpcgzrTPhc69zrHPhM+Mz4TOt8+EzrEgz4TOt8+CIM+Iz43Ph8+BzrHOuc68zrfPgiDPgM+Bzr/Pg86tzrPOs865z4POt8+CXHJcbiAgICAgICAgICDOus6szrjOtSDPgM+Bzr/Oss67zq7OvM6xz4TOv8+CIM66zrHOuSDOtyDOss61zrLOsc65z4zPhM63z4TOsSDPgM6xz4HOsc6zz4nOs86uz4IgzrXPhc+GzqzOvc+EzrHPg8+Ez4nOvSDOu8+Nz4POtc+Jzr0gzrXOr869zrHOuVxyXG4gICAgICAgICAgzrrPhc+Bzq/Osc+Bz4fOvyDPg8+Fz4PPhM6xz4TOuc66z4wgzrrOrM64zrUgz4TOt8+CIM+Dz4XOvc61z4HOs86xz4POr86xz4IuXHJcbiAgICAgICAgPC9wPlxyXG4gICAgICA8L2Rpdj5cclxuICAgICksXHJcbiAgfSxcclxuICBzeW1ib3VsZXl0aWtpOiB7XHJcbiAgICBzbHVnOiBcInN5bWJvdWxleXRpa2lcIixcclxuICAgIHRpdGxlOiBcIs6jz4XOvM6yzr/Phc67zrXPhc+EzrnOus6uXCIsXHJcbiAgICBzdWJ0aXRsZTogXCLOk865zrEgz4zOu86xIM+Fz4DOrM+Bz4fOtc65IM68zrnOsSDOu8+Nz4POty5cIixcclxuICAgIGxvZ29TcmM6XHJcbiAgICAgIFwiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3NtYXIxNTIvcm9kaWEtdmFsa2Fub3UvbWFzdGVyL2xvZ28vbWVudV9jdWJlcy9tZW51X3B1cnBsZV9jdWJlLnBuZ1wiLFxyXG4gICAgY29udGVudDogKFxyXG4gICAgICA8ZGl2PlxyXG4gICAgICAgIDxwPs6Rz4DPjCDPhM63zr0gzrnOtM6tzrEgz4PPhM6/IM6xz4DOv8+Ezq3Ou861z4POvM6xPC9wPlxyXG4gICAgICAgIDxwPlxyXG4gICAgICAgICAgzpzOtSDPhM63IM60zrfOvM65zr/Phc+BzrPOr86xIM6+zrXOus6szrjOsc+Bz4nOvSDPg8+Ez4zPh8+Jzr0sIM+Ezrcgz4POsc+Gzq4gz4fOsc+Bz4TOv86zz4HOrM+GzrfPg863IM+EzrfPgiDPgM6/z4HOtc6vzrHPglxyXG4gICAgICAgICAgzrrOsc65IM+EzrfOvSDOsc69zqzPgM+Ez4XOvs63IM+Ez4nOvSDOuc60zrHOvc65zrrPjs69IM61z4HOs86xzrvOtc6vz4nOvSwgz4TOvyDOtc+AzrnPhM+Fz4fOt868zq3Ovc6/IM6xz4DOv8+Ezq3Ou861z4POvM6xIM64zrFcclxuICAgICAgICAgIM68z4DOv8+BzrXOryDOvc6xIM60zrnOsc+EzrfPgc63zrjOtc6vIM66zrHOuSDOvc6xIM+Dz4XOvc61z4fOr8+DzrXOuSDOvc6xIM61zr7Otc67zq/Pg8+DzrXPhM6xzrkuXHJcbiAgICAgICAgPC9wPlxyXG4gICAgICAgIDxkaXY+XHJcbiAgICAgICAgICA8aW1nXHJcbiAgICAgICAgICAgIGNsYXNzTmFtZT1cInctMTAwXCJcclxuICAgICAgICAgICAgc3JjPVwiaHR0cHM6Ly9naXRodWIuY29tL3NtYXIxNTIvcm9kaWEtdmFsa2Fub3UvcmF3L21hc3Rlci9pbWcvc3ltYm91bGV5dGlraTA0LnBuZ1wiXHJcbiAgICAgICAgICAgIGFsdD1cIlwiXHJcbiAgICAgICAgICAvPlxyXG4gICAgICAgIDwvZGl2PlxyXG4gICAgICAgIDxwPlxyXG4gICAgICAgICAgzqDPgc6/z4TOrM+DzrXOuc+CIM67z43Pg861z4nOvSDOs865zrEgz4TOt869IM6szrzOtc+DzrcgzrLOtc67z4TOr8+Jz4POtyDPhM63z4IgzrrOsc64zrfOvM61z4HOuc69zq7PgiDOu861zrnPhM6/z4XPgc6zzq/Osc+CXHJcbiAgICAgICAgICDPhM63z4IgzrXPgM65z4fOtc6vz4HOt8+DzrfPgiDOsc67zrvOrCDOus6xzrkgz4TOt8+CIM+Dz4XOvc6/zrvOuc66zq7PgiDPg8+Ez4HOsc+EzrfOs865zrrOrs+CIM+EzrfPgiDOus6xz4TOtc+NzrjPhc69z4POt8+CLlxyXG4gICAgICAgICAgzpHPjc6+zrfPg863IM+EzrfPgiDPgM6xz4HOsc6zz4nOs865zrrPjM+EzrfPhM6xz4IgzrrOsc65IM6xzr3PhM6xzrPPic69zrnPg8+EzrnOus+Mz4TOt8+EzrHPgi5cclxuICAgICAgICA8L3A+XHJcbiAgICAgICAgPHA+XHJcbiAgICAgICAgICDOp86xz4HOsc66z4TOt8+BzrnPg868z4zPgiDOsc6+zrnPjs69IM66zrHOuSDOv8+BzqzOvM6xz4TOv8+CICh2aXNpb24gLyBtaXNzaW9uIHN0YXRlbWVudHMpXHJcbiAgICAgICAgICA8YnIgLz5cclxuICAgICAgICAgIM6UzrfOvM65zr/Phc+BzrPOr86xIM61z4DOuc+HzrXOuc+BzrfOvM6xz4TOuc66zq7PgiDPg8+Ez4HOsc+EzrfOs865zrrOrs+CXHJcbiAgICAgICAgICA8YnIgLz5cclxuICAgICAgICAgIM6Vz4DOuc+HzrXOuc+BzrfOvM6xz4TOuc66z4wgz4DOu86szr3Ov1xyXG4gICAgICAgICAgPGJyIC8+XHJcbiAgICAgICAgICDOo8+Ez4HOsc+EzrfOs865zrrOrc+CIM68zrXOu86tz4TOtc+COlxyXG4gICAgICAgICAgPGJyIC8+XHJcbiAgICAgICAgICDOm861zrnPhM6/z4XPgc6zzq/Osc+CIM61z4DOuc+HzrXOr8+BzrfPg863z4IgJmFtcDsgzrHOvc+EzrHOs8+Jzr3Ouc+Dz4TPjs69XHJcbiAgICAgICAgICA8YnIgLz5cclxuICAgICAgICAgIFdvcmtmbG93ICZhbXA7IHRpbWUgbWFuYWdlbWVudFxyXG4gICAgICAgIDwvcD5cclxuICAgICAgICA8cD5cclxuICAgICAgICAgIM6fzrkgzrHOvs65zrHOus6/zq8gz4DPhc67z47Ovc61z4Igz4DOv8+FIM6/z4HOr862zr/Ovc+EzrHOuSDOtc6+IM6xz4HPh86uz4IsIM60zrnOsc+Ez4HOrc+Hzr/Phc69IM+MzrvOsSDPhM6xIM61z4DOr8+AzrXOtM6xXHJcbiAgICAgICAgICDOu861zrnPhM6/z4XPgc6zzq/Osc+CIM68zrnOsc+CIM61z4DOuc+HzrXOr8+BzrfPg863z4IgzrrOsc65IM67zrXOuc+Ezr/Phc+BzrPOv8+Nzr0gz4nPgiDOss6sz4POtyDOs865zrEgz4zOu861z4Igz4TOuc+CXHJcbiAgICAgICAgICDOtM+BzqzPg861zrnPgiwgz4TOuc+CIM61zr3Orc+BzrPOtc65zrXPgiDOus6xzrkgz4TOvyDPjM+BzrHOvM6sIM+EzrfPgi4gzpXOr869zrHOuSDOtc+Azq/Pg863z4Igzr/OuSDOvs61zrrOrM64zrHPgc6/zrlcclxuICAgICAgICAgIM6szr7Ov869zrXPgiDPgM6szr3PiSDPg8+Ezr/Phc+CIM6/z4DOv86vzr/Phc+CIM6yzrHPg86vzrbOtc+EzrHOuSDOv867z4zOus67zrfPgc63IM63IM+Dz4TPgc6xz4TOt86zzrnOus6uIG1hcmtldGluZ1xyXG4gICAgICAgICAgzrPOuc6xIM+EzrfOvSDOtc+AzrnPh861zq/Pgc63z4POtywgz4TOtyDPhs+Fz4POuc66zq4gzrrOsc65IM+EzrfOvSDPiM63z4bOuc6xzrrOriDPhM63z4Igz4DOsc+Bzr/Phc+Dzq/OsS5cclxuICAgICAgICA8L3A+XHJcbiAgICAgIDwvZGl2PlxyXG4gICAgKSxcclxuICB9LFxyXG4gIG9yZ2Fud3NpOiB7XHJcbiAgICBzbHVnOiBcIm9yZ2Fud3NpXCIsXHJcbiAgICB0aXRsZTogXCLOn8+BzrPOrM69z4nPg863XCIsXHJcbiAgICBzdWJ0aXRsZTogXCLOms6szrjOtSDPhM65IM6tz4fOtc65IM+EzrcgzrjOrc+Dzrcgz4TOv8+FXCIsXHJcbiAgICBsb2dvU3JjOlxyXG4gICAgICBcImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9zbWFyMTUyL3JvZGlhLXZhbGthbm91L21hc3Rlci9sb2dvL21lbnVfY3ViZXMvbWVudV9vcmFuZ2VfY3ViZS5wbmdcIixcclxuICAgIGNvbnRlbnQ6IChcclxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJcIj5cclxuICAgICAgICA8cD7On8+BzrPOrM69z4nPg863ID0gzpHPgM+MzrTOv8+Dzrc8L3A+XHJcbiAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJcIj5cclxuICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiXCI+XHJcbiAgICAgICAgICAgIDxwPlxyXG4gICAgICAgICAgICAgIM6XIM+Dz4nPg8+Ezq4gzr/Pgc6zzqzOvc+Jz4POtyDOtM61zr0gzrXOr869zrHOuSDPg8+EzrHPhM65zrrPjM+CIM+Dz4TPjM+Hzr/PgiwgzrHOu867zqwgz4PPjc+Dz4TOt868zrEgz4DOu86/zq7Os863z4POt8+CXHJcbiAgICAgICAgICAgICAgz4POtSDOrc69zrEgzrTOuc6xz4HOus6tz4Igz4TOsc6+zq/OtM65IM68zrUgz4PPhc69zrXPh861zq/PgiDOtc+AzrHOvc6xz4DPgc6/z4POtM65zr/Pgc65z4POvM6/z43PgiDOus6xzrlcclxuICAgICAgICAgICAgICDOss61zrvPhM65z47Pg861zrnPgi5cclxuICAgICAgICAgICAgPC9wPlxyXG4gICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImZsb2F0aW5nSW1hZ2VcIj5cclxuICAgICAgICAgICAgPGltZ1xyXG4gICAgICAgICAgICAgIHNyYz1cImh0dHBzOi8vZ2l0aHViLmNvbS9zbWFyMTUyL3JvZGlhLXZhbGthbm91L3Jhdy9tYXN0ZXIvaW1nL2ltZy1jeWNsZTIucG5nXCJcclxuICAgICAgICAgICAgICBhbHQ9XCJcIlxyXG4gICAgICAgICAgICAvPlxyXG4gICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgPHA+XHJcbiAgICAgICAgICDOoM+Bz47PhM6/IM6yzq7OvM6xIM61zq/Ovc6xzrkgz4DOrM69z4TOsSDOtyDOss61zrvPhM65z4PPhM6/z4DOv86vzrfPg863IM+MzrvPic69IM+Ez4nOvSDOus6xzrjOt868zrXPgc65zr3Pjs69LFxyXG4gICAgICAgICAgzrvOtc65z4TOv8+Fz4HOs865zrrPjs69IM60zrnOsc60zrnOus6xz4POuc+Ozr0gzrPOuc6xIM69zrEgzrzPgM6/z4HOtc6vIM66zrHOvc61zq/PgiDOvc6xIM6/zrTOt86zzrfOuM61zq8gz4PPhM63zr1cclxuICAgICAgICAgIM6/z4HOuM6/zrvOv86zzrnPg8+EzrnOus6uIM60z4zOvM63z4POtyDPhM63z4IgzrTOuc6xz4fOtc6vz4HOuc+DzrfPgiDOus6szrjOtSDOtc+AzrHOs86zzrXOu868zrHPhM65zrrOrs+CIM60z4HOrM+DzrfPgi5cclxuICAgICAgICA8L3A+XHJcbiAgICAgICAgPHA+XHJcbiAgICAgICAgICDOlyDOt8+BzrXOvM6vzrEgzrrOsc65IM63IM6xz4PPhs6szrvOtc65zrEgzrXOvc+Mz4Igz4PPic+Dz4TOrCDOv8+BzrPOsc69z4nOvM6tzr3Ov8+FIM+AzrXPgc65zrLOrM67zrvOv869z4TOv8+CICjOtc6vz4TOtVxyXG4gICAgICAgICAgzrHPhc+Ez4wgzrXOr869zrHOuSDOrc69zrEgzrPPgc6xz4bOtc6vzr8sIM61zq/PhM61IM61zq/Ovc6xzrkgzq3Ovc6xz4Igz4XPgM6/zrvOv86zzrnPg8+Ezq7PgiksIM+Gzq3Pgc69zrXOuSDPhM63zr1cclxuICAgICAgICAgIM+Iz43Ph8+BzrHOuc68zrcgzrHOvc+EzrnOvM61z4TPjs+AzrnPg863IM+Ez4nOvSDOtM65zrHPgM+Bzr/Pg8+Jz4DOuc66z47OvSDOtc+AzrHOs86zzrXOu868zrHPhM65zrrPjs69IM+Dz4fOrc+DzrXPic69LFxyXG4gICAgICAgICAgzrHPhc6+zqzOvc61zrkgz4TOt869IM+AzrHPgc6xzrPPic6zzrnOus+Mz4TOt8+EzrEgzrrOsc65IM6/zrTOt86zzrXOrywgz4TOtc67zrnOus6sLCDPg8+EzrfOvSDOsc+Nzr7Ot8+Dzrcgz4TOt8+CXHJcbiAgICAgICAgICDOsc+Az4zOtM6/z4POt8+CIM66zrHOuSDPhM+Jzr0gzrrOtc+BzrTPjs69LlxyXG4gICAgICAgIDwvcD5cclxuICAgICAgICA8cD5cclxuICAgICAgICAgIM6Rz4DPjCDOsc+Ezr/OvM65zrrOrc+CIM61z4DOuc+HzrXOuc+Bzq7Pg861zrnPgiDOvM6tz4fPgc65IM61zrrOtc6vzr3Otc+CIM68zrUgzrzOtc6zzqzOu86/IM6xzr3OuM+Bz47PgM65zr3OvyDOtM+Fzr3Osc68zrnOus+MLFxyXG4gICAgICAgICAgzrcgzr/Pgc6zzqzOvc+Jz4POtyDOtc6vzr3Osc65IM+Ezr8gz4fOsc+BzrnPg868zrHPhM65zrrPjCDOtc66zrXOr869zr8gz4PPhM6/zrnPh861zq/OvyDPgM6/z4UsIM+DzrUgzrLOrM64zr/PgiDPh8+Bz4zOvc6/z4VcclxuICAgICAgICAgIM66zrHOuSDPgM6szr3PhM6/z4TOtSDOvM61IM+Dz4XOvc6tz4DOtc65zrEsIM60zrnOsc+EzrfPgc61zq8gz4TOtyDPg8+Jz4PPhM6uIM67zrXOuc+Ezr/Phc+BzrPOr86xIM66zrHOuSDOuM6tz4TOtc65XHJcbiAgICAgICAgICDPg8+EzrnOss6xz4HOrc+CIM6yzqzPg861zrnPgiDOs865zrEgz4PPhc69zrXPh8+MzrzOtc69zrcgzrHOvc6sz4DPhM+Fzr7Oty5cclxuICAgICAgICA8L3A+XHJcbiAgICAgICAgPHA+XHJcbiAgICAgICAgICDOnM65zrEgzrXPgM65z4fOtc6vz4HOt8+Dzrcgzr/Phs61zq/Ou861zrkgzr3OsSDOtM+BzrEgzrrOsc65IM+Mz4fOuSDOvc6xIM6xzr3PhM65zrTPgc6sLiDOms6szrjOtSDOsc+Az4zPhs6xz4POtyxcclxuICAgICAgICAgIM61zr3Orc+BzrPOtc65zrEgzq4gzrTPgc6sz4POtyDPgM+Bzq3PgM61zrkgzr3OsSDOtc6vzr3Osc65IM6xz4DOv8+Ezq3Ou861z4POvM6xIM+Dz4TPgc6xz4TOt86zzrnOus6/z40gz4PPh861zrTOuc6xz4POvM6/z40gzrrOsc65XHJcbiAgICAgICAgICDPjM+Hzrkgzr3OsSDPgM+Bzr/Ous+Nz4DPhM61zrkgz4TPhc+HzrHOr86xIM+Jz4IgzrHOvc+Ezq/OtM+BzrHPg863IM+DzrUgz4TPhc+HzrHOr861z4Igz4PPhc69zrjOrs66zrXPgi4gzojPhM+DzrlcclxuICAgICAgICAgIM6xz4XOvs6szr3Otc+EzrHOuSDOtyDOsc+Az4zOtM6/z4POtyDPhM63z4IgzrrOrM64zrUgzrXPgM65z4fOtc65z4HOt868zrHPhM65zrrOrs+CIM66zq/Ovc63z4POt8+CLCDOtc69z44gz4DOtc+BzrnOv8+Bzq/Ots61z4TOsc65XHJcbiAgICAgICAgICDOtyDOts63zrzOuc6sIM+Azr/PhSDOvM+Azr/Pgc61zq8gzr3OsSDPgM+Bzr/Orc67zrjOtc65IM6xz4DPjCDOrM6zzr3Pic+Dz4TOtc+CIM+AzrHPgc6xzrzOrc+Ez4HOv8+Fz4IgzrHPhs6/z40gzrzPgM6/z4HOv8+Nzr1cclxuICAgICAgICAgIM69zrEgz4DOsc+BzrjOv8+Nzr0gzrPPgc6uzrPOv8+BzrEgzrrOsc6vz4HOuc61z4IgzrHPgM6/z4bOrM+DzrXOuc+CXHJcbiAgICAgICAgPC9wPlxyXG4gICAgICA8L2Rpdj5cclxuICAgICksXHJcbiAgfSxcclxuICBvaWtvbm9taWthOiB7XHJcbiAgICBzbHVnOiBcIm9pa29ub21pa2FcIixcclxuICAgIHRpdGxlOiBcIs6fzrnOus6/zr3Ov868zrnOus6sXCIsXHJcbiAgICBzdWJ0aXRsZTogXCLOpM6xICsgzrrOsc65IM+EzrEg4oCTIM+EzrfPgiDOus6xzrjOt868zrXPgc65zr3PjM+EzrfPhM6xz4JcIixcclxuICAgIGxvZ29TcmM6XHJcbiAgICAgIFwiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3NtYXIxNTIvcm9kaWEtdmFsa2Fub3UvbWFzdGVyL2xvZ28vbWVudV9jdWJlcy9tZW51X3llbGxvd19jdWJlLnBuZ1wiLFxyXG4gICAgY29udGVudDogKFxyXG4gICAgICA8ZGl2PlxyXG4gICAgICAgIDxwPlxyXG4gICAgICAgICAgzqDPjs+CIM69zrEgzrLPgc6/z43OvM61IM63z4HOtc68zq/OsSDPjM+EzrHOvSDOus6xzrjOt868zrXPgc65zr3OrCDPhM6/IM66zrXPhs6szrvOuSDOvM6xz4IgzrLPgc6szrbOtc65IM68zrUgzrXPgc+Jz4TOrs+DzrXOuc+CXHJcbiAgICAgICAgICDOus6xzrkgzrHOvc63z4PPhc+Hzq/Otc+CIM6zzrnOsSDPhM63zr0gzr/Ouc66zr/Ovc6/zrzOuc66zq4gzrzOsc+CIM+Dz4TOsc64zrXPgc+Mz4TOt8+EzrE7IM6XIM6xz4DOrM69z4TOt8+DzrcgzrXOr869zrHOuVxyXG4gICAgICAgICAgz4DOrM69z4TOv8+EzrUgzrcgz4jPjc+Hz4HOsc65zrzOtyDOus6xzrkgzrvOv86zzrnOus6uIM6xzr3PhM65zrzOtc+Ez47PgM65z4POtywgzrzOtSDOus6xzrjOsc+Bz4wgz4DPgc6/zrPPgc6xzrzOvM6xz4TOuc+DzrzPjCFcclxuICAgICAgICA8L3A+XHJcbiAgICAgICAgPHA+XHJcbiAgICAgICAgICDOlc6vz4TOtSDPgM+Bz4zOus61zrnPhM6xzrkgzrPOuc6xIM+Az4HOv8+Dz4nPgM6/z4DOv865zrfOvM6tzr3OsSDPgM6xzrrOrc+EzrEgZXhjZWwgzrPOuc6xIM+EzrfOvSDPgM6xz4HOsc66zr/Ou86/z43OuM63z4POt1xyXG4gICAgICAgICAgz4TPic69IM6/zrnOus6/zr3Ov868zrnOus+Ozr0gz4PPhM6/zrnPh861zq/Pic69LCDOtc6vz4TOtSDOs865zrEgz4TOt869IM61zr7Ouc+Dzr/Pgc+Bz4zPgM63z4POtyDPhM+Jzr0gzrrOsc64zrfOvM61z4HOuc69z47OvVxyXG4gICAgICAgICAgzr/Ouc66zr/Ovc6/zrzOuc66z47OvSDOvM65zrHPgiDOtc+AzrnPh861zq/Pgc63z4POt8+CIM6uIM61zr3PjM+CIM61z4DOuc+HzrXOuc+BzrfOvM6xz4TOr86xLCDPjM67zrEsIM+EzrXOu865zrrOrCxcclxuICAgICAgICAgIM66zrHPhM6xzrvOrs6zzr/Phc69IM+Dz4TOsSDOsc+AzrvOrCArIM66zrHOuSAtLiDOn865IM6xz4HOuc64zrzOv86vIM61zq/Ovc6xzrkgz4bOr867zr/OuSDOvM6xz4IgzrrOsc65IM+Mz4TOsc69IM+Ezr/Phc+CXHJcbiAgICAgICAgICDOsc69z4TOuc68zrXPhM+Jz4DOr862zr/Phc68zrUgz4nPgiDPhM6tz4TOv865zr/Phc+CLCDOvM6xz4IgzrXPgM65z4bPhc67zqzPg8+Dzr/Phc69IM67z43Pg861zrnPgiDOus6xzrkgzrfPgc61zrzOr86xLlxyXG4gICAgICAgIDwvcD5cclxuICAgICAgICA8cD5cclxuICAgICAgICAgIM6UzrXOvSDOvM+Azr/Pgc6/z43OvM61IM69zrEgzrLPgc6/z43OvM61IM67z43Pg861zrnPgiDOs865zrEgzrrPgc+FzrzOvM6tzr3OsSDPgM+Bzr/Oss67zq7OvM6xz4TOsS4gzpHPgM6/zrrOsc67z43PgM+Ezr/Phc68zrVcclxuICAgICAgICAgIM60zrnOrM+AzrvOsc+EzrEgz4TOt869IM6/zrnOus6/zr3Ov868zrnOus6uIM+Az4HOsc6zzrzOsc+EzrnOus+Mz4TOt8+EzrEsIM66zrHOuSwgz4zPgM+Jz4IgzrjOsSDOus6szr3Osc68zrUgzrzOtSDOus6szrjOtVxyXG4gICAgICAgICAgz4DPgc+MzrLOu863zrzOsSwgzrHPhs6uzr3Ov8+FzrzOtSDPhM63zr0gzrXOvM+AzrXOuc+Bzq/OsSDOus6xzrkgz4TOuc+CIM+Az4HOrM6+zrXOuc+CIM69zrEgzrzOsc+CIM6/zrTOt86zzq7Pg86/z4XOvSDPg8+EzrnPglxyXG4gICAgICAgICAgzrHPgM6xzr3PhM6uz4POtc65z4IuXHJcbiAgICAgICAgPC9wPlxyXG4gICAgICAgIDxwPlxyXG4gICAgICAgICAgzpcgz4PPic+Dz4TOriDOv8+BzrPOrM69z4nPg863IM+Ez4nOvSDOv865zrrOv869zr/OvM65zrrPjs69IM+Dz4TOv865z4fOtc6vz4nOvSDOtc6vzr3Osc65LCDPg86vzrPOv8+Fz4HOsSwgz4TOvyDPgM65zr9cclxuICAgICAgICAgIM+DzrfOvM6xzr3PhM65zrrPjCDPg8+Fz4PPhM6xz4TOuc66z4wgzrzOuc6xz4IgzrrOsc67zqwgzrTOv868zrfOvM6tzr3Ot8+CIM61z4DOuc+HzrXOuc+BzrfOvM6xz4TOuc66zq7PgiDPgM+BzrHOus+EzrnOus6uz4IgzrrOsc65XHJcbiAgICAgICAgICDOsc+AzrHPgc6xzq/PhM63z4TOvyDPg8+Ezr/Ouc+HzrXOr86/IM6zzrnOsSDPhM63IM+DzrnOs86/z4XPgc65zqwgz4DOv8+FIM64zrEgz4fPgc61zrnOsc+Dz4TOtc6vIM+Az4HOuc69IM6zzq/Ovc61zrlcclxuICAgICAgICAgIM6/z4DOv865zrHOtM6uz4DOv8+EzrUgzrTPgc6sz4POtyDOsc69zqzPgM+Ez4XOvs63z4IuXHJcbiAgICAgICAgPC9wPlxyXG4gICAgICAgIDxwPlxyXG4gICAgICAgICAgzojPhM6/zrnOvM6xIM+Dz4XPg8+Ezq7OvM6xz4TOsSDPgM6xz4HOsc66zr/Ou86/z43OuM63z4POt8+CIM+Fz4DOv8+Hz4HOtc+Oz4POtc+Jzr0sIM63zrzOtc+Bzr/Ou86/zrPOr86/z4Ugzr/Phs61zrnOu8+Ozr0sXHJcbiAgICAgICAgICDPgM67zrfPgc+JzrzPjs69IM+Az4HOv868zrfOuM61z4XPhM+Ozr0gz4POtSDPg8+Fzr3OrM+Bz4TOt8+DzrcgzrzOtSDPhM63IM67zr/Os865z4PPhM65zrrOriDPg86xz4Igz4XPgM6/z4PPhM6uz4HOuc6+zrcsIM+DzrHPglxyXG4gICAgICAgICAgzrvPjc69zr/Phc69IM+EzrEgz4fOrc+BzrnOsSDOus65IM61zrvOtc+FzrjOtc+Bz47Ovc6/z4XOvSDPhM6/zr0gz4fPgc+Mzr3OvyDPg86xz4IgzrPOuc6xIM69zrEgz4DPgc6/z4fPic+Bzq7Pg861z4TOtSDPg8+EzrfOvVxyXG4gICAgICAgICAgzrHOvc6sz4DPhM+Fzr7OtyDPhM+Jzr0gz4XPgM63z4HOtc+DzrnPjs69IM6uIM66zrHOuSDPhM+Jzr0gz4DPgc6/z4rPjM69z4TPic69IM+DzrHPgiDOvM61IM63z4HOtc68zq/OsS5cclxuICAgICAgICA8L3A+XHJcbiAgICAgIDwvZGl2PlxyXG4gICAgKSxcclxuICB9LFxyXG4gIGRpZ2l0YWw6IHtcclxuICAgIHNsdWc6IFwiZGlnaXRhbFwiLFxyXG4gICAgdGl0bGU6IFwizqjOt8+GzrnOsc66zqxcIixcclxuICAgIHN1YnRpdGxlOiBcIs6jz43Os8+Hz4HOv869zrXPgiDOu8+Nz4POtc65z4IgzrPOuc6xIM66zqzOuM61IM+AzrvOsc+Ez4bPjM+BzrzOsS5cIixcclxuICAgIGxvZ29TcmM6XHJcbiAgICAgIFwiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3NtYXIxNTIvcm9kaWEtdmFsa2Fub3UvbWFzdGVyL2xvZ28vbWVudV9jdWJlcy9tZW51X21hdXZlX2N1YmUucG5nXCIsXHJcbiAgICBjb250ZW50OiAoXHJcbiAgICAgIDxkaXY+XHJcbiAgICAgICAgPHA+XHJcbiAgICAgICAgICDOo8+Ezr8gz4POt868zrXPgc65zr3PjCDPgM61zrTOr86/IM+EzrfPgiDPiM63z4bOuc6xzrrOrs+CIM+Azr/Ou8+Fz4bPic69zq/Osc+CLCDOtc6vzr3Osc65IM+DzrfOvM6xzr3PhM65zrrPjCDOvc6xXHJcbiAgICAgICAgICDOvs61z4fPic+Bzq/Pg86/z4XOvM61IM+Ezr/Phc+CIM+Dz4TPjM+Hzr/Phc+CIM68zrnOsc+CIM+Dz4TPgc6xz4TOt86zzrnOus6uz4Igz4jOt8+GzrnOsc66zq7PgiDPgM6xz4HOv8+Fz4POr86xz4IgzrrOsc65XHJcbiAgICAgICAgICBtYXJrZXRpbmcgzrrOsc65IM69zrEgz4TOt869IM6xzrrOv867zr/Phc64zq7Pg86/z4XOvM61IM68zrUgz4PPhc69zq3PgM61zrnOsSDPgM+BzrnOvSDPgM6sz4HOv8+FzrzOtSDPhM6xXHJcbiAgICAgICAgICDOtc+AzrnOuM+FzrzOt8+EzqwgzrHPgM6/z4TOtc67zq3Pg868zrHPhM6xLlxyXG4gICAgICAgIDwvcD5cclxuICAgICAgICA8cD5cclxuICAgICAgICAgIM6XIM+IzrfPhs65zrHOus6uIM62z4nOriDOtc6vzr3Osc65IM63IM+Az4HOsc6zzrzOsc+EzrnOus6uIM62z4nOri4gzqTOsSDPjM+BzrnOsSDOsc69zqzOvM61z4POrCDPhM6/z4XPgiDOrc+Hzr/Phc69IM+AzrnOsVxyXG4gICAgICAgICAgzrHPgc64zrXOryDOus6xzrkgzr/OuSDOtc+AzrnPh861zrnPgc6uz4POtc65z4IgzrrOsc67zr/Pjc69z4TOsc65IM69zrEgzrTOt868zrnOv8+Fz4HOs86uz4POv8+Fzr0gz4jOt8+GzrnOsc66zr/Pjc+CIM+Ez4zPgM6/z4XPglxyXG4gICAgICAgICAgz4DOv8+FIM694oCZIM6xzr3PhM6xz4DOtc6+zq3Pgc+Hzr/Ovc+EzrHOuSDPg8+Ezr/Phc+CIM6xzr7Ouc6xzrrOv8+Nz4Igz4TOv8+Fz4Igz4DPhc67z47Ovc61z4IsIM694oCZIM6xz4DOtc+FzrjPjc69zr/Ovc+EzrHOuVxyXG4gICAgICAgICAgz4PPhM6/z4XPgiDPgM61zrvOrM+EzrXPgiDOus6xzrkgz4TOv8+Fz4IgzrrOsc+EzrHOvc6xzrvPic+Ezq3PgiDPhM6/z4XPgiDOrc6+z4XPgM69zrEsIM61z4XPhs6szr3PhM6xz4PPhM6xLCDOvM61XHJcbiAgICAgICAgICDOtc69z4TOuc68z4zPhM63z4TOsSDOus6xzrkgzrzOtSDOsc66zrHPgc65zrHOr86xIM+EzrHPh8+Nz4TOt8+EzrEuXHJcbiAgICAgICAgPC9wPlxyXG4gICAgICAgIDxwPlxyXG4gICAgICAgICAgzpXOuc60zrnOus6sIM+Ez47Pgc6xLCDPgM6/z4Ugzrcgz4DOsc69zrTOt868zq/OsSDOrc+HzrXOuSDOsc67zrvOrM6+zrXOuSDOvM61IM+BzrnOts6/z4PPgM6xz4PPhM65zrrPjCDPhM+Bz4zPgM6/IM+EzrfOvVxyXG4gICAgICAgICAgzrHOu867zrfOu861z4DOr860z4HOsc+Dzrcgz4TPic69IM+Hz4HOt8+Dz4TPjs69IM68zrUgz4TOuc+CIM+IzrfPhs65zrHOus6tz4Igz4DOu86xz4TPhs+Mz4HOvM61z4IsIM61zq/Ovc6xzrkgz4POt868zrHOvc+EzrnOus+MXHJcbiAgICAgICAgICDOvc6xIM68z4DOv8+Bzq3Pg86/z4XOvM61IM69zrEgzrXOus68zrXPhM6xzrvOu861z4XPhM6/z43OvM61IM+EzrnPgiDOvc6tzrXPgiDPhM61z4fOvc6/zrvOv86zzq/Otc+CIM66zrHOuSDPhM65z4IgzrTOuc6xz4HOus+Oz4JcclxuICAgICAgICAgIM6xzr3Osc+Az4TPhc+Dz4PPjM68zrXOvc61z4IgzrXPgM65zrvOv86zzq3PgiDPgM6/z4UgzrzOsc+CIM60zq/Ovc6/z4XOvSDPgM+Bzr/Ous61zrnOvM6tzr3Ov8+FIM69zrEgz4DPgc6/z4nOuM6uz4POv8+FzrzOtSDPhM65z4JcclxuICAgICAgICAgIM+Fz4DOt8+BzrXPg86vzrXPgiDOus6xzrkgz4TOsSDPgM+Bzr/Pis+Mzr3PhM6xIM+Ez4nOvSDOtc+AzrnPh861zrnPgc6uz4POtc+Jzr0gzrzOtSDPhM6/zr0gzrnOtM6xzr3Ouc66z4wgz4TPgc+Mz4DOvy5cclxuICAgICAgICA8L3A+XHJcbiAgICAgIDwvZGl2PlxyXG4gICAgKSxcclxuICB9LFxyXG4gIHN5bmVyZ2FzaWE6IHtcclxuICAgIHNsdWc6IFwic3luZXJnYXNpYVwiLFxyXG4gICAgdGl0bGU6IFwizqPPhc69zrXPgc6zzrHPg86vzrFcIixcclxuICAgIHN1YnRpdGxlOiBcIs6gzq/Pg8+JIM6xz4DPjCDOus6szrjOtSDOtc+AzrnPhM+Fz4fOr86xIM+Fz4DOrM+Bz4fOtc65IM68zrnOsSDOtM61zrzOrc69zrcgzr/OvM6szrTOsVwiLFxyXG4gICAgbG9nb1NyYzpcclxuICAgICAgXCJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vc21hcjE1Mi9yb2RpYS12YWxrYW5vdS9tYXN0ZXIvbG9nby9tZW51X2N1YmVzL21lbnVfYmx1ZV9jdWJlLnBuZ1wiLFxyXG4gICAgY29udGVudDogKFxyXG4gICAgICA8ZGl2PlxyXG4gICAgICAgIDxwPlxyXG4gICAgICAgICAgzpXPgM65zrvOrc6+z4TOtSDPhM63IM+Dz4XOvc61z4HOs86xz4POr86xIM+Azr/PhSDOtc6+z4XPgM63z4HOtc+EzrXOryDPhM65z4IgzrHOvc6szrPOus61z4Igz4POsc+CIM68zrUgzrvPjc+DzrXOuc+CXHJcbiAgICAgICAgICDPgM6xz4HOsc68zrXPhM+Bzr/PgM6/zrnOt868zq3Ovc61z4IgzrPOuc6xIM+EzrnPgiDOsc+AzrHOuc+Ezq7Pg861zrnPgiDOus6szrjOtSDOrc+BzrPOv8+FLiDOpM68zrfOvM6xz4TOuc66zq4gzrXOvs6tzrvOuc6+zrdcclxuICAgICAgICAgIM+Dz4XOvc61z4HOs86xz4POr86xz4IgzrPOuc6xIM61zrvOtc6zz4fPjM68zrXOvc6xIM6xz4DOv8+EzrXOu86tz4POvM6xz4TOsSDOus6xzrkgzrTOuc6xz4PPhs6szrvOuc+DzrcgzrXOvM+AzrnPg8+Ezr/Pg8+Nzr3Ot8+CIM68zrVcclxuICAgICAgICAgIM+Dz4XOvM6yzqzPg861zrnPgiDOtc68z4DOuc+Dz4TOtc+Fz4TOuc66z4zPhM63z4TOsc+CLiDOnM+Azr/Pgc61zq/PhM61IM69zrEgzrXPgM65zrvOrc6+zrXPhM61IM+Dz4XOvc61z4HOs86xz4POr86xIM+DzrUgzrLOrM+DzrdcclxuICAgICAgICAgIM6tz4HOs86/z4UgzrzOtSDOsc+Bz4fOriwgzrzOrc+DzrcgzrrOsc65IM+Ezq3Ou86/z4IsIM6uIM+Jz4Igz4PPhM6xzrjOtc+Bzq4gz4PPhc69zrXPgc6zzrHPg86vzrEgzrPOuc6xIM+EzrfOvVxyXG4gICAgICAgICAgzrXPgM6/z4DPhM61zq/OsSDPhM63z4IgzrXOvs6tzrvOuc6+zrfPgiDPhM+Jzr0gz4TOv868zq3Pic69IM+Azr/PhSDPg86xz4IgzrHPgM6xz4PPh86/zrvOv8+Nzr0uXHJcbiAgICAgICAgPC9wPlxyXG4gICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiZC1mbGV4IGZsZXgtcm93IGFsaWduLWl0ZW1zLXN0YXJ0IG10LTQgbWItNFwiPlxyXG4gICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJtci00XCI+XHJcbiAgICAgICAgICAgIDxpbWdcclxuICAgICAgICAgICAgICBzcmM9XCJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vc21hcjE1Mi9yb2RpYS12YWxrYW5vdS9tYXN0ZXIvbG9nby9ibHVlX2N1YmUucG5nXCJcclxuICAgICAgICAgICAgICBhbHQ9XCJcIlxyXG4gICAgICAgICAgICAgIHdpZHRoPVwiMTAwcHhcIlxyXG4gICAgICAgICAgICAvPlxyXG4gICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgICA8cD5cclxuICAgICAgICAgICAgMS4gzqPPhc68zrLOv8+FzrvOtc+Fz4TOuc66zq5cclxuICAgICAgICAgICAgPGJyIC8+LSDOp86xz4HOsc66z4TOt8+BzrnPg868z4zPgiDOsc6+zrnPjs69IM66zrHOuSDOv8+BzqzOvM6xz4TOv8+CICh2aXNpb24gLyBtaXNzaW9uXHJcbiAgICAgICAgICAgIHN0YXRlbWVudHMpXHJcbiAgICAgICAgICAgIDxiciAvPiAtIM6UzrfOvM65zr/Phc+BzrPOr86xIM61z4DOuc+HzrXOuc+BzrfOvM6xz4TOuc66zq7PgiDPg8+Ez4HOsc+EzrfOs865zrrOrs+CXHJcbiAgICAgICAgICAgIDxiciAvPiAtIM6Vz4DOuc+HzrXOuc+BzrfOvM6xz4TOuc66z4wgz4DOu86szr3Ov1xyXG4gICAgICAgICAgICA8YnIgLz4gLSDOo8+Ez4HOsc+EzrfOs865zrrOrc+CIM68zrXOu86tz4TOtc+COiDOm861zrnPhM6/z4XPgc6zzq/Osc+CIM61z4DOuc+HzrXOr8+BzrfPg863z4IgJiDOsc69z4TOsc6zz4nOvc65z4PPhM+Ozr1cclxuICAgICAgICAgIDwvcD5cclxuICAgICAgICA8L2Rpdj5cclxuICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImQtZmxleCBmbGV4LXJvdyBhbGlnbi1pdGVtcy1zdGFydCBtYi00XCI+XHJcbiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cIm1yLTRcIj5cclxuICAgICAgICAgICAgPGltZ1xyXG4gICAgICAgICAgICAgIHNyYz1cImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9zbWFyMTUyL3JvZGlhLXZhbGthbm91L21hc3Rlci9sb2dvL2JsdWVfY3ViZS5wbmdcIlxyXG4gICAgICAgICAgICAgIGFsdD1cIlwiXHJcbiAgICAgICAgICAgICAgd2lkdGg9XCIxMDBweFwiXHJcbiAgICAgICAgICAgIC8+XHJcbiAgICAgICAgICA8L2Rpdj5cclxuICAgICAgICAgIDxwPlxyXG4gICAgICAgICAgICAyLiDOn8+BzrPOrM69z4nPg863XHJcbiAgICAgICAgICAgIDxiciAvPlxyXG4gICAgICAgICAgICAtIM6Rzr3Osc6zzr3Pjs+BzrnPg863IM67zrXOuc+Ezr/Phc+BzrPOuc66z47OvSDOus61zr3Pjs69IM66zrHOuSDOv8+BzrPOrM69z4nPg863IM6xzr3PhM65zrzOtc+Ez47PgM65z4POt8+CIC8gzrvPjc+DzrXPic69XHJcbiAgICAgICAgICAgIDxiciAvPlxyXG4gICAgICAgICAgICAtIM6azrHOuM6/z4HOuc+DzrzPjM+CIHdvcmtmbG93ICYgdGltZSBtYW5hZ2VtZW50XHJcbiAgICAgICAgICAgIDxiciAvPlxyXG4gICAgICAgICAgICAtIM6UzrfOvM65zr/Phc+BzrPOr86xIM6/z4HOs86xzr3Ov86zz4HOsc68zrzOrM+Ez4nOvVxyXG4gICAgICAgICAgICA8YnIgLz4tIM6fz4HOs86szr3Pic+Dzrcgz4DOtc+BzrnOss6szrvOu86/zr3PhM6/z4IgzrXPgc6zzrHPg86vzrHPglxyXG4gICAgICAgICAgPC9wPlxyXG4gICAgICAgIDwvZGl2PlxyXG4gICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiZC1mbGV4IGZsZXgtcm93IGFsaWduLWl0ZW1zLXN0YXJ0IG1iLTRcIj5cclxuICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwibXItNFwiPlxyXG4gICAgICAgICAgICA8aW1nXHJcbiAgICAgICAgICAgICAgc3JjPVwiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3NtYXIxNTIvcm9kaWEtdmFsa2Fub3UvbWFzdGVyL2xvZ28vYmx1ZV9jdWJlLnBuZ1wiXHJcbiAgICAgICAgICAgICAgYWx0PVwiXCJcclxuICAgICAgICAgICAgICB3aWR0aD1cIjEwMHB4XCJcclxuICAgICAgICAgICAgLz5cclxuICAgICAgICAgIDwvZGl2PlxyXG4gICAgICAgICAgPHA+XHJcbiAgICAgICAgICAgIDMuIM6fzrnOus6/zr3Ov868zrnOus6sXHJcbiAgICAgICAgICAgIDxiciAvPlxyXG4gICAgICAgICAgICAtIM6gzrHPgc6xzrrOv867zr/Pjc64zrfPg863ICYgz4DPgc6/zrPPgc6xzrzOvM6xz4TOuc+DzrzPjM+CIM+Fz4DOv8+Hz4HOtc+Oz4POtc+Jzr1cclxuICAgICAgICAgICAgPGJyIC8+XHJcbiAgICAgICAgICAgIC0gzp/Pgc6zzqzOvc+Jz4POtyDPh8+Bzr/Ovc6/zrTOuc6xzrPPgc6szrzOvM6xz4TOv8+CIM61zrnPg8+Az4HOrM6+zrXPic69ICYgz4DOu863z4HPic68z47OvVxyXG4gICAgICAgICAgICA8YnIgLz5cclxuICAgICAgICAgICAgLSDOlM6/zrzOriDPg8+HzrXOtM6vzr/PhSDOtc6+z4zPhs67zrfPg863z4Igz4DPgc6/zrzOt864zrXPhc+Ez47OvVxyXG4gICAgICAgICAgICA8YnIgLz4tIM6UzrfOvM65zr/Phc+BzrPOr86xIM+Dz4fOtc60zq/Ov8+FIM66zrHPhM6xzrPPgc6xz4bOrs+CIM61z4PPjM60z4nOvVxyXG4gICAgICAgICAgPC9wPlxyXG4gICAgICAgIDwvZGl2PlxyXG4gICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiZC1mbGV4IGZsZXgtcm93IGFsaWduLWl0ZW1zLXN0YXJ0IG1iLTRcIj5cclxuICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwibXItNFwiPlxyXG4gICAgICAgICAgICA8aW1nXHJcbiAgICAgICAgICAgICAgc3JjPVwiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3NtYXIxNTIvcm9kaWEtdmFsa2Fub3UvbWFzdGVyL2xvZ28vYmx1ZV9jdWJlLnBuZ1wiXHJcbiAgICAgICAgICAgICAgYWx0PVwiXCJcclxuICAgICAgICAgICAgICB3aWR0aD1cIjEwMHB4XCJcclxuICAgICAgICAgICAgLz5cclxuICAgICAgICAgIDwvZGl2PlxyXG4gICAgICAgICAgPHA+XHJcbiAgICAgICAgICAgIDQuIM6ozrfPhs65zrHOus6sXHJcbiAgICAgICAgICAgIDxiciAvPlxyXG4gICAgICAgICAgICAtIERpZ2l0YWwgbWFya2V0aW5nXHJcbiAgICAgICAgICAgIDxiciAvPlxyXG4gICAgICAgICAgICAtIM6UzrnOsc+HzrXOr8+BzrnPg863IHNvY2lhbCBtZWRpYVxyXG4gICAgICAgICAgICA8YnIgLz5cclxuICAgICAgICAgICAgLSDOnM61zrvOrc+EzrcgQW5hbHl0aWNzICYgSW5zaWdodHNcclxuICAgICAgICAgICAgPGJyIC8+LSBTRU8gzprOtc65zrzOtc69zr/Os8+BzqzPhs63z4POt1xyXG4gICAgICAgICAgPC9wPlxyXG4gICAgICAgIDwvZGl2PlxyXG4gICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiZC1mbGV4IGZsZXgtcm93IGFsaWduLWl0ZW1zLXN0YXJ0IG1iLTRcIj5cclxuICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwibXItNFwiPlxyXG4gICAgICAgICAgICA8aW1nXHJcbiAgICAgICAgICAgICAgc3JjPVwiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3NtYXIxNTIvcm9kaWEtdmFsa2Fub3UvbWFzdGVyL2xvZ28vYmx1ZV9jdWJlLnBuZ1wiXHJcbiAgICAgICAgICAgICAgYWx0PVwiXCJcclxuICAgICAgICAgICAgICB3aWR0aD1cIjEwMHB4XCJcclxuICAgICAgICAgICAgLz5cclxuICAgICAgICAgIDwvZGl2PlxyXG4gICAgICAgICAgPHA+XHJcbiAgICAgICAgICAgIDUuIE1peCBhbmQgTWF0Y2hcclxuICAgICAgICAgICAgPGJyIC8+XHJcbiAgICAgICAgICAgIM6Vz4DOuc67zq3Ovs+EzrUgz4DOv865zrEgz4XPgM63z4HOtc+Dzq/OsSDOus6xzrvPjc+Az4TOtc65IM66zrHOu8+Nz4TOtc+BzrEgz4TOvyDPhs6sz4POvM6xIM+Ez4nOvSDOtM+Fz4POus6/zrvOuc+Ozr0gz4DOv8+FXHJcbiAgICAgICAgICAgIM61z4DOuc64z4XOvM61zq/PhM61IM69zrEgzrvPjc+DzrXPhM61LiDOms6szrjOtSDPhc+AzrfPgc61z4POr86xIM+Az4HOv8+DzrHPgc68z4zOts61z4TOsc65IM66zrHOuVxyXG4gICAgICAgICAgICDPgM6xz4HOsc68zrXPhM+Bzr/PgM6/zrnOtc6vz4TOsc65IM+Dz43OvM+Gz4nOvc6xIM68zrUgz4TOuc+CIM6xz4DOsc65z4TOrs+DzrXOuc+CIM+EzrfPgiDOus6szrjOtSDPgM61z4HOr8+Az4TPic+DzrfPgi5cclxuICAgICAgICAgIDwvcD5cclxuICAgICAgICA8L2Rpdj5cclxuICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImQtZmxleCBmbGV4LXJvdyBhbGlnbi1pdGVtcy1zdGFydCBtYi00XCI+XHJcbiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cIm1yLTRcIj5cclxuICAgICAgICAgICAgPGltZ1xyXG4gICAgICAgICAgICAgIHNyYz1cImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9zbWFyMTUyL3JvZGlhLXZhbGthbm91L21hc3Rlci9sb2dvL2JsdWVfY3ViZS5wbmdcIlxyXG4gICAgICAgICAgICAgIGFsdD1cIlwiXHJcbiAgICAgICAgICAgICAgd2lkdGg9XCIxMDBweFwiXHJcbiAgICAgICAgICAgIC8+XHJcbiAgICAgICAgICA8L2Rpdj5cclxuICAgICAgICAgIDxwPlxyXG4gICAgICAgICAgICA2LiBUaGUgVG90YWwgUGFja2FnZVxyXG4gICAgICAgICAgICA8YnIgLz5cclxuICAgICAgICAgICAgzqTOvyDPg8+Nzr3Ov867zr8gz4TPic69IM+Fz4DOt8+BzrXPg865z47OvSDPg861IM+AzrvOrs+BzrcgzrHOvc6sz4DPhM+Fzr7OtyDOvM6tz4POsSDPg8+EzrEgz4DOu86xzq/Pg865zrEgzrHOvc6szrPOus63z4JcclxuICAgICAgICAgICAgzrPOuc6xIM66zqzOuM61IM61z4DOuc+HzrXOr8+BzrfPg863IM6uIM61zrvOtc+NzrjOtc+Bzr8gzrXPgM6xzrPOs861zrvOvM6xz4TOr86xLiDOlc+Azr/PgM+EzrXOr86xIM+EzrfPgiDOtc6+zq3Ou865zr7Ot8+CXHJcbiAgICAgICAgICAgIM66zrHOuSDOtc+GzrHPgc68zr/Os86uz4Igz4TPic69IM61zr3Otc+BzrPOtc65z47OvSDOs865zrEgz4TOtyDOtM65zrHPg8+GzqzOu865z4POtyDOus6xzrvPjc+EzrXPgc6/z4VcclxuICAgICAgICAgICAgzrHPgM6/z4TOtc67zq3Pg868zrHPhM6/z4IuXHJcbiAgICAgICAgICA8L3A+XHJcbiAgICAgICAgPC9kaXY+XHJcblxyXG4gICAgICAgIDxoNj4qIM6UzpnOms6kzqXOnyDOo86lzp3Olc6hzpPOkc6kzqnOnTwvaDY+XHJcbiAgICAgICAgPHA+XHJcbiAgICAgICAgICDOms6szrjOtSDOtc+AzrnPhM+Fz4fOt868zq3Ovc63IM+Dz4XOvc61z4HOs86xz4POr86xIM6yzrHPg86vzrbOtc+EzrHOuSDPg8+EzrfOvSDPgM6/zrnPjM+EzrfPhM6xIM66zrHOuSDPhM65z4JcclxuICAgICAgICAgIM61zr7Otc65zrTOuc66zrXPhc68zq3Ovc61z4IgzrPOvc+Oz4POtc65z4Igz4TOv8+FIM66zqzOuM61IM+Dz4XOvc61z4HOs86sz4TOty4gzp/OuSDOrc68z4DOtc65z4HOv865IM66zrHOuSDOrc68z4DOuc+Dz4TOv865XHJcbiAgICAgICAgICDPg8+Fzr3Otc+BzrPOrM+EzrXPgiDOvM6xz4IgzrrOsc67z43PgM+Ezr/Phc69IM61z4XPgc+NIM+GzqzPg868zrEgzrXPgc6zzrHPg865z47OvSDPgM6/z4UgzrzPgM6/z4HOv8+Nzr0gzr3OsSDOus6xzrvPjc+Izr/Phc69XHJcbiAgICAgICAgICDPhM65z4IgzrHOvc6szrPOus61z4IgzrrOrM64zrUgzq3Pgc6zzr/PhSDOriDOus6xzrkgz4PPhM6xzrjOtc+Bzq7PgiDPg8+Fzr3Otc+BzrPOsc+Dzq/Osc+CLiDOkc+Azr/Ous+Ezq7Pg8+EzrUgz4DPgc+Mz4POss6xz4POt1xyXG4gICAgICAgICAgz4PPhM6/IM60zq/Ous+Ez4XOvyDOsc+Fz4TPjCDPgM6/z4UgzrrOsc67z43PgM+EzrXOuSDOu8+Nz4POtc65z4Igz4POtSDPhM6/zrzOtc6vz4Igz4zPgM+Jz4I6XHJcbiAgICAgICAgPC9wPlxyXG4gICAgICAgIDxwPlxyXG4gICAgICAgICAgzqPPh861zrTOuc6xz4POvM+Mz4Igd2Vic2l0ZVxyXG4gICAgICAgICAgPGJyIC8+XHJcbiAgICAgICAgICDOk8+BzrHPhs65z4PPhM65zrrOrlxyXG4gICAgICAgICAgPGJyIC8+XHJcbiAgICAgICAgICDOlc65zrrOv869zr/Os8+BzrHPhs6uz4POtc65z4JcclxuICAgICAgICAgIDxiciAvPlxyXG4gICAgICAgICAgzqTPhc+Azr/Os8+BzrHPhs65zrrOrc+CIM61z4bOsc+BzrzOv86zzq3PglxyXG4gICAgICAgICAgPGJyIC8+XHJcbiAgICAgICAgICA8YnIgLz5cclxuICAgICAgICAgIM6Szq/Ovc+EzrXOv1xyXG4gICAgICAgICAgPGJyIC8+XHJcbiAgICAgICAgICDOps+Jz4TOv86zz4HOsc+Gzq/OsVxyXG4gICAgICAgICAgPGJyIC8+XHJcbiAgICAgICAgICDOnM6/zr3PhM6szrZcclxuICAgICAgICAgIDxiciAvPlxyXG4gICAgICAgICAgzqXPgM6/z4TOuc+EzrvOuc+DzrzPjM+CXHJcbiAgICAgICAgICA8YnIgLz5cclxuICAgICAgICAgIM6Vz4DOsc6zzrPOtc67zrzOsc+EzrnOus6uIM6zz4HOsc+GzrnOus6uIM+NzrvOt1xyXG4gICAgICAgICAgPGJyIC8+XHJcbiAgICAgICAgICDOpc+AzrfPgc61z4POr861z4IgzqTOtc+Hzr3Ouc66z47OvSDOkc+Dz4bOsc67zrXOr86xz4IgJiBIQUNDUFxyXG4gICAgICAgIDwvcD5cclxuICAgICAgPC9kaXY+XHJcbiAgICApLFxyXG4gIH0sXHJcbiAgY29udGFjdDoge1xyXG4gICAgc2x1ZzogXCJjb250YWN0XCIsXHJcbiAgICB0aXRsZTogXCLOlc+AzrnOus6/zrnOvc+Jzr3Or86xXCIsXHJcbiAgICBzdWJ0aXRsZTogXCLOoM61zq/PhM61IM68zrHPgiDPhM6/IM+Az4HPjM6yzrvOt868zqwgz4POsc+CXCIsXHJcbiAgICBsb2dvU3JjOlxyXG4gICAgICBcImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9zbWFyMTUyL3JvZGlhLXZhbGthbm91L21hc3Rlci9sb2dvL21lbnVfY3ViZXMvbWVudV9ncmVlbl9jdWJlLnBuZ1wiLFxyXG4gICAgY29udGVudDogKFxyXG4gICAgICA8ZGl2PlxyXG4gICAgICAgIDxwPlxyXG4gICAgICAgICAgzpjOrc67zr/Phc68zrUgzr3OsSDOvM6szrjOv8+FzrzOtSDPhM65IM+DzrHPgiDOsc+AzrHPg8+Hzr/Ou861zq8hIM6azrHOvc6tzr3OsSDPgM+Bz4zOss67zrfOvM6xIM60zrXOvSDOtc6vzr3Osc65IM+Azr/Ou8+NXHJcbiAgICAgICAgICDOvM65zrrPgc+MIM6zzrnOsSDOvc6xIM+AzqzPgc61zrkgzrzOuc6xIM67z43Pg863IM+Azr/PhSDOuM6xIM+DzrHPgiDOt8+BzrXOvM6uz4POtc65LiDOlc6szr0gzrjOrc67zrXPhM61IM69zrEgzrzOrM64zrXPhM61XHJcbiAgICAgICAgICDPgM61z4HOuc+Dz4PPjM+EzrXPgc6xLCDOtc6szr0gzq3Ph861z4TOtSDOv8+Azr/Ouc6xzrTOrs+Azr/PhM61IM6xz4DOv8+Bzq/OsSDOriDOuc60zq3OsSwgzrXPgM65zrrOv865zr3Pic69zq7Pg8+EzrUgz4PPhM6/XHJcbiAgICAgICAgICBlbWFpbDogaW5mb0Byb2RpYXZhbGthbm91LmNvbSAoK2xpbmsgzrPOuc6xIM+Ezr8gbGlua2VkaW47KVxyXG4gICAgICAgIDwvcD5cclxuICAgICAgPC9kaXY+XHJcbiAgICApLFxyXG4gIH0sXHJcbn07XHJcblxyXG5leHBvcnQgZnVuY3Rpb24gZ2V0UGFnZURhdGEoa2V5KSB7XHJcbiAgaWYgKGtleSkge1xyXG4gICAgcmV0dXJuIHBhZ2VzW2tleV07XHJcbiAgfSBlbHNlIHtcclxuICAgIHJldHVybiBwYWdlcy5hYm91dDtcclxuICB9XHJcbn1cclxuIl0sInNvdXJjZVJvb3QiOiIifQ==
