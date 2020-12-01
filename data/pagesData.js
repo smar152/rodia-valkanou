@@ -17,43 +17,6 @@ export const pages = {
       </div>
     ),
   },
-  about: {
-    slug: "about",
-    title: "Σχετικά",
-    subtitle: "Ποια, πού, πώς, πότε, γιατί;",
-    logoSrc:
-      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_green_cube.png",
-    content: (
-      <div>
-        <p>
-          Η Ροδιά έχει περάσει όλην της την επαγγελματική σταδιοδρομία φέρνοντας
-          ήρεμες λύσεις σε πολλών τύπων εταιρείες. Η αγάπη της για την οργάνωση
-          έγινε προφανής πολύ νωρίς και ήταν πάντοτε στον πυρήνα κάθε της
-          δράσης.
-        </p>
-        <p>
-          Στο πολύχρονο επαγγελματικό της παρελθόν, έχει ταξιδέψει στα νησιά της
-          κειμενογράφησης και τις ατόλες της επιμέλειας και μετάφρασης, έχει
-          ρίξει άγκυρα στο λιμάνι του management, έχει περιπλεύσει τα ακρωτήρια
-          της διοίκησης προσωπικού και της οικονομικής διαχείρισης κι έχει
-          διασχίσει τον ωκεανό του social media strategy.
-        </p>
-        <p>
-          Η δραστηριότητά της πλέον καλύπτει όλους τους τομείς της
-          συμβουλευτικής (μελέτες στρατηγικής και οράματος, αναγνώριση στόχων),
-          της οργάνωσης (διαχείριση προσωπικού, παρακολούθηση οικονομικών
-          στοιχείων) και των δημιουργικών -ψηφιακών και μη- μέσων (ψηφιακό
-          marketing, ανάπτυξη πρωτογενούς υλικού, διαχείριση social media
-          accounts).
-        </p>
-        <p>
-          Η συνέπεια και η ψύχραιμη αντιμετώπιση κάθε προβλήματος, μαζί με την
-          ευφάνταστη προσαρμογή νέων τεχνολογικών λύσεων είναι τα βασικά
-          χαρακτηριστικά κάθε της συνεργασίας.
-        </p>
-      </div>
-    ),
-  },
   symbouleytiki: {
     slug: "symbouleytiki",
     title: "Συμβουλευτική",
@@ -62,13 +25,6 @@ export const pages = {
       "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_purple_cube.png",
     content: (
       <div>
-        <div>
-          <img
-            className="w-100"
-            src="https://github.com/smar152/rodia-valkanou/raw/master/img/symbouleytiki04.png"
-            alt=""
-          />
-        </div>
         <p>
           Μια επιχείρηση οφείλει να δρα βάσει ψύχραιμου στρατηγικού σχεδιασμού
           και ταυτόχρονα να μπορεί ν’ αντιδρά με ευελιξία στις ανάγκες της
@@ -86,6 +42,13 @@ export const pages = {
           Γνωρίζουμε πού πηγαίνουμε, με ποιον τρόπο οδηγούμαστε εκεί και τι
           θέλουμε να επιτύχουμε φτάνοντας τον στόχο μας.
         </p>
+        <div>
+          <img
+            className="w-100"
+            src="https://github.com/smar152/rodia-valkanou/raw/master/img/symbouleytiki04.png"
+            alt=""
+          />
+        </div>
         <p>
           Οι αξιακοί πυλώνες που ορίζονται εξ αρχής, διατρέχουν όλα τα επίπεδα
           λειτουργίας μιας επιχείρησης και αποτελούν βάση για όλες τις δράσεις,
@@ -185,7 +148,7 @@ export const pages = {
   digital: {
     slug: "digital",
     title: "Ψηφιακά",
-    subtitle: "Σύγχρονες λύσεις για κάθε πλατφόρμα.",
+    subtitle: "Σύγχρονες λύσεις για κάθε πλατφόρμα",
     logoSrc:
       "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_mauve_cube.png",
     content: (
@@ -232,7 +195,7 @@ export const pages = {
         <div className="d-flex flex-row align-items-start mt-4 mb-4">
           <div className="mr-4">
             <img
-              src="https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/blue_cube.png"
+              src="https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/purple_cube.png"
               alt=""
               width="100px"
             />
@@ -249,7 +212,7 @@ export const pages = {
         <div className="d-flex flex-row align-items-start mb-4">
           <div className="mr-4">
             <img
-              src="https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/blue_cube.png"
+              src="https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/orange_cube.png"
               alt=""
               width="100px"
             />
@@ -268,7 +231,7 @@ export const pages = {
         <div className="d-flex flex-row align-items-start mb-4">
           <div className="mr-4">
             <img
-              src="https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/blue_cube.png"
+              src="https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/yellow_cube.png"
               alt=""
               width="100px"
             />
@@ -287,7 +250,7 @@ export const pages = {
         <div className="d-flex flex-row align-items-start mb-4">
           <div className="mr-4">
             <img
-              src="https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/blue_cube.png"
+              src="https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/mauve_cube.png"
               alt=""
               width="100px"
             />
@@ -306,7 +269,7 @@ export const pages = {
         <div className="d-flex flex-row align-items-start mb-4">
           <div className="mr-4">
             <img
-              src="https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/blue_cube.png"
+              src="https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/green_cube.png"
               alt=""
               width="100px"
             />
@@ -322,7 +285,7 @@ export const pages = {
         <div className="d-flex flex-row align-items-start mb-4">
           <div className="mr-4">
             <img
-              src="https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/blue_cube.png"
+              src="https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/gray_cube.png"
               alt=""
               width="100px"
             />
@@ -369,12 +332,49 @@ export const pages = {
       </div>
     ),
   },
+  about: {
+    slug: "about",
+    title: "Η Ροδιά",
+    subtitle: "Ποια, πού, πώς, πότε, γιατί;",
+    logoSrc:
+      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_green_cube.png",
+    content: (
+      <div>
+        <p>
+          Η Ροδιά έχει περάσει όλην της την επαγγελματική σταδιοδρομία φέρνοντας
+          ήρεμες λύσεις σε πολλών τύπων εταιρείες. Η αγάπη της για την οργάνωση
+          έγινε προφανής πολύ νωρίς και ήταν πάντοτε στον πυρήνα κάθε της
+          δράσης.
+        </p>
+        <p>
+          Στο πολύχρονο επαγγελματικό της παρελθόν, έχει ταξιδέψει στα νησιά της
+          κειμενογράφησης και τις ατόλες της επιμέλειας και μετάφρασης, έχει
+          ρίξει άγκυρα στο λιμάνι του management, έχει περιπλεύσει τα ακρωτήρια
+          της διοίκησης προσωπικού και της οικονομικής διαχείρισης κι έχει
+          διασχίσει τον ωκεανό του social media strategy.
+        </p>
+        <p>
+          Η δραστηριότητά της πλέον καλύπτει όλους τους τομείς της
+          συμβουλευτικής (μελέτες στρατηγικής και οράματος, αναγνώριση στόχων),
+          της οργάνωσης (διαχείριση προσωπικού, παρακολούθηση οικονομικών
+          στοιχείων) και των δημιουργικών -ψηφιακών και μη- μέσων (ψηφιακό
+          marketing, ανάπτυξη πρωτογενούς υλικού, διαχείριση social media
+          accounts).
+        </p>
+        <p>
+          Η συνέπεια και η ψύχραιμη αντιμετώπιση κάθε προβλήματος, μαζί με την
+          ευφάνταστη προσαρμογή νέων τεχνολογικών λύσεων είναι τα βασικά
+          χαρακτηριστικά κάθε της συνεργασίας.
+        </p>
+      </div>
+    ),
+  },
   contact: {
     slug: "contact",
     title: "Επικοινωνία",
     subtitle: "Πείτε μας το πρόβλημά σας",
     logoSrc:
-      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_green_cube.png",
+      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_gray_cube.png",
     content: (
       <div>
         <p>
