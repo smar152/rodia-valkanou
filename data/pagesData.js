@@ -22,7 +22,7 @@ export const pages = {
     title: "Συμβουλευτική",
     subtitle: "Από την ιδέα στο αποτέλεσμα",
     logoSrc:
-      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_purple_cube.png",
+      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_mauve_cube.png",
     content: (
       <div>
         <p>
@@ -69,7 +69,7 @@ export const pages = {
     title: "Οργάνωση",
     subtitle: "Κάθε τι έχει τη θέση του",
     logoSrc:
-      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_orange_cube.png",
+      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_purple_cube.png",
     content: (
       <div className="">
         <p>
@@ -109,7 +109,7 @@ export const pages = {
     title: "Οικονομικά",
     subtitle: "Τα + και τα – της καθημερινότητας",
     logoSrc:
-      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_yellow_cube.png",
+      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_orange_cube.png",
     content: (
       <div>
         <p>
@@ -150,7 +150,7 @@ export const pages = {
     title: "Ψηφιακά",
     subtitle: "Σύγχρονες λύσεις για κάθε πλατφόρμα",
     logoSrc:
-      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_mauve_cube.png",
+      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_yellow_cube.png",
     content: (
       <div>
         <p>
@@ -195,7 +195,7 @@ export const pages = {
         <div className="d-flex flex-row align-items-start mt-4 mb-4">
           <div className="mr-4">
             <img
-              src="https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/purple_cube.png"
+              src="https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/mauve_cube.png"
               alt=""
               width="100px"
             />
@@ -212,7 +212,7 @@ export const pages = {
         <div className="d-flex flex-row align-items-start mb-4">
           <div className="mr-4">
             <img
-              src="https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/orange_cube.png"
+              src="https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/purple_cube.png"
               alt=""
               width="100px"
             />
@@ -231,7 +231,7 @@ export const pages = {
         <div className="d-flex flex-row align-items-start mb-4">
           <div className="mr-4">
             <img
-              src="https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/yellow_cube.png"
+              src="https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/orange_cube.png"
               alt=""
               width="100px"
             />
@@ -250,7 +250,7 @@ export const pages = {
         <div className="d-flex flex-row align-items-start mb-4">
           <div className="mr-4">
             <img
-              src="https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/mauve_cube.png"
+              src="https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/yellow_cube.png"
               alt=""
               width="100px"
             />
