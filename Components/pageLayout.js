@@ -1,7 +1,6 @@
 import Header from "./header.js";
 import DesktopNavigation from "./DesktopNavigation.js";
 import PhoneNavigation from "./PhoneNavigation.js";
-import "bootstrap/dist/css/bootstrap.min.css";
 
 export default function PageLayout({ pageTitle, pageSubtitle, pageContent }) {
   return (
