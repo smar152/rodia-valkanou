@@ -21,6 +21,8 @@ export const pages = {
     slug: "symbouleytiki",
     title: "Συμβουλευτική",
     subtitle: "Από την ιδέα στο αποτέλεσμα",
+    cubeSrc:
+      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/mauve_cube.png",
     logoSrc:
       "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_mauve_cube.png",
     content: (
@@ -68,6 +70,8 @@ export const pages = {
     slug: "organwsi",
     title: "Οργάνωση",
     subtitle: "Κάθε τι έχει τη θέση του",
+    cubeSrc:
+      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/purple_cube.png",
     logoSrc:
       "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_purple_cube.png",
     content: (
@@ -108,6 +112,8 @@ export const pages = {
     slug: "oikonomika",
     title: "Οικονομικά",
     subtitle: "Τα + και τα – της καθημερινότητας",
+    cubeSrc:
+      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/orange_cube.png",
     logoSrc:
       "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_orange_cube.png",
     content: (
@@ -149,6 +155,8 @@ export const pages = {
     slug: "digital",
     title: "Ψηφιακά",
     subtitle: "Σύγχρονες λύσεις για κάθε πλατφόρμα",
+    cubeSrc:
+      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/yellow_cube.png",
     logoSrc:
       "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_yellow_cube.png",
     content: (
@@ -180,6 +188,8 @@ export const pages = {
     slug: "synergasia",
     title: "Συνεργασία",
     subtitle: "Πίσω από κάθε επιτυχία υπάρχει μια δεμένη ομάδα",
+    cubeSrc:
+      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/blue_cube.png",
     logoSrc:
       "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_blue_cube.png",
     content: (
@@ -336,6 +346,8 @@ export const pages = {
     slug: "about",
     title: "Η Ροδιά",
     subtitle: "Ποια, πού, πώς, πότε, γιατί;",
+    cubeSrc:
+      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/green_cube.png",
     logoSrc:
       "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_green_cube.png",
     content: (
@@ -375,6 +387,8 @@ export const pages = {
     subtitle: "Πείτε μας το πρόβλημά σας",
     logoSrc:
       "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/menu_cubes/menu_gray_cube.png",
+    cubeSrc:
+      "https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/gray_cube.png",
     content: (
       <div>
         <p>

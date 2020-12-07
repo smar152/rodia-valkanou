@@ -5,7 +5,9 @@ import Header from "../Components/header.js";
 
 export default function Home() {
   const pageData = getPageData("home");
-  const menuItems = Object.keys(pages).filter(p => p !== "home");
+  const menuItems = Object.keys(pages).filter(
+    p => p !== "home" && p != "contact"
+  );
   const { content, title, subtitle } = pageData;
   return (
     <>
@@ -27,21 +29,18 @@ export default function Home() {
         </div>
         <div className="row">
           {menuItems.map((e, index) => (
-            <div key={index}>
+            <div
+              key={index}
+              className="col-6 col-sm-4 col-md card pt-5 pb-5 mb-2"
+            >
               <Link as={`/${pages[e].slug}`} href={`/${pages[e].slug}`}>
-                <div className={`col mb-2`}>
-                  <div className="col">
-                    <div className="row">
-                      <img
-                        src={pages[e].logoSrc}
-                        className="img-fluid mr-4 "
-                        alt="cube"
-                      />
-                    </div>
-                  </div>
-                  <div className="row">
-                    <div>{pages[e].title}</div>
-                  </div>
+                <div className={`col`}>
+                  <img
+                    src={pages[e].cubeSrc}
+                    className="img-fluid mr-4 mb-4"
+                    alt="cube"
+                  />
+                  <div>{pages[e].title}</div>
                 </div>
               </Link>
             </div>
