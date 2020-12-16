@@ -31,16 +31,18 @@ export default function Home() {
           {menuItems.map((e, index) => (
             <div
               key={index}
-              className="col-6 col-sm-4 col-md card pt-5 pb-5 mb-2"
+              className="link col-6 col-sm-4 col-md card pt-5 pb-5 mb-2"
             >
               <Link as={`/${pages[e].slug}`} href={`/${pages[e].slug}`}>
-                <div className={`col`}>
+                <div className="col">
                   <img
                     src={pages[e].cubeSrc}
                     className="img-fluid mr-4 mb-4"
                     alt="cube"
                   />
-                  <div>{pages[e].title}</div>
+                  <div className="row justify-content-center">
+                    <div>{pages[e].title}</div>
+                  </div>
                 </div>
               </Link>
             </div>
@@ -63,12 +65,19 @@ export default function Home() {
             h6 {
               font-style: italic;
             }
+            .card {
+              background-color: #f1f1f1;
+              border-color: #f1f1f1;
+            }
             .floatingImage {
               float: right;
             }
             .content {
               margin-bottom: 70px;
               padding-left: 0px;
+            }
+            .link {
+              cursor: pointer;
             }
           `}
         </style>

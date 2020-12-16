@@ -279,13 +279,32 @@ export const pages = {
         <div className="d-flex flex-row align-items-start mb-4">
           <div className="mr-4">
             <img
+              src="https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/blue_cube.png"
+              alt=""
+              width="100px"
+            />
+          </div>
+          <p>
+            5. Προσωπική Ανάπτυξη
+            <br />
+            - Ατομικές συνεδρίες
+            <br />
+            - Δημιουργία οργανωτικού πλάνου
+            <br />
+            - Υποστήριξη για προσωπική οργάνωση
+            <br />- Συμβουλευτική για επαγγελματική οργάνωση
+          </p>
+        </div>
+        <div className="d-flex flex-row align-items-start mb-4">
+          <div className="mr-4">
+            <img
               src="https://raw.githubusercontent.com/smar152/rodia-valkanou/master/logo/green_cube.png"
               alt=""
               width="100px"
             />
           </div>
           <p>
-            5. Mix and Match
+            6. Mix and Match
             <br />
             Επιλέξτε ποια υπηρεσία καλύπτει καλύτερα το φάσμα των δυσκολιών που
             επιθυμείτε να λύσετε. Κάθε υπηρεσία προσαρμόζεται και
@@ -301,7 +320,7 @@ export const pages = {
             />
           </div>
           <p>
-            6. The Total Package
+            7. The Total Package
             <br />
             Το σύνολο των υπηρεσιών σε πλήρη ανάπτυξη μέσα στα πλαίσια ανάγκης
             για κάθε επιχείρηση ή ελεύθερο επαγγελματία. Εποπτεία της εξέλιξης
@@ -397,6 +416,76 @@ export const pages = {
           περισσότερα, εάν έχετε οποιαδήποτε απορία ή ιδέα, επικοινωνήστε στο
           email: info@rodiavalkanou.com
         </p>
+        <h5>FAQ</h5>
+        <h6>
+          - ερώτηση 1: Μπορώ να επικοινωνήσω για προσωπικές υπηρεσίες οργάνωσης;
+        </h6>
+        <p>
+          - απάντηση 1: Φυσικά! Στη σελίδα "Συνεργασία" μπορείτε να βρείτε σειρά
+          υπηρεσιών που απευθύνονται σε άτομα, για την υποστήριξη και ανάπτυξη
+          υγιειών συνηθειών και πρακτικών για την καθημερινότητα, και πολλά
+          άλλα.
+        </p>
+        <h6>- ερώτηση 2: Παρέχετε απομακρυσμένες υπηρεσίες;</h6>
+        <p>
+          - απάντηση 2: Στην εποχή της πανδημίας, έχουμε μάθει να λειτουργούμε
+          άριστα εξ αποστάσεως, χωρίς να χάνεται η ουσία από τη μεταξύ μας
+          επικοινωνία και χωρίς να μειώνεται η απόδοση των υπηρεσιών μας. Οι
+          αρχικές συναντήσεις, το follow up και η παρακολούθηση / συνεδρίες
+          γίνονται με ψηφιακό τρόπο για την ασφάλεια και τη διευκόλυνση όλων,
+          καθώς και για την εξυπηρέτηση πελατών που βρίσκονται σε άλλες πόλεις ή
+          χώρες!
+        </p>
+        <h6>- ερώτηση 3: Πώς μπορώ να κάνω την πληρωμή μου;</h6>
+        <p>
+          - απάντηση 3: Η πληρωμή γίνεται μετά την έκδοση του νόμιμου
+          παραστατικού (ΤΠΥ) και μπορεί να ολοκληρωθεί με τραπεζικό έμβασμα.
+        </p>
+        <h6>- ερώτηση 4: Πόσο διαρκεί η διαδικασία της οργάνωσης;</h6>
+        <p>
+          - απάντηση 4: Εξαρτάται από τις ανάγκες κάθε ατόμου, επιχείρησης ή
+          έργου, καθώς και από τις υπηρεσίες που τελικά θα επιλεχθούν. Στην
+          έναρξη της συνεργασίας μας, μετά την αρχική εκτίμηση / μελέτη, θα σας
+          δοθεί συγκεκριμένο πλάνο βημάτων ολοκλήρωσης των παραδοτέων μαζί με το
+          χρονικό πλαίσιο στο οποίο θα πραγματοποιηθούν.
+        </p>
+        <h5>Testimonials</h5>
+        <div className="quote">
+          <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint
+            magnam aperiam delectus non dolor laborum laudantium ab dignissimos
+            repellendus harum earum atque nostrum autem quod quidem ratione
+            ipsum, natus facilis!
+            <br />- Σμαράγδα / freelancer developer
+          </p>
+        </div>
+        <div className="quote">
+          <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint
+            magnam aperiam delectus non dolor laborum laudantium ab dignissimos
+            repellendus harum earum atque nostrum autem quod quidem ratione
+            ipsum, natus facilis!
+            <br />- Αριάδνη / freelancer graphic designer
+          </p>
+        </div>
+        <div className="quote">
+          <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint
+            magnam aperiam delectus non dolor laborum laudantium ab dignissimos
+            repellendus harum earum atque nostrum autem quod quidem ratione
+            ipsum, natus facilis!
+            <br />- Νίκος / ιδιοκτήτης μικρής επιχείρησης
+          </p>
+        </div>
+        <div className="quote">
+          <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint
+            magnam aperiam delectus non dolor laborum laudantium ab dignissimos
+            repellendus harum earum atque nostrum autem quod quidem ratione
+            ipsum, natus facilis!
+            <br />- Τόνια / επαγγελματίας μοντέρ
+          </p>
+        </div>
       </div>
     ),
   },
